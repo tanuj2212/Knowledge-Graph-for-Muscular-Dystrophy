@@ -1,0 +1,159 @@
+WITH CTE AS (
+  SELECT disease.mondoid ,disease.protein_id, disease.did,disease.name,
+         ROW_NUMBER() OVER(PARTITION BY protein_id ORDER BY protein_id) AS rn
+  FROM disease
+  WHERE mondoid = 'MONDO:0020121'
+)
+SELECT *
+FROM CTE
+WHERE rn = 1;
+
+
+
+select distinct *
+from vitamin v join disease d on v.protein_id = d.protein_id  
+where d.mondoid  = 'MONDO:0020121'
+
+
+select distinct hm.metabolite_id ,hm.name as metabolite_name, p.id as protein_id,p.name as protein_name from hmdb_metabolites hm 
+join hmdb_mb2pro_xref hmpx  on hm.metabolite_id =hmpx.metabolite_id 
+join protein p on p.uniprot =hmpx.uniprot_id 
+join disease d on d.protein_id = p.id
+where d.mondoid  = 'MONDO:0020121'
+
+select distinct  p.protein1_id , p.protein2_id , p.protein1_str , p.protein2_str ,p.ppitype
+from ppi p 
+join disease d on d.protein_id = p.protein1_id or d.protein_id = p.protein1_id 
+where d.mondoid  = 'MONDO:0020121'
+
+
+select DISTINCT p.id,p.protein_id, p.name, p.pwtype 
+from pathway p 
+join disease d on d.protein_id = p.protein_id 
+where d.mondoid = 'MONDO:0020121'
+
+select DISTINCT *
+from protein p 
+join disease d on d.protein_id = p.id 
+where d.mondoid = 'MONDO:0020121'
+
+select distinct d.doid, d.name, d.def 
+from do d 
+join disease d2 on d2.name = d.name 
+where d.mondoid  = 'MONDO:0020121'   
+-- doid = DOID:9884
+
+select distinct *
+from do_parent dp 
+join do d on d.doid = dp.doid 
+where dp.doid = "DOID:9884" or dp.parent_id ="DOID:9884"
+
+select DISTINCT * 
+from mondo_xref mx 
+where mx.mondoid = 'MONDO:0020121'
+
+select DISTINCT * from temp_mondo tm where tm.mondoid = 'MONDO:0020121'
+
+join disease d on d.protein_id = e.protein_id 
+where d.mondoid  = 'MONDO:0020121'   
+
+select DISTINCT * from feature f join disease d on d.protein_id = f.protein_id where where d.mondoid  = 'MONDO:0020121'   
+
+
+select DISTINCT * from goa g  join disease d on d.protein_id = g.protein_id where d.mondoid  = 'MONDO:0020121'   
+
+
+select DISTINCT * from gtex g2   join disease d on d.protein_id = g2.protein_id where d.mondoid  = 'MONDO:0020121'   
+ 
+
+
+select DISTINCT knt.id , knt.protein_id, knt.tclin_id , knt.direction, knt.distance 
+from kegg_nearest_tclin knt  
+join disease d on d.protein_id = knt.protein_id 
+where d.mondoid  = 'MONDO:0020121'   
+
+SELECT *
+FROM kegg_distance kd
+JOIN ppi p  ON kd.pid1 = p.protein1_id AND kd.pid2 = p.protein2_id
+JOIN disease d ON kd.pid1 = d.protein_id OR kd.pid2 = d.protein_id
+where d.mondoid  = 'MONDO:0020121'   
+
+select distinct l.id, l.protein_id, l.cellid, l.zscore, l.pert_dcid , l.pert_smiles  from lincs l 
+join disease d on d.protein_id = l.protein_id 
+where d.mondoid  = 'MONDO:0020121'   
+
+select distinct * from viral_ppi vp 
+join disease d on d.protein_id = vp.protein_id 
+where d.mondoid  = 'MONDO:0020121'   
+
+select DISTINCT * from drug_activity da 
+join disease d on d.protein_id = da.target_id  
+where d.mondoid  = 'MONDO:0020121'   
+
+
+select DISTINCT * from drug_activity da 
+join disease d on d.protein_id = da.target_id 
+where d.mondoid  = 'MONDO:0020121'   
+
+SELECT DISTINCT
+    ddi.*,da.*,
+    d2.protein_id,
+    p2.name AS protein_name,
+    d.name as drug_name,
+    x.protein_id AS related_drug_protein_id,
+    p.name AS related_drug_protein_name
+FROM
+    drug_activity da
+JOIN
+    drugbank d ON da.drug = d.name
+JOIN
+    drug_drug_interaction ddi ON d.drugbank_id = ddi.drugbank_id
+JOIN
+    xref x ON ddi.related_drug_drugbank_id = x.value
+JOIN
+    protein p ON p.id = x.protein_id
+JOIN
+    disease d2 ON d2.protein_id = da.target_id
+JOIN
+    protein p2 ON d2.protein_id = p2.id
+WHERE
+    d2.mondoid = 'MONDO:0020121' AND x.xtype = 'DrugBank';
+   
+select DISTINCT  d.mondoid 
+from do d2 
+join disease d  on d.name = d2.name 
+where d2.doid in ('DOID:11723',
+    'DOID:11720',
+    'DOID:11727',
+    'DOID:11726',
+    'DOID:11724',
+    'DOID:450',
+    'DOID:9883',
+    'DOID:0050557',
+    'DOID:0060253',
+    'DOID:11719'
+)
+
+select * from disease d 
+join do d2 on d2.name = d.name 
+where d2.doid in ("DOID:11723",
+"DOID:11720",
+"DOID:11727",
+"DOID:11726",
+"DOID:11724",
+"DOID:450",
+"DOID:9883",
+"DOID:9884",
+"DOID:0050557",
+"DOID:0060253",
+"DOID:11719")
+
+select count(distinct p.id)
+from ppi p   
+join disease d2  on d2.protein_id = p.protein1_id 
+join disease d3  on d3.protein_id = p.protein2_id  
+WHERE
+    d2.mondoid = 'MONDO:0020121' or d3.mondoid = 'MONDO:0020121'
+
+
+

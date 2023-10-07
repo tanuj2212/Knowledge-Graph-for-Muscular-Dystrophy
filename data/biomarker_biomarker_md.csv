@@ -1,0 +1,3 @@
+relation,mesh_id,biomarker_name,mesh_id_related,related_biomarker
+Biomarker_correlates with_Biomarker .,MESH:D003471,Creatine Kinase (CK),MESH:D007806,Serum Lactate Dehydrogenase (LDH)
+Biomarker_correlates with_Biomarker .,MESH:D003471,Creatine Kinase (CK),MESH:D008753,Serum Creatine Kinase-MB Isoenzyme (CK-MB)

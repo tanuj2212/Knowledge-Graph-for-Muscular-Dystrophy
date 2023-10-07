@@ -1,0 +1,3 @@
+relation,display_relation,mesh_id,tissue_id,biomarker_name,tissue_name
+Biomarker_is expressed in_tissue,Is Expressed in Tissue,MESH:D003471,MESH:D009133,Creatine Kinase (CK),Muscle Tissue#1
+Biomarker_is expressed in_tissue,Is Expressed in Tissue,MESH:D003471,MESH:D009134,Creatine Kinase (CK),Muscle Tissue #2

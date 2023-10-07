@@ -1,0 +1,12 @@
+id,mondoid,db,value,equiv_to,source_info,did
+90269,MONDO:0020121,COHD,4247802,1,"{source=""MONDO:equivalentTo""}",
+90270,MONDO:0020121,DOID,9884,1,"{source=""MONDO:equivalentTo""}",
+90271,MONDO:0020121,GARD,7922,1,"{source=""MONDO:equivalentTo""}",
+90272,MONDO:0020121,ICD10,G71.0,1,"{source=""MONDO:equivalentTo"", source=""ORDO:98473/specific"", source=""ORDO:98473/e"", source=""Orphanet:98473"", source=""DOID:9884""}",
+90273,MONDO:0020121,ICD9,359.1,0,"{source=""DOID:9884""}",
+90274,MONDO:0020121,MedDRA,10028356,0,"{source=""ORDO:98473/e"", source=""Orphanet:98473""}",
+90275,MONDO:0020121,MESH,D009136,1,"{source=""MONDO:equivalentTo"", source=""ORDO:98473/e"", source=""Orphanet:98473"", source=""DOID:9884""}",
+90276,MONDO:0020121,NCIT,C84910,1,"{source=""MONDO:equivalentTo"", source=""DOID:9884""}",
+90277,MONDO:0020121,Orphanet,98473,1,"{source=""MONDO:equivalentTo""}",
+90278,MONDO:0020121,SCTID,73297009,1,"{source=""MONDO:equivalentTo"", source=""DOID:9884""}",
+90279,MONDO:0020121,UMLS,C0026850,1,"{source=""NCIT:C84910"", source=""MONDO:equivalentTo"", source=""ORDO:98473/e"", source=""Orphanet:98473"", source=""DOID:9884""}",

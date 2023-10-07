@@ -1,0 +1,7 @@
+relation,mesh_id,biomarker_name,biological_process,process_id,y_source
+"Biomarker_is a biomarker of_biological process, physiological state, or cellular event ",MESH:D003471,Creatine Kinase (CK),Muscle Inflammation,MESH:D009167,https://meshb.nlm.nih.gov/
+"Biomarker_is a biomarker of_biological process, physiological state, or cellular event ",MESH:D003471,Creatine Kinase (CK),Muscle Strength and Function,MESH:D064918,https://meshb.nlm.nih.gov/
+"Biomarker_is a biomarker of_biological process, physiological state, or cellular event ",MESH:D003471,Creatine Kinase (CK),Sarcolemmal Integrity,MESH:D056759,https://meshb.nlm.nih.gov/
+"Biomarker_is a biomarker of_biological process, physiological state, or cellular event ",MESH:D003471,Creatine Kinase (CK),Muscle Fiber Breakdown,MESH:D009137,https://meshb.nlm.nih.gov/
+"Biomarker_is a biomarker of_biological process, physiological state, or cellular event ",MESH:D003471,Creatine Kinase (CK),Muscle Degeneration,MESH:D018493,https://meshb.nlm.nih.gov/
+"Biomarker_is a biomarker of_biological process, physiological state, or cellular event ",MESH:D003471,Creatine Kinase (CK),Muscle Membrane Permeability,MESH:D056759,https://meshb.nlm.nih.gov/

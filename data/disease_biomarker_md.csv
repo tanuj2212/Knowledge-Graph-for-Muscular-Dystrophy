@@ -1,0 +1,7 @@
+relation,mesh_id,biomarker_name,name,mondoid
+Biomarker_is associated with_Disease ,MESH:D003471,Creatine Kinase (CK),congenital muscular dystrophy,MONDO:0019950
+Biomarker_is associated with_Disease ,MESH:D003471,Creatine Kinase (CK),Duchenne muscular dystrophy,MONDO:0010679
+,,,,
+,,,,
+,,,,
+,, ,,

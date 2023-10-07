@@ -1,0 +1,4 @@
+relation,mesh_id,biomarker_name,diagnostic_mesh_id,y_type,diagnostic_name,y_source
+Biomarker_measured in_Diagnostics,MESH:D003471,Creatine Kinase (CK),MESH:D009136,Diagnostics,Muscle Biopsy,https://meshb.nlm.nih.gov/
+Biomarker_measured in_Diagnostics,MESH:D003471,Creatine Kinase (CK),MESH:D055545,Diagnostics,"Genetic Testing (e.g., Next-Generation Sequencing)",https://meshb.nlm.nih.gov/
+Biomarker_measured in_Diagnostics,MESH:D003471,Creatine Kinase (CK),MESH:D055545,Diagnostics,"Genetic Testing (e.g., Multiplex Ligation-dependent Probe Amplification - MLPA)",https://meshb.nlm.nih.gov/

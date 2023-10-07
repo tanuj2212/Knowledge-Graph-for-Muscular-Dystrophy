@@ -1,0 +1,77 @@
+LOAD CSV WITH HEADERS FROM "file:///mondo.csv" AS row
+Create(:disease{mondoid:row.mondoid, name:row.name , definition:row.def, doid:row.doid})
+
+LOAD CSV WITH HEADERS FROM "file:///protein_uniprot.csv" AS row
+Create(:protein{protein_id:row.id, name:row.name , description:row.description, uniprot_id:row.uniport,
+up_version:row.up_version,
+geneid:row.geneid,
+sym:row.sym, family:row.family, chr:row.chr,
+sequence:row.seq,
+dtoid:row.dtoid,
+stringid:row.stringid,dtoclass:row.dtoclass})
+
+
+LOAD CSV WITH HEADERS FROM "file:///disease_protein.csv" AS row
+MATCH (target:disease {mondoid: row.mondoid})
+MATCH (source:protein {protein_id: row.protein_id})
+merge (source)-[:disease_protein{disease_creation_id:coalesce(row.id,"")}]->(target);
+
+
+
+
+
+LOAD CSV WITH HEADERS FROM 'file:///uberon_protein.csv' AS row
+Create(:uberon{,name:row.tissue,uberon_id:row.uberon_id})
+
+LOAD CSV WITH HEADERS FROM 'file:///uberon_protein.csv' AS row
+MATCH (source:uberon {uberon_id:row.uberon_id})
+MATCH (target:protein {protein_id: row.protein_id})
+CREATE (source)-[:expression_present{tissue_id:row.id,gender:row.gender,tpm:row.tpm,tpm_rank:row.tpm_rank,tpm_rank_bysex:row.tpm_rank_bysex,
+tpm_level:row.tpm_level,
+tpm_level_bysex:row.tpm_level_bysex,
+tpm_f:row.tpm_f,tpm_m:row.tpm_m,
+log2foldchange:row.log2foldchange,
+tau:row.tau,tau_bysex:row.tau_bysex}]->(target);
+
+
+
+
+
+LOAD CSV WITH HEADERS FROM 'file:///MD_ALL/pathway_protein.csv' AS row
+MERGE (p:pathway {
+  name: COALESCE(row.name, ""),
+  pathway_id: COALESCE(row.id, ""),
+  pwtype: COALESCE(row.pwtype, ""),
+  id_in_source: COALESCE(row.id_in_source, ""),
+  description: COALESCE(row.description, ""),
+  urls: COALESCE(row.url, "")
+});
+
+LOAD CSV WITH HEADERS FROM 'file:///pathway_protein.csv' AS row
+MATCH (p:pathway {pathway_id:row.id})
+Match(protein:protein{protein_id:row.protein_id})
+merge(protein)-[:pathway_protein]->(p)
+
+
+
+
+LOAD CSV WITH HEADERS FROM 'file:///phenotype_protein.csv' AS row
+Create(:Phenotype{name:row.term_name,phenotype_id:row.term_id,term_description:row.term_description
+});
+LOAD CSV WITH HEADERS FROM 'file:///MD_ALL/phenotype_protein.csv' AS row
+MATCH (target:Phenotype {phenotype_id:row.term_id})
+Match(source:protein{protein_id:row.protein_id})
+merge (source)-[:protein_phenotype{id:row.id,ptype:coalesce(row.ptype,""),top_level_term_id:coalesce(row.top_level_term_id,""),top_level_term_name:coalesce(row.top_level_term_name,""),p_value:coalesce(row.p_value,""),percentage_change:coalesce(row.percentage_change,""),effect_size:coalesce(row.effect_size,""),procedure_name:coalesce(row.procedure_name,""),parameter_name:coalesce(row.parameter_name,""),gp_assoc:coalesce(row.gp_assoc,""),statistical_method:coalesce(row.statistical_method,""),sex:coalesce(row.sex,"")}]->(target)
+
+
+load csv with headers from "file:///MD_ALL/doid_md.csv" as row
+create (do_md:do_md{name:row.name, doid:row.doid})
+
+
+#Quering the database
+MATCH (n:pathway) RETURN n  as type limit 25
+UNION 
+MATCH (m:Phenotype) return m as type limit 25 
+UNION  
+MATCH (p:disease) return p as type limit 25
+

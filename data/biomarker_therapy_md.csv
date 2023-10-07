@@ -1,0 +1,7 @@
+relation,display_relation,mesh_id,biomarker_name,therapy_name,therapy_id
+Biomarker _predicts the response_Therapy ,Predicts,MESH:D003471,Creatine Kinase (CK),Physical Therapy,1
+Biomarker _predicts the response_Therapy ,Predicts,MESH:D003471,Creatine Kinase (CK),Respiratory Support,2
+Biomarker _predicts the response_Therapy ,Predicts,MESH:D003471,Creatine Kinase (CK),Corticosteroids,3
+Biomarker _predicts the response_Therapy ,Predicts,MESH:D003471,Creatine Kinase (CK),Assistive Devices,4
+Biomarker _predicts the response_Therapy ,Predicts,MESH:D003471,Creatine Kinase (CK),Cardiac Management,5
+Biomarker _predicts the response_Therapy ,Predicts,MESH:D003471,Creatine Kinase (CK),Gene Therapy and Emerging Therapies,6

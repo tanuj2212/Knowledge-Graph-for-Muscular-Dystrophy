@@ -1,0 +1,805 @@
+id,target_id,protein_id,pwtype,id_in_source,name,description,url
+8816,,138,KEGG,path:hsa05414,Dilated cardiomyopathy (DCM),,http://www.kegg.jp/kegg-bin/show_pathway?hsa05414
+9358,,138,KEGG,path:hsa05412,Arrhythmogenic right ventricular cardiomyopathy (ARVC),,http://www.kegg.jp/kegg-bin/show_pathway?hsa05412
+14033,,138,KEGG,path:hsa05410,Hypertrophic cardiomyopathy (HCM),,http://www.kegg.jp/kegg-bin/show_pathway?hsa05410
+68337,,138,Reactome,R-HSA-1640170,Cell Cycle,,http://www.reactome.org/content/detail/R-HSA-1640170
+69188,,138,Reactome,R-HSA-69278,"Cell Cycle, Mitotic",,http://www.reactome.org/content/detail/R-HSA-69278
+79136,,138,Reactome,R-HSA-4419969,Depolymerisation of the Nuclear Lamina,,http://www.reactome.org/content/detail/R-HSA-4419969
+104354,,138,Reactome,R-HSA-2995383,Initiation of Nuclear Envelope Reformation,,http://www.reactome.org/content/detail/R-HSA-2995383
+105635,,138,Reactome,R-HSA-9609523,Insertion of tail-anchored proteins into the endoplasmic reticulum membrane,,http://www.reactome.org/content/detail/R-HSA-9609523
+110026,,138,Reactome,R-HSA-68886,M Phase,,http://www.reactome.org/content/detail/R-HSA-68886
+120607,,138,Reactome,R-HSA-68882,Mitotic Anaphase,,http://www.reactome.org/content/detail/R-HSA-68882
+121127,,138,Reactome,R-HSA-2555396,Mitotic Metaphase and Anaphase,,http://www.reactome.org/content/detail/R-HSA-2555396
+121453,,138,Reactome,R-HSA-68875,Mitotic Prophase,,http://www.reactome.org/content/detail/R-HSA-68875
+125906,,138,Reactome,R-HSA-2980766,Nuclear Envelope Breakdown,,http://www.reactome.org/content/detail/R-HSA-2980766
+125955,,138,Reactome,R-HSA-2995410,Nuclear Envelope Reassembly,,http://www.reactome.org/content/detail/R-HSA-2995410
+134974,,138,Reactome,R-HSA-9609507,Protein localization,,http://www.reactome.org/content/detail/R-HSA-9609507
+185719,,138,WikiPathways,WP2118_r105534,Arrhythmogenic Right Ventricular Cardiomyopathy,,http://www.wikipathways.org/instance/WP2118_r105534
+325401,,138,WikiPathways,WP4535_r104294,Envelope proteins and their potential roles in EDMD physiopathology,,http://www.wikipathways.org/instance/WP4535_r104294
+1255,,218,KEGG,path:hsa04151,PI3K-Akt signaling pathway,,http://www.kegg.jp/kegg-bin/show_pathway?hsa04151
+2977,,218,KEGG,path:hsa04512,ECM-receptor interaction,,http://www.kegg.jp/kegg-bin/show_pathway?hsa04512
+3220,,218,KEGG,path:hsa04510,Focal adhesion,,http://www.kegg.jp/kegg-bin/show_pathway?hsa04510
+11012,,218,KEGG,path:hsa04974,Protein digestion and absorption,,http://www.kegg.jp/kegg-bin/show_pathway?hsa04974
+27316,,218,KEGG,path:hsa05165,Human papillomavirus infection,,http://www.kegg.jp/kegg-bin/show_pathway?hsa05165
+35350,,218,PathwayCommons: panther,,Inflammation mediated by chemokine and cytokine signaling pathway,,http://apps.pathwaycommons.org/pathways?uri=http%3A%2F%2Fidentifiers.org%2Fpanther.pathway%2FP00031
+35591,,218,PathwayCommons: panther,,Integrin signalling pathway,,http://apps.pathwaycommons.org/pathways?uri=http%3A%2F%2Fidentifiers.org%2Fpanther.pathway%2FP00034
+39671,,218,PathwayCommons: pid,,Beta1 integrin cell surface interactions,,http://apps.pathwaycommons.org/pathways?uri=http%3A%2F%2Fpathwaycommons.org%2Fpc11%2FPathway_10f0f96341b68cece9ba6646e2222c56
+41413,,218,PathwayCommons: pid,,Syndecan-1-mediated signaling events,,http://apps.pathwaycommons.org/pathways?uri=http%3A%2F%2Fpathwaycommons.org%2Fpc11%2FPathway_2916f6be840f5295d6cb4e198bfd8942
+48348,,218,PathwayCommons: inoh,,Integrin signaling pathway ( Integrin signaling pathway ),,http://apps.pathwaycommons.org/pathways?uri=http%3A%2F%2Fpathwaycommons.org%2Fpc11%2FPathway_7869cf22fdff2057312c151361d24bb7
+51447,,218,PathwayCommons: pid,,Integrins in angiogenesis,,http://apps.pathwaycommons.org/pathways?uri=http%3A%2F%2Fpathwaycommons.org%2Fpc11%2FPathway_a1fad3aea6bed5c73670bb81501e3294
+64096,,218,Reactome,R-HSA-2022090,Assembly of collagen fibrils and other multimeric structures,,http://www.reactome.org/content/detail/R-HSA-2022090
+64648,,218,Reactome,R-HSA-422475,Axon guidance,,http://www.reactome.org/content/detail/R-HSA-422475
+73900,,218,Reactome,R-HSA-1650814,Collagen biosynthesis and modifying enzymes,,http://www.reactome.org/content/detail/R-HSA-1650814
+73963,,218,Reactome,R-HSA-8948216,Collagen chain trimerization,,http://www.reactome.org/content/detail/R-HSA-8948216
+74052,,218,Reactome,R-HSA-1474290,Collagen formation,,http://www.reactome.org/content/detail/R-HSA-1474290
+79748,,218,Reactome,R-HSA-1266738,Developmental Biology,,http://www.reactome.org/content/detail/R-HSA-1266738
+85874,,218,Reactome,R-HSA-1474244,Extracellular matrix organization,,http://www.reactome.org/content/detail/R-HSA-1474244
+122470,,218,Reactome,R-HSA-375165,NCAM signaling for neurite out-growth,,http://www.reactome.org/content/detail/R-HSA-375165
+122529,,218,Reactome,R-HSA-419037,NCAM1 interactions,,http://www.reactome.org/content/detail/R-HSA-419037
+147422,,218,Reactome,R-HSA-162582,Signal Transduction,,http://www.reactome.org/content/detail/R-HSA-162582
+153970,,218,Reactome,R-HSA-186797,Signaling by PDGF,,http://www.reactome.org/content/detail/R-HSA-186797
+154422,,218,Reactome,R-HSA-9006934,Signaling by Receptor Tyrosine Kinases,,http://www.reactome.org/content/detail/R-HSA-9006934
+207151,,218,WikiPathways,WP2911_r105863,miRNA targets in ECM and membrane receptors,,http://www.wikipathways.org/instance/WP2911_r105863
+207153,,218,WikiPathways,WP2911_r105863,miRNA targets in ECM and membrane receptors,,http://www.wikipathways.org/instance/WP2911_r105863
+207160,,218,WikiPathways,WP2911_r105863,miRNA targets in ECM and membrane receptors,,http://www.wikipathways.org/instance/WP2911_r105863
+207162,,218,WikiPathways,WP2911_r105863,miRNA targets in ECM and membrane receptors,,http://www.wikipathways.org/instance/WP2911_r105863
+209457,,218,WikiPathways,WP2643_r105661,Nanoparticle-mediated activation of receptor signaling,,http://www.wikipathways.org/instance/WP2643_r105661
+212483,,218,WikiPathways,WP2814_r102407,Mammary gland development pathway - Puberty (Stage 2 of 4),,http://www.wikipathways.org/instance/WP2814_r102407
+213188,,218,WikiPathways,WP3670_r105818,Simplified Interaction Map Between LOXL4 and Oxidative Stress Pathway,,http://www.wikipathways.org/instance/WP3670_r105818
+224356,,218,WikiPathways,WP615_r105458,Senescence and Autophagy in Cancer,,http://www.wikipathways.org/instance/WP615_r105458
+232432,,218,WikiPathways,WP453_r105624,Inflammatory Response Pathway,,http://www.wikipathways.org/instance/WP453_r105624
+233290,,218,WikiPathways,WP3680_r106167,Association Between Physico-Chemical Features and Toxicity Associated Pathways,,http://www.wikipathways.org/instance/WP3680_r106167
+266566,,218,WikiPathways,WP3932_r105465,Focal Adhesion-PI3K-Akt-mTOR-signaling pathway,,http://www.wikipathways.org/instance/WP3932_r105465
+267443,,218,WikiPathways,WP3932_r105465,Focal Adhesion-PI3K-Akt-mTOR-signaling pathway,,http://www.wikipathways.org/instance/WP3932_r105465
+267500,,218,WikiPathways,WP3932_r105465,Focal Adhesion-PI3K-Akt-mTOR-signaling pathway,,http://www.wikipathways.org/instance/WP3932_r105465
+282252,,218,WikiPathways,WP4172_r105775,PI3K-Akt Signaling Pathway,,http://www.wikipathways.org/instance/WP4172_r105775
+283573,,218,WikiPathways,WP4172_r105775,PI3K-Akt Signaling Pathway,,http://www.wikipathways.org/instance/WP4172_r105775
+302936,,218,WikiPathways,WP4239_r105464,Epithelial to mesenchymal transition in colorectal cancer,,http://www.wikipathways.org/instance/WP4239_r105464
+328760,,218,WikiPathways,WP4658_r105318,Small cell lung cancer,,http://www.wikipathways.org/instance/WP4658_r105318
+1257,,219,KEGG,path:hsa04151,PI3K-Akt signaling pathway,,http://www.kegg.jp/kegg-bin/show_pathway?hsa04151
+2979,,219,KEGG,path:hsa04512,ECM-receptor interaction,,http://www.kegg.jp/kegg-bin/show_pathway?hsa04512
+3222,,219,KEGG,path:hsa04510,Focal adhesion,,http://www.kegg.jp/kegg-bin/show_pathway?hsa04510
+11014,,219,KEGG,path:hsa04974,Protein digestion and absorption,,http://www.kegg.jp/kegg-bin/show_pathway?hsa04974
+27318,,219,KEGG,path:hsa05165,Human papillomavirus infection,,http://www.kegg.jp/kegg-bin/show_pathway?hsa05165
+35352,,219,PathwayCommons: panther,,Inflammation mediated by chemokine and cytokine signaling pathway,,http://apps.pathwaycommons.org/pathways?uri=http%3A%2F%2Fidentifiers.org%2Fpanther.pathway%2FP00031
+35593,,219,PathwayCommons: panther,,Integrin signalling pathway,,http://apps.pathwaycommons.org/pathways?uri=http%3A%2F%2Fidentifiers.org%2Fpanther.pathway%2FP00034
+39673,,219,PathwayCommons: pid,,Beta1 integrin cell surface interactions,,http://apps.pathwaycommons.org/pathways?uri=http%3A%2F%2Fpathwaycommons.org%2Fpc11%2FPathway_10f0f96341b68cece9ba6646e2222c56
+41415,,219,PathwayCommons: pid,,Syndecan-1-mediated signaling events,,http://apps.pathwaycommons.org/pathways?uri=http%3A%2F%2Fpathwaycommons.org%2Fpc11%2FPathway_2916f6be840f5295d6cb4e198bfd8942
+51449,,219,PathwayCommons: pid,,Integrins in angiogenesis,,http://apps.pathwaycommons.org/pathways?uri=http%3A%2F%2Fpathwaycommons.org%2Fpc11%2FPathway_a1fad3aea6bed5c73670bb81501e3294
+64098,,219,Reactome,R-HSA-2022090,Assembly of collagen fibrils and other multimeric structures,,http://www.reactome.org/content/detail/R-HSA-2022090
+64650,,219,Reactome,R-HSA-422475,Axon guidance,,http://www.reactome.org/content/detail/R-HSA-422475
+73902,,219,Reactome,R-HSA-1650814,Collagen biosynthesis and modifying enzymes,,http://www.reactome.org/content/detail/R-HSA-1650814
+73965,,219,Reactome,R-HSA-8948216,Collagen chain trimerization,,http://www.reactome.org/content/detail/R-HSA-8948216
+74054,,219,Reactome,R-HSA-1474290,Collagen formation,,http://www.reactome.org/content/detail/R-HSA-1474290
+79750,,219,Reactome,R-HSA-1266738,Developmental Biology,,http://www.reactome.org/content/detail/R-HSA-1266738
+85876,,219,Reactome,R-HSA-1474244,Extracellular matrix organization,,http://www.reactome.org/content/detail/R-HSA-1474244
+122472,,219,Reactome,R-HSA-375165,NCAM signaling for neurite out-growth,,http://www.reactome.org/content/detail/R-HSA-375165
+122531,,219,Reactome,R-HSA-419037,NCAM1 interactions,,http://www.reactome.org/content/detail/R-HSA-419037
+147424,,219,Reactome,R-HSA-162582,Signal Transduction,,http://www.reactome.org/content/detail/R-HSA-162582
+153972,,219,Reactome,R-HSA-186797,Signaling by PDGF,,http://www.reactome.org/content/detail/R-HSA-186797
+154424,,219,Reactome,R-HSA-9006934,Signaling by Receptor Tyrosine Kinases,,http://www.reactome.org/content/detail/R-HSA-9006934
+207148,,219,WikiPathways,WP2911_r105863,miRNA targets in ECM and membrane receptors,,http://www.wikipathways.org/instance/WP2911_r105863
+207150,,219,WikiPathways,WP2911_r105863,miRNA targets in ECM and membrane receptors,,http://www.wikipathways.org/instance/WP2911_r105863
+267430,,219,WikiPathways,WP3932_r105465,Focal Adhesion-PI3K-Akt-mTOR-signaling pathway,,http://www.wikipathways.org/instance/WP3932_r105465
+283546,,219,WikiPathways,WP4172_r105775,PI3K-Akt Signaling Pathway,,http://www.wikipathways.org/instance/WP4172_r105775
+283559,,219,WikiPathways,WP4172_r105775,PI3K-Akt Signaling Pathway,,http://www.wikipathways.org/instance/WP4172_r105775
+18,,224,UniProt,,Protein modification; protein glycosylation.,,
+15540,,224,KEGG,path:hsa00510,N-Glycan biosynthesis,,http://www.kegg.jp/kegg-bin/show_pathway?hsa00510
+20879,,224,KEGG,path:hsa01100,Metabolic pathways,,http://www.kegg.jp/kegg-bin/show_pathway?hsa01100
+47495,,224,PathwayCommons: humancyc,,dolichyl-diphosphooligosaccharide biosynthesis,,http://apps.pathwaycommons.org/pathways?uri=http%3A%2F%2Fpathwaycommons.org%2Fpc11%2FPathway_6bf6d39c0284b6d253b3fe4135db730f
+63807,,224,Reactome,R-HSA-446203,Asparagine N-linked glycosylation,,http://www.reactome.org/content/detail/R-HSA-446203
+66159,,224,Reactome,R-HSA-446193,"Biosynthesis of the N-glycan precursor (dolichol lipid-linked oligosaccharide, LLO) and transfer to a nascent protein",,http://www.reactome.org/content/detail/R-HSA-446193
+78331,,224,Reactome,R-HSA-4717374,Defective DPM1 causes DPM1-CDG (CDG-1e),,http://www.reactome.org/content/detail/R-HSA-4717374
+78334,,224,Reactome,R-HSA-4719377,Defective DPM2 causes DPM2-CDG (CDG-1u),,http://www.reactome.org/content/detail/R-HSA-4719377
+78337,,224,Reactome,R-HSA-4719360,Defective DPM3 causes DPM3-CDG (CDG-1o),,http://www.reactome.org/content/detail/R-HSA-4719360
+81043,,224,Reactome,R-HSA-1643685,Disease,,http://www.reactome.org/content/detail/R-HSA-1643685
+82024,,224,Reactome,R-HSA-5609975,Diseases associated with glycosylation precursor biosynthesis,,http://www.reactome.org/content/detail/R-HSA-5609975
+82219,,224,Reactome,R-HSA-3781865,Diseases of glycosylation,,http://www.reactome.org/content/detail/R-HSA-3781865
+117536,,224,Reactome,R-HSA-392499,Metabolism of proteins,,http://www.reactome.org/content/detail/R-HSA-392499
+132110,,224,Reactome,R-HSA-163125,Post-translational modification: synthesis of GPI-anchored proteins,,http://www.reactome.org/content/detail/R-HSA-163125
+132533,,224,Reactome,R-HSA-597592,Post-translational protein modification,,http://www.reactome.org/content/detail/R-HSA-597592
+157554,,224,Reactome,R-HSA-162699,Synthesis of dolichyl-phosphate mannose,,http://www.reactome.org/content/detail/R-HSA-162699
+157602,,224,Reactome,R-HSA-446219,Synthesis of substrates in N-glycan biosythesis,,http://www.reactome.org/content/detail/R-HSA-446219
+321378,,224,WikiPathways,WP4521_r104484,Glycosylation and related congenital defects,,http://www.wikipathways.org/instance/WP4521_r104484
+19,,225,UniProt,,Protein modification; protein glycosylation.,,
+6009,,225,KEGG,path:hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis,,http://www.kegg.jp/kegg-bin/show_pathway?hsa00563
+15541,,225,KEGG,path:hsa00510,N-Glycan biosynthesis,,http://www.kegg.jp/kegg-bin/show_pathway?hsa00510
+20880,,225,KEGG,path:hsa01100,Metabolic pathways,,http://www.kegg.jp/kegg-bin/show_pathway?hsa01100
+63808,,225,Reactome,R-HSA-446203,Asparagine N-linked glycosylation,,http://www.reactome.org/content/detail/R-HSA-446203
+66160,,225,Reactome,R-HSA-446193,"Biosynthesis of the N-glycan precursor (dolichol lipid-linked oligosaccharide, LLO) and transfer to a nascent protein",,http://www.reactome.org/content/detail/R-HSA-446193
+78332,,225,Reactome,R-HSA-4717374,Defective DPM1 causes DPM1-CDG (CDG-1e),,http://www.reactome.org/content/detail/R-HSA-4717374
+78335,,225,Reactome,R-HSA-4719377,Defective DPM2 causes DPM2-CDG (CDG-1u),,http://www.reactome.org/content/detail/R-HSA-4719377
+78338,,225,Reactome,R-HSA-4719360,Defective DPM3 causes DPM3-CDG (CDG-1o),,http://www.reactome.org/content/detail/R-HSA-4719360
+81044,,225,Reactome,R-HSA-1643685,Disease,,http://www.reactome.org/content/detail/R-HSA-1643685
+82025,,225,Reactome,R-HSA-5609975,Diseases associated with glycosylation precursor biosynthesis,,http://www.reactome.org/content/detail/R-HSA-5609975
+82220,,225,Reactome,R-HSA-3781865,Diseases of glycosylation,,http://www.reactome.org/content/detail/R-HSA-3781865
+117537,,225,Reactome,R-HSA-392499,Metabolism of proteins,,http://www.reactome.org/content/detail/R-HSA-392499
+132111,,225,Reactome,R-HSA-163125,Post-translational modification: synthesis of GPI-anchored proteins,,http://www.reactome.org/content/detail/R-HSA-163125
+132534,,225,Reactome,R-HSA-597592,Post-translational protein modification,,http://www.reactome.org/content/detail/R-HSA-597592
+157555,,225,Reactome,R-HSA-162699,Synthesis of dolichyl-phosphate mannose,,http://www.reactome.org/content/detail/R-HSA-162699
+157567,,225,Reactome,R-HSA-162710,Synthesis of glycosylphosphatidylinositol (GPI),,http://www.reactome.org/content/detail/R-HSA-162710
+157603,,225,Reactome,R-HSA-446219,Synthesis of substrates in N-glycan biosythesis,,http://www.reactome.org/content/detail/R-HSA-446219
+321382,,225,WikiPathways,WP4521_r104484,Glycosylation and related congenital defects,,http://www.wikipathways.org/instance/WP4521_r104484
+321385,,225,WikiPathways,WP4523_r104251,"Classical pathway of steroidogenesis, including diseases",,http://www.wikipathways.org/instance/WP4523_r104251
+321388,,225,WikiPathways,WP4523_r104251,"Classical pathway of steroidogenesis, including diseases",,http://www.wikipathways.org/instance/WP4523_r104251
+321393,,225,WikiPathways,WP4523_r104251,"Classical pathway of steroidogenesis, including diseases",,http://www.wikipathways.org/instance/WP4523_r104251
+20,,226,UniProt,,Protein modification; protein glycosylation.,,
+15521,,226,KEGG,path:hsa00510,N-Glycan biosynthesis,,http://www.kegg.jp/kegg-bin/show_pathway?hsa00510
+20493,,226,KEGG,path:hsa01100,Metabolic pathways,,http://www.kegg.jp/kegg-bin/show_pathway?hsa01100
+47501,,226,PathwayCommons: humancyc,,dolichyl-diphosphooligosaccharide biosynthesis,,http://apps.pathwaycommons.org/pathways?uri=http%3A%2F%2Fpathwaycommons.org%2Fpc11%2FPathway_6bf6d39c0284b6d253b3fe4135db730f
+63809,,226,Reactome,R-HSA-446203,Asparagine N-linked glycosylation,,http://www.reactome.org/content/detail/R-HSA-446203
+66161,,226,Reactome,R-HSA-446193,"Biosynthesis of the N-glycan precursor (dolichol lipid-linked oligosaccharide, LLO) and transfer to a nascent protein",,http://www.reactome.org/content/detail/R-HSA-446193
+78333,,226,Reactome,R-HSA-4717374,Defective DPM1 causes DPM1-CDG (CDG-1e),,http://www.reactome.org/content/detail/R-HSA-4717374
+78336,,226,Reactome,R-HSA-4719377,Defective DPM2 causes DPM2-CDG (CDG-1u),,http://www.reactome.org/content/detail/R-HSA-4719377
+78339,,226,Reactome,R-HSA-4719360,Defective DPM3 causes DPM3-CDG (CDG-1o),,http://www.reactome.org/content/detail/R-HSA-4719360
+81045,,226,Reactome,R-HSA-1643685,Disease,,http://www.reactome.org/content/detail/R-HSA-1643685
+82026,,226,Reactome,R-HSA-5609975,Diseases associated with glycosylation precursor biosynthesis,,http://www.reactome.org/content/detail/R-HSA-5609975
+82221,,226,Reactome,R-HSA-3781865,Diseases of glycosylation,,http://www.reactome.org/content/detail/R-HSA-3781865
+117538,,226,Reactome,R-HSA-392499,Metabolism of proteins,,http://www.reactome.org/content/detail/R-HSA-392499
+132112,,226,Reactome,R-HSA-163125,Post-translational modification: synthesis of GPI-anchored proteins,,http://www.reactome.org/content/detail/R-HSA-163125
+132535,,226,Reactome,R-HSA-597592,Post-translational protein modification,,http://www.reactome.org/content/detail/R-HSA-597592
+157556,,226,Reactome,R-HSA-162699,Synthesis of dolichyl-phosphate mannose,,http://www.reactome.org/content/detail/R-HSA-162699
+157604,,226,Reactome,R-HSA-446219,Synthesis of substrates in N-glycan biosythesis,,http://www.reactome.org/content/detail/R-HSA-446219
+321377,,226,WikiPathways,WP4521_r104484,Glycosylation and related congenital defects,,http://www.wikipathways.org/instance/WP4521_r104484
+1256,,686,KEGG,path:hsa04151,PI3K-Akt signaling pathway,,http://www.kegg.jp/kegg-bin/show_pathway?hsa04151
+2978,,686,KEGG,path:hsa04512,ECM-receptor interaction,,http://www.kegg.jp/kegg-bin/show_pathway?hsa04512
+3221,,686,KEGG,path:hsa04510,Focal adhesion,,http://www.kegg.jp/kegg-bin/show_pathway?hsa04510
+11013,,686,KEGG,path:hsa04974,Protein digestion and absorption,,http://www.kegg.jp/kegg-bin/show_pathway?hsa04974
+27317,,686,KEGG,path:hsa05165,Human papillomavirus infection,,http://www.kegg.jp/kegg-bin/show_pathway?hsa05165
+35351,,686,PathwayCommons: panther,,Inflammation mediated by chemokine and cytokine signaling pathway,,http://apps.pathwaycommons.org/pathways?uri=http%3A%2F%2Fidentifiers.org%2Fpanther.pathway%2FP00031
+35592,,686,PathwayCommons: panther,,Integrin signalling pathway,,http://apps.pathwaycommons.org/pathways?uri=http%3A%2F%2Fidentifiers.org%2Fpanther.pathway%2FP00034
+39672,,686,PathwayCommons: pid,,Beta1 integrin cell surface interactions,,http://apps.pathwaycommons.org/pathways?uri=http%3A%2F%2Fpathwaycommons.org%2Fpc11%2FPathway_10f0f96341b68cece9ba6646e2222c56
+41414,,686,PathwayCommons: pid,,Syndecan-1-mediated signaling events,,http://apps.pathwaycommons.org/pathways?uri=http%3A%2F%2Fpathwaycommons.org%2Fpc11%2FPathway_2916f6be840f5295d6cb4e198bfd8942
+48349,,686,PathwayCommons: inoh,,Integrin signaling pathway ( Integrin signaling pathway ),,http://apps.pathwaycommons.org/pathways?uri=http%3A%2F%2Fpathwaycommons.org%2Fpc11%2FPathway_7869cf22fdff2057312c151361d24bb7
+51448,,686,PathwayCommons: pid,,Integrins in angiogenesis,,http://apps.pathwaycommons.org/pathways?uri=http%3A%2F%2Fpathwaycommons.org%2Fpc11%2FPathway_a1fad3aea6bed5c73670bb81501e3294
+64097,,686,Reactome,R-HSA-2022090,Assembly of collagen fibrils and other multimeric structures,,http://www.reactome.org/content/detail/R-HSA-2022090
+64649,,686,Reactome,R-HSA-422475,Axon guidance,,http://www.reactome.org/content/detail/R-HSA-422475
+73901,,686,Reactome,R-HSA-1650814,Collagen biosynthesis and modifying enzymes,,http://www.reactome.org/content/detail/R-HSA-1650814
+73964,,686,Reactome,R-HSA-8948216,Collagen chain trimerization,,http://www.reactome.org/content/detail/R-HSA-8948216
+74053,,686,Reactome,R-HSA-1474290,Collagen formation,,http://www.reactome.org/content/detail/R-HSA-1474290
+79749,,686,Reactome,R-HSA-1266738,Developmental Biology,,http://www.reactome.org/content/detail/R-HSA-1266738
+85875,,686,Reactome,R-HSA-1474244,Extracellular matrix organization,,http://www.reactome.org/content/detail/R-HSA-1474244
+122471,,686,Reactome,R-HSA-375165,NCAM signaling for neurite out-growth,,http://www.reactome.org/content/detail/R-HSA-375165
+122530,,686,Reactome,R-HSA-419037,NCAM1 interactions,,http://www.reactome.org/content/detail/R-HSA-419037
+147423,,686,Reactome,R-HSA-162582,Signal Transduction,,http://www.reactome.org/content/detail/R-HSA-162582
+153971,,686,Reactome,R-HSA-186797,Signaling by PDGF,,http://www.reactome.org/content/detail/R-HSA-186797
+154423,,686,Reactome,R-HSA-9006934,Signaling by Receptor Tyrosine Kinases,,http://www.reactome.org/content/detail/R-HSA-9006934
+176436,,686,WikiPathways,WP306_r105598,Focal Adhesion,,http://www.wikipathways.org/instance/WP306_r105598
+207149,,686,WikiPathways,WP2911_r105863,miRNA targets in ECM and membrane receptors,,http://www.wikipathways.org/instance/WP2911_r105863
+267429,,686,WikiPathways,WP3932_r105465,Focal Adhesion-PI3K-Akt-mTOR-signaling pathway,,http://www.wikipathways.org/instance/WP3932_r105465
+283558,,686,WikiPathways,WP4172_r105775,PI3K-Akt Signaling Pathway,,http://www.wikipathways.org/instance/WP4172_r105775
+121800,,1138,Reactome,R-HSA-397014,Muscle contraction,,http://www.reactome.org/content/detail/R-HSA-397014
+156337,,1138,Reactome,R-HSA-445355,Smooth Muscle Contraction,,http://www.reactome.org/content/detail/R-HSA-445355
+67745,,1273,Reactome,R-HSA-5576891,Cardiac conduction,,http://www.reactome.org/content/detail/R-HSA-5576891
+108564,,1273,Reactome,R-HSA-5578775,Ion homeostasis,,http://www.reactome.org/content/detail/R-HSA-5578775
+121799,,1273,Reactome,R-HSA-397014,Muscle contraction,,http://www.reactome.org/content/detail/R-HSA-397014
+64327,,1881,Reactome,R-HSA-3371568,Attenuation phase,,http://www.reactome.org/content/detail/R-HSA-3371568
+70324,,1881,Reactome,R-HSA-3371556,Cellular response to heat stress,,http://www.reactome.org/content/detail/R-HSA-3371556
+70598,,1881,Reactome,R-HSA-8953897,Cellular responses to external stimuli,,http://www.reactome.org/content/detail/R-HSA-8953897
+71056,,1881,Reactome,R-HSA-2262752,Cellular responses to stress,,http://www.reactome.org/content/detail/R-HSA-2262752
+98601,,1881,Reactome,R-HSA-3371511,HSF1 activation,,http://www.reactome.org/content/detail/R-HSA-3371511
+98637,,1881,Reactome,R-HSA-3371571,HSF1-dependent transactivation,,http://www.reactome.org/content/detail/R-HSA-3371571
+140616,,1881,Reactome,R-HSA-3371453,Regulation of HSF1-mediated heat shock response,,http://www.reactome.org/content/detail/R-HSA-3371453
+8813,,2647,KEGG,path:hsa05414,Dilated cardiomyopathy (DCM),,http://www.kegg.jp/kegg-bin/show_pathway?hsa05414
+9010,,2647,KEGG,path:hsa05416,Viral myocarditis,,http://www.kegg.jp/kegg-bin/show_pathway?hsa05416
+9354,,2647,KEGG,path:hsa05412,Arrhythmogenic right ventricular cardiomyopathy (ARVC),,http://www.kegg.jp/kegg-bin/show_pathway?hsa05412
+14030,,2647,KEGG,path:hsa05410,Hypertrophic cardiomyopathy (HCM),,http://www.kegg.jp/kegg-bin/show_pathway?hsa05410
+85902,,2647,Reactome,R-HSA-1474244,Extracellular matrix organization,,http://www.reactome.org/content/detail/R-HSA-1474244
+121798,,2647,Reactome,R-HSA-397014,Muscle contraction,,http://www.reactome.org/content/detail/R-HSA-397014
+125420,,2647,Reactome,R-HSA-3000171,Non-integrin membrane-ECM interactions,,http://www.reactome.org/content/detail/R-HSA-3000171
+156722,,2647,Reactome,R-HSA-390522,Striated Muscle Contraction,,http://www.reactome.org/content/detail/R-HSA-390522
+185720,,2647,WikiPathways,WP2118_r105534,Arrhythmogenic Right Ventricular Cardiomyopathy,,http://www.wikipathways.org/instance/WP2118_r105534
+201714,,2647,WikiPathways,WP383_r105826,Striated Muscle Contraction Pathway,,http://www.wikipathways.org/instance/WP383_r105826
+210398,,2647,WikiPathways,WP2858_r105577,Ectoderm Differentiation,,http://www.wikipathways.org/instance/WP2858_r105577
+306529,,2647,WikiPathways,WP4298_r106151,Viral Acute Myocarditis,,http://www.wikipathways.org/instance/WP4298_r106151
+8812,,2724,KEGG,path:hsa05414,Dilated cardiomyopathy (DCM),,http://www.kegg.jp/kegg-bin/show_pathway?hsa05414
+9353,,2724,KEGG,path:hsa05412,Arrhythmogenic right ventricular cardiomyopathy (ARVC),,http://www.kegg.jp/kegg-bin/show_pathway?hsa05412
+14029,,2724,KEGG,path:hsa05410,Hypertrophic cardiomyopathy (HCM),,http://www.kegg.jp/kegg-bin/show_pathway?hsa05410
+54538,,2724,PathwayCommons: pid,,Aurora B signaling,,http://apps.pathwaycommons.org/pathways?uri=http%3A%2F%2Fpathwaycommons.org%2Fpc11%2FPathway_cfd9e70419f06740999d44d16c949c57
+121797,,2724,Reactome,R-HSA-397014,Muscle contraction,,http://www.reactome.org/content/detail/R-HSA-397014
+156721,,2724,Reactome,R-HSA-390522,Striated Muscle Contraction,,http://www.reactome.org/content/detail/R-HSA-390522
+185725,,2724,WikiPathways,WP2118_r105534,Arrhythmogenic Right Ventricular Cardiomyopathy,,http://www.wikipathways.org/instance/WP2118_r105534
+185727,,2724,WikiPathways,WP2118_r105534,Arrhythmogenic Right Ventricular Cardiomyopathy,,http://www.wikipathways.org/instance/WP2118_r105534
+185729,,2724,WikiPathways,WP2118_r105534,Arrhythmogenic Right Ventricular Cardiomyopathy,,http://www.wikipathways.org/instance/WP2118_r105534
+185731,,2724,WikiPathways,WP2118_r105534,Arrhythmogenic Right Ventricular Cardiomyopathy,,http://www.wikipathways.org/instance/WP2118_r105534
+185734,,2724,WikiPathways,WP2118_r105534,Arrhythmogenic Right Ventricular Cardiomyopathy,,http://www.wikipathways.org/instance/WP2118_r105534
+185736,,2724,WikiPathways,WP2118_r105534,Arrhythmogenic Right Ventricular Cardiomyopathy,,http://www.wikipathways.org/instance/WP2118_r105534
+185739,,2724,WikiPathways,WP2118_r105534,Arrhythmogenic Right Ventricular Cardiomyopathy,,http://www.wikipathways.org/instance/WP2118_r105534
+187218,,2724,WikiPathways,WP289_r106149,Myometrial Relaxation and Contraction Pathways,,http://www.wikipathways.org/instance/WP289_r106149
+192509,,2724,WikiPathways,WP244_r85199,Alpha 6 Beta 4 signaling pathway,,http://www.wikipathways.org/instance/WP244_r85199
+195507,,2724,WikiPathways,WP51_r105801,Regulation of Actin Cytoskeleton,,http://www.wikipathways.org/instance/WP51_r105801
+198856,,2724,WikiPathways,WP3872_r105802,Regulation of Apoptosis by Parathyroid Hormone-related Protein,,http://www.wikipathways.org/instance/WP3872_r105802
+201717,,2724,WikiPathways,WP383_r105826,Striated Muscle Contraction Pathway,,http://www.wikipathways.org/instance/WP383_r105826
+201724,,2724,WikiPathways,WP383_r105826,Striated Muscle Contraction Pathway,,http://www.wikipathways.org/instance/WP383_r105826
+211081,,2724,WikiPathways,WP185_r105461,Integrin-mediated Cell Adhesion,,http://www.wikipathways.org/instance/WP185_r105461
+211660,,2724,WikiPathways,WP185_r105461,Integrin-mediated Cell Adhesion,,http://www.wikipathways.org/instance/WP185_r105461
+216871,,2724,WikiPathways,WP382_r106182,MAPK Signaling Pathway,,http://www.wikipathways.org/instance/WP382_r106182
+216876,,2724,WikiPathways,WP382_r106182,MAPK Signaling Pathway,,http://www.wikipathways.org/instance/WP382_r106182
+216880,,2724,WikiPathways,WP382_r106182,MAPK Signaling Pathway,,http://www.wikipathways.org/instance/WP382_r106182
+222238,,2724,WikiPathways,WP2272_r105780,Pathogenic Escherichia coli infection,,http://www.wikipathways.org/instance/WP2272_r105780
+237319,,2724,WikiPathways,WP2636_r105556,Common Pathways Underlying Drug Addiction,,http://www.wikipathways.org/instance/WP2636_r105556
+245853,,2724,WikiPathways,WP314_r106186,Fas Ligand (FasL) pathway and Stress induction of Heat Shock Proteins (HSP) regulation,,http://www.wikipathways.org/instance/WP314_r106186
+255836,,2724,WikiPathways,WP4217_r101851,Ebola Virus Pathway on Host,,http://www.wikipathways.org/instance/WP4217_r101851
+256582,,2724,WikiPathways,WP4217_r101851,Ebola Virus Pathway on Host,,http://www.wikipathways.org/instance/WP4217_r101851
+266272,,2724,WikiPathways,WP3932_r105465,Focal Adhesion-PI3K-Akt-mTOR-signaling pathway,,http://www.wikipathways.org/instance/WP3932_r105465
+267295,,2724,WikiPathways,WP3932_r105465,Focal Adhesion-PI3K-Akt-mTOR-signaling pathway,,http://www.wikipathways.org/instance/WP3932_r105465
+281874,,2724,WikiPathways,WP4172_r105775,PI3K-Akt Signaling Pathway,,http://www.wikipathways.org/instance/WP4172_r105775
+283304,,2724,WikiPathways,WP4172_r105775,PI3K-Akt Signaling Pathway,,http://www.wikipathways.org/instance/WP4172_r105775
+292903,,2724,WikiPathways,WP4321_r106178,Thermogenesis,,http://www.wikipathways.org/instance/WP4321_r106178
+323069,,2724,WikiPathways,WP4541_r103434,Hippo-Merlin Signaling Dysregulation,,http://www.wikipathways.org/instance/WP4541_r103434
+323704,,2724,WikiPathways,WP4541_r103434,Hippo-Merlin Signaling Dysregulation,,http://www.wikipathways.org/instance/WP4541_r103434
+326345,,2724,WikiPathways,WP4534_r103303,Mechanoregulation and pathology of YAP/TAZ via Hippo and non-Hippo mechanisms,,http://www.wikipathways.org/instance/WP4534_r103303
+326370,,2724,WikiPathways,WP4534_r103303,Mechanoregulation and pathology of YAP/TAZ via Hippo and non-Hippo mechanisms,,http://www.wikipathways.org/instance/WP4534_r103303
+328350,,2724,WikiPathways,WP4658_r105318,Small cell lung cancer,,http://www.wikipathways.org/instance/WP4658_r105318
+2986,,3179,KEGG,path:hsa04512,ECM-receptor interaction,,http://www.kegg.jp/kegg-bin/show_pathway?hsa04512
+8811,,3179,KEGG,path:hsa05414,Dilated cardiomyopathy (DCM),,http://www.kegg.jp/kegg-bin/show_pathway?hsa05414
+9009,,3179,KEGG,path:hsa05416,Viral myocarditis,,http://www.kegg.jp/kegg-bin/show_pathway?hsa05416
+9352,,3179,KEGG,path:hsa05412,Arrhythmogenic right ventricular cardiomyopathy (ARVC),,http://www.kegg.jp/kegg-bin/show_pathway?hsa05412
+14027,,3179,KEGG,path:hsa05410,Hypertrophic cardiomyopathy (HCM),,http://www.kegg.jp/kegg-bin/show_pathway?hsa05410
+42964,,3179,PathwayCommons: pid,,Signaling events mediated by VEGFR1 and VEGFR2,,http://apps.pathwaycommons.org/pathways?uri=http%3A%2F%2Fpathwaycommons.org%2Fpc11%2FPathway_35ad767af9c665c77d10839f855f1d41
+64665,,3179,Reactome,R-HSA-422475,Axon guidance,,http://www.reactome.org/content/detail/R-HSA-422475
+78474,,3179,Reactome,R-HSA-5083628,"Defective POMGNT1 causes MDDGA3, MDDGB3 and MDDGC3",,http://www.reactome.org/content/detail/R-HSA-5083628
+78476,,3179,Reactome,R-HSA-5083633,"Defective POMT1 causes MDDGA1, MDDGB1 and MDDGC1",,http://www.reactome.org/content/detail/R-HSA-5083633
+78479,,3179,Reactome,R-HSA-5083629,"Defective POMT2 causes MDDGA2, MDDGB2 and MDDGC2",,http://www.reactome.org/content/detail/R-HSA-5083629
+79772,,3179,Reactome,R-HSA-1266738,Developmental Biology,,http://www.reactome.org/content/detail/R-HSA-1266738
+81026,,3179,Reactome,R-HSA-1643685,Disease,,http://www.reactome.org/content/detail/R-HSA-1643685
+81938,,3179,Reactome,R-HSA-3906995,Diseases associated with O-glycosylation of proteins,,http://www.reactome.org/content/detail/R-HSA-3906995
+82214,,3179,Reactome,R-HSA-3781865,Diseases of glycosylation,,http://www.reactome.org/content/detail/R-HSA-3781865
+83731,,3179,Reactome,R-HSA-3000178,ECM proteoglycans,,http://www.reactome.org/content/detail/R-HSA-3000178
+85898,,3179,Reactome,R-HSA-1474244,Extracellular matrix organization,,http://www.reactome.org/content/detail/R-HSA-1474244
+117474,,3179,Reactome,R-HSA-392499,Metabolism of proteins,,http://www.reactome.org/content/detail/R-HSA-392499
+125417,,3179,Reactome,R-HSA-3000171,Non-integrin membrane-ECM interactions,,http://www.reactome.org/content/detail/R-HSA-3000171
+126531,,3179,Reactome,R-HSA-5173105,O-linked glycosylation,,http://www.reactome.org/content/detail/R-HSA-5173105
+132483,,3179,Reactome,R-HSA-597592,Post-translational protein modification,,http://www.reactome.org/content/detail/R-HSA-597592
+142102,,3179,Reactome,R-HSA-9010553,Regulation of expression of SLITs and ROBOs,,http://www.reactome.org/content/detail/R-HSA-9010553
+154141,,3179,Reactome,R-HSA-376176,Signaling by ROBO receptors,,http://www.reactome.org/content/detail/R-HSA-376176
+172064,,3179,WikiPathways,WP1984_r106143,Integrated Breast Cancer Pathway,,http://www.wikipathways.org/instance/WP1984_r106143
+176988,,3179,WikiPathways,WP2572_r105791,Primary Focal Segmental Glomerulosclerosis FSGS,,http://www.wikipathways.org/instance/WP2572_r105791
+185783,,3179,WikiPathways,WP2118_r105534,Arrhythmogenic Right Ventricular Cardiomyopathy,,http://www.wikipathways.org/instance/WP2118_r105534
+306818,,3179,WikiPathways,WP4298_r106151,Viral Acute Myocarditis,,http://www.wikipathways.org/instance/WP4298_r106151
+317228,,3179,WikiPathways,WP4549_r104796,Fragile X Syndrome ,,http://www.wikipathways.org/instance/WP4549_r104796
+45080,,3705,PathwayCommons: netpath,,EGFR1,,http://apps.pathwaycommons.org/pathways?uri=http%3A%2F%2Fpathwaycommons.org%2Fpc11%2FPathway_4b78890c1a3a598caf456d814559d69f
+48106,,3705,PathwayCommons: netpath,,Alpha6Beta4Integrin,,http://apps.pathwaycommons.org/pathways?uri=http%3A%2F%2Fpathwaycommons.org%2Fpc11%2FPathway_73c04fb8096df170fc101067f5102548
+63365,,3705,Reactome,R-HSA-109581,Apoptosis,,http://www.reactome.org/content/detail/R-HSA-109581
+63509,,3705,Reactome,R-HSA-111465,Apoptotic cleavage of cellular proteins,,http://www.reactome.org/content/detail/R-HSA-111465
+63561,,3705,Reactome,R-HSA-75153,Apoptotic execution phase,,http://www.reactome.org/content/detail/R-HSA-75153
+64128,,3705,Reactome,R-HSA-2022090,Assembly of collagen fibrils and other multimeric structures,,http://www.reactome.org/content/detail/R-HSA-2022090
+68091,,3705,Reactome,R-HSA-264870,Caspase-mediated cleavage of cytoskeletal proteins,,http://www.reactome.org/content/detail/R-HSA-264870
+69697,,3705,Reactome,R-HSA-446728,Cell junction organization,,http://www.reactome.org/content/detail/R-HSA-446728
+70017,,3705,Reactome,R-HSA-1500931,Cell-Cell communication,,http://www.reactome.org/content/detail/R-HSA-1500931
+74095,,3705,Reactome,R-HSA-1474290,Collagen formation,,http://www.reactome.org/content/detail/R-HSA-1474290
+86038,,3705,Reactome,R-HSA-1474244,Extracellular matrix organization,,http://www.reactome.org/content/detail/R-HSA-1474244
+134656,,3705,Reactome,R-HSA-5357801,Programmed Cell Death,,http://www.reactome.org/content/detail/R-HSA-5357801
+165119,,3705,Reactome,R-HSA-446107,Type I hemidesmosome assembly,,http://www.reactome.org/content/detail/R-HSA-446107
+325590,,3705,WikiPathways,WP4535_r104294,Envelope proteins and their potential roles in EDMD physiopathology,,http://www.wikipathways.org/instance/WP4535_r104294
+325592,,3705,WikiPathways,WP4535_r104294,Envelope proteins and their potential roles in EDMD physiopathology,,http://www.wikipathways.org/instance/WP4535_r104294
+325596,,3705,WikiPathways,WP4535_r104294,Envelope proteins and their potential roles in EDMD physiopathology,,http://www.wikipathways.org/instance/WP4535_r104294
+326396,,3705,WikiPathways,WP4534_r103303,Mechanoregulation and pathology of YAP/TAZ via Hippo and non-Hippo mechanisms,,http://www.wikipathways.org/instance/WP4534_r103303
+326787,,3705,WikiPathways,WP4540_r103347,Pathways Regulating Hippo Signaling,,http://www.wikipathways.org/instance/WP4540_r103347
+231,,4155,UniProt,,Protein modification; protein glycosylation.,,
+15721,,4155,KEGG,path:hsa00515,Mannose type O-glycan biosynthesis,,http://www.kegg.jp/kegg-bin/show_pathway?hsa00515
+19564,,4155,KEGG,path:hsa01100,Metabolic pathways,,http://www.kegg.jp/kegg-bin/show_pathway?hsa01100
+354,,5486,UniProt,,Protein modification; protein glycosylation.,,
+15736,,5486,KEGG,path:hsa00515,Mannose type O-glycan biosynthesis,,http://www.kegg.jp/kegg-bin/show_pathway?hsa00515
+20710,,5486,KEGG,path:hsa01100,Metabolic pathways,,http://www.kegg.jp/kegg-bin/show_pathway?hsa01100
+32186,,5486,KEGG,path:hsa00040,Pentose and glucuronate interconversions,,http://www.kegg.jp/kegg-bin/show_pathway?hsa00040
+386,,5926,UniProt,,Protein modification; protein glycosylation.,,
+15729,,5926,KEGG,path:hsa00515,Mannose type O-glycan biosynthesis,,http://www.kegg.jp/kegg-bin/show_pathway?hsa00515
+19855,,5926,KEGG,path:hsa01100,Metabolic pathways,,http://www.kegg.jp/kegg-bin/show_pathway?hsa01100
+9174,,6293,KEGG,path:hsa04630,JAK-STAT signaling pathway,,http://www.kegg.jp/kegg-bin/show_pathway?hsa04630
+52487,,6293,PathwayCommons: netpath,,Notch,,http://apps.pathwaycommons.org/pathways?uri=http%3A%2F%2Fpathwaycommons.org%2Fpc11%2FPathway_b44734455bf45c037367b9647d642a68
+199740,,6293,WikiPathways,WP61_r105486,Notch Signaling Pathway,,http://www.wikipathways.org/instance/WP61_r105486
+199745,,6293,WikiPathways,WP61_r105486,Notch Signaling Pathway,,http://www.wikipathways.org/instance/WP61_r105486
+199747,,6293,WikiPathways,WP61_r105486,Notch Signaling Pathway,,http://www.wikipathways.org/instance/WP61_r105486
+199766,,6293,WikiPathways,WP61_r105486,Notch Signaling Pathway,,http://www.wikipathways.org/instance/WP61_r105486
+199779,,6293,WikiPathways,WP61_r105486,Notch Signaling Pathway,,http://www.wikipathways.org/instance/WP61_r105486
+199807,,6293,WikiPathways,WP61_r105486,Notch Signaling Pathway,,http://www.wikipathways.org/instance/WP61_r105486
+200176,,6293,WikiPathways,WP3998_r105788,Prader-Willi and Angelman Syndrome,,http://www.wikipathways.org/instance/WP3998_r105788
+200399,,6293,WikiPathways,WP2637_r105827,Structural Pathway of Interleukin 1 (IL-1),,http://www.wikipathways.org/instance/WP2637_r105827
+200969,,6293,WikiPathways,WP3845_r90027,Canonical  and Non-canonical Notch signaling,,http://www.wikipathways.org/instance/WP3845_r90027
+201087,,6293,WikiPathways,WP2857_r105645,Mesodermal Commitment Pathway,,http://www.wikipathways.org/instance/WP2857_r105645
+201324,,6293,WikiPathways,WP2857_r105645,Mesodermal Commitment Pathway,,http://www.wikipathways.org/instance/WP2857_r105645
+201338,,6293,WikiPathways,WP2857_r105645,Mesodermal Commitment Pathway,,http://www.wikipathways.org/instance/WP2857_r105645
+201542,,6293,WikiPathways,WP2878_r105776,PPAR Alpha Pathway,,http://www.wikipathways.org/instance/WP2878_r105776
+201577,,6293,WikiPathways,WP2878_r105776,PPAR Alpha Pathway,,http://www.wikipathways.org/instance/WP2878_r105776
+201651,,6293,WikiPathways,WP4147_r94394,PTF1A related regulatory pathway,,http://www.wikipathways.org/instance/WP4147_r94394
+204925,,6293,WikiPathways,WP2112_r105622,IL17 signaling pathway,,http://www.wikipathways.org/instance/WP2112_r105622
+205641,,6293,WikiPathways,WP2374_r105763,Oncostatin M Signaling Pathway,,http://www.wikipathways.org/instance/WP2374_r105763
+206518,,6293,WikiPathways,WP4336_r105488,ncRNAs involved in Wnt signaling in hepatocellular carcinoma,,http://www.wikipathways.org/instance/WP4336_r105488
+206563,,6293,WikiPathways,WP4336_r105488,ncRNAs involved in Wnt signaling in hepatocellular carcinoma,,http://www.wikipathways.org/instance/WP4336_r105488
+209044,,6293,WikiPathways,WP268_r105466,Notch Signaling,,http://www.wikipathways.org/instance/WP268_r105466
+210328,,6293,WikiPathways,WP2858_r105577,Ectoderm Differentiation,,http://www.wikipathways.org/instance/WP2858_r105577
+211810,,6293,WikiPathways,WP3527_r105790,Preimplantation Embryo,,http://www.wikipathways.org/instance/WP3527_r105790
+212429,,6293,WikiPathways,WP2814_r102407,Mammary gland development pathway - Puberty (Stage 2 of 4),,http://www.wikipathways.org/instance/WP2814_r102407
+212461,,6293,WikiPathways,WP2814_r102407,Mammary gland development pathway - Puberty (Stage 2 of 4),,http://www.wikipathways.org/instance/WP2814_r102407
+215652,,6293,WikiPathways,WP382_r106182,MAPK Signaling Pathway,,http://www.wikipathways.org/instance/WP382_r106182
+218210,,6293,WikiPathways,WP2037_r105793,Prolactin Signaling Pathway,,http://www.wikipathways.org/instance/WP2037_r105793
+218242,,6293,WikiPathways,WP2037_r105793,Prolactin Signaling Pathway,,http://www.wikipathways.org/instance/WP2037_r105793
+223003,,6293,WikiPathways,WP3972_r105479,PDGFR-beta pathway,,http://www.wikipathways.org/instance/WP3972_r105479
+225313,,6293,WikiPathways,WP4155_r105446,Endometrial cancer,,http://www.wikipathways.org/instance/WP4155_r105446
+225374,,6293,WikiPathways,WP4155_r105446,Endometrial cancer,,http://www.wikipathways.org/instance/WP4155_r105446
+227858,,6293,WikiPathways,WP45_r105450,G1 to S cell cycle control,,http://www.wikipathways.org/instance/WP45_r105450
+227902,,6293,WikiPathways,WP45_r105450,G1 to S cell cycle control,,http://www.wikipathways.org/instance/WP45_r105450
+228338,,6293,WikiPathways,WP1971_r105629,Integrated Cancer Pathway,,http://www.wikipathways.org/instance/WP1971_r105629
+230942,,6293,WikiPathways,WP2261_r105815,Signaling Pathways in Glioblastoma,,http://www.wikipathways.org/instance/WP2261_r105815
+232524,,6293,WikiPathways,WP3680_r106167,Association Between Physico-Chemical Features and Toxicity Associated Pathways,,http://www.wikipathways.org/instance/WP3680_r106167
+234959,,6293,WikiPathways,WP179_r105448,Cell Cycle,,http://www.wikipathways.org/instance/WP179_r105448
+234998,,6293,WikiPathways,WP179_r105448,Cell Cycle,,http://www.wikipathways.org/instance/WP179_r105448
+236439,,6293,WikiPathways,WP254_r105492,Apoptosis,,http://www.wikipathways.org/instance/WP254_r105492
+237977,,6293,WikiPathways,WP364_r105508,IL-6 signaling pathway,,http://www.wikipathways.org/instance/WP364_r105508
+239251,,6293,WikiPathways,WP400_r105865,p38 MAPK Signaling Pathway,,http://www.wikipathways.org/instance/WP400_r105865
+239882,,6293,WikiPathways,WP2586_r105536,Aryl Hydrocarbon Receptor,,http://www.wikipathways.org/instance/WP2586_r105536
+244032,,6293,WikiPathways,WP428_r105468,Wnt Signaling,,http://www.wikipathways.org/instance/WP428_r105468
+244079,,6293,WikiPathways,WP428_r105468,Wnt Signaling,,http://www.wikipathways.org/instance/WP428_r105468
+246922,,6293,WikiPathways,WP2446_r105447,Retinoblastoma Gene in Cancer,,http://www.wikipathways.org/instance/WP2446_r105447
+246975,,6293,WikiPathways,WP2446_r105447,Retinoblastoma Gene in Cancer,,http://www.wikipathways.org/instance/WP2446_r105447
+248155,,6293,WikiPathways,WP3651_r105781,Pathways Affected in Adenoid Cystic Carcinoma,,http://www.wikipathways.org/instance/WP3651_r105781
+248665,,6293,WikiPathways,WP3981_r97532,miRNA regulation of prostate cancer signaling pathways,,http://www.wikipathways.org/instance/WP3981_r97532
+249656,,6293,WikiPathways,WP2032_r105618,Human Thyroid Stimulating Hormone (TSH) signaling pathway,,http://www.wikipathways.org/instance/WP2032_r105618
+249691,,6293,WikiPathways,WP2032_r105618,Human Thyroid Stimulating Hormone (TSH) signaling pathway,,http://www.wikipathways.org/instance/WP2032_r105618
+252149,,6293,WikiPathways,WP581_r105439,EPO Receptor Signaling,,http://www.wikipathways.org/instance/WP581_r105439
+254481,,6293,WikiPathways,WP2380_r106165,Brain-Derived Neurotrophic Factor (BDNF) signaling pathway,,http://www.wikipathways.org/instance/WP2380_r106165
+258374,,6293,WikiPathways,WP138_r105881,Androgen receptor signaling pathway,,http://www.wikipathways.org/instance/WP138_r105881
+260063,,6293,WikiPathways,WP4249_r105491,Hedgehog Signaling Pathway,,http://www.wikipathways.org/instance/WP4249_r105491
+262088,,6293,WikiPathways,WP673_r105438,ErbB Signaling Pathway,,http://www.wikipathways.org/instance/WP673_r105438
+262149,,6293,WikiPathways,WP673_r105438,ErbB Signaling Pathway,,http://www.wikipathways.org/instance/WP673_r105438
+264144,,6293,WikiPathways,WP2332_r105630,Interleukin-11 Signaling Pathway,,http://www.wikipathways.org/instance/WP2332_r105630
+265129,,6293,WikiPathways,WP2877_r105854,Vitamin D Receptor Pathway,,http://www.wikipathways.org/instance/WP2877_r105854
+265186,,6293,WikiPathways,WP2877_r105854,Vitamin D Receptor Pathway,,http://www.wikipathways.org/instance/WP2877_r105854
+268048,,6293,WikiPathways,WP3932_r105465,Focal Adhesion-PI3K-Akt-mTOR-signaling pathway,,http://www.wikipathways.org/instance/WP3932_r105465
+268704,,6293,WikiPathways,WP395_r89828,IL-4 Signaling Pathway,,http://www.wikipathways.org/instance/WP395_r89828
+268747,,6293,WikiPathways,WP395_r89828,IL-4 Signaling Pathway,,http://www.wikipathways.org/instance/WP395_r89828
+269904,,6293,WikiPathways,WP363_r105470,Wnt Signaling Pathway,,http://www.wikipathways.org/instance/WP363_r105470
+269948,,6293,WikiPathways,WP363_r105470,Wnt Signaling Pathway,,http://www.wikipathways.org/instance/WP363_r105470
+270889,,6293,WikiPathways,WP286_r78583,IL-3 Signaling Pathway,,http://www.wikipathways.org/instance/WP286_r78583
+272618,,6293,WikiPathways,WP69_r103503,T-Cell antigen Receptor (TCR)  Signaling Pathway,,http://www.wikipathways.org/instance/WP69_r103503
+274513,,6293,WikiPathways,WP3888_r105478,VEGFA-VEGFR2 Signaling Pathway,,http://www.wikipathways.org/instance/WP3888_r105478
+277488,,6293,WikiPathways,WP4258_r105487,LncRNA involvement in canonical Wnt signaling and colorectal cancer,,http://www.wikipathways.org/instance/WP4258_r105487
+277548,,6293,WikiPathways,WP4258_r105487,LncRNA involvement in canonical Wnt signaling and colorectal cancer,,http://www.wikipathways.org/instance/WP4258_r105487
+278555,,6293,WikiPathways,WP4263_r105482,Pancreatic adenocarcinoma pathway,,http://www.wikipathways.org/instance/WP4263_r105482
+281465,,6293,WikiPathways,WP4172_r105775,PI3K-Akt Signaling Pathway,,http://www.wikipathways.org/instance/WP4172_r105775
+281554,,6293,WikiPathways,WP4172_r105775,PI3K-Akt Signaling Pathway,,http://www.wikipathways.org/instance/WP4172_r105775
+284337,,6293,WikiPathways,WP4172_r105775,PI3K-Akt Signaling Pathway,,http://www.wikipathways.org/instance/WP4172_r105775
+285528,,6293,WikiPathways,WP4255_r105677,Non-small cell lung cancer,,http://www.wikipathways.org/instance/WP4255_r105677
+287233,,6293,WikiPathways,WP4262_r105490,Breast cancer pathway,,http://www.wikipathways.org/instance/WP4262_r105490
+287289,,6293,WikiPathways,WP4262_r105490,Breast cancer pathway,,http://www.wikipathways.org/instance/WP4262_r105490
+293210,,6293,WikiPathways,WP4197_r105840,The human immune response to tuberculosis,,http://www.wikipathways.org/instance/WP4197_r105840
+295170,,6293,WikiPathways,WP4211_r95891,Transcriptional cascade regulating adipogenesis,,http://www.wikipathways.org/instance/WP4211_r95891
+296167,,6293,WikiPathways,WP4216_r105505,Chromosomal and microsatellite instability in colorectal cancer ,,http://www.wikipathways.org/instance/WP4216_r105505
+296291,,6293,WikiPathways,WP4216_r105505,Chromosomal and microsatellite instability in colorectal cancer ,,http://www.wikipathways.org/instance/WP4216_r105505
+302123,,6293,WikiPathways,WP4239_r105464,Epithelial to mesenchymal transition in colorectal cancer,,http://www.wikipathways.org/instance/WP4239_r105464
+305629,,6293,WikiPathways,WP4298_r106151,Viral Acute Myocarditis,,http://www.wikipathways.org/instance/WP4298_r106151
+311454,,6293,WikiPathways,WP4666_r105200,Hepatitis B infection,,http://www.wikipathways.org/instance/WP4666_r105200
+313053,,6293,WikiPathways,WP4666_r105200,Hepatitis B infection,,http://www.wikipathways.org/instance/WP4666_r105200
+322787,,6293,WikiPathways,WP4541_r103434,Hippo-Merlin Signaling Dysregulation,,http://www.wikipathways.org/instance/WP4541_r103434
+322844,,6293,WikiPathways,WP4541_r103434,Hippo-Merlin Signaling Dysregulation,,http://www.wikipathways.org/instance/WP4541_r103434
+323952,,6293,WikiPathways,WP4538_r104390,Regulatory circuits of the STAT3 signaling pathway,,http://www.wikipathways.org/instance/WP4538_r104390
+327953,,6293,WikiPathways,WP4658_r105318,Small cell lung cancer,,http://www.wikipathways.org/instance/WP4658_r105318
+328055,,6293,WikiPathways,WP4658_r105318,Small cell lung cancer,,http://www.wikipathways.org/instance/WP4658_r105318
+458,,6625,UniProt,,Protein modification; protein glycosylation.,,
+15737,,6625,KEGG,path:hsa00515,Mannose type O-glycan biosynthesis,,http://www.kegg.jp/kegg-bin/show_pathway?hsa00515
+20752,,6625,KEGG,path:hsa01100,Metabolic pathways,,http://www.kegg.jp/kegg-bin/show_pathway?hsa01100
+1403,,7069,KEGG,path:hsa04151,PI3K-Akt signaling pathway,,http://www.kegg.jp/kegg-bin/show_pathway?hsa04151
+3012,,7069,KEGG,path:hsa04512,ECM-receptor interaction,,http://www.kegg.jp/kegg-bin/show_pathway?hsa04512
+3277,,7069,KEGG,path:hsa04510,Focal adhesion,,http://www.kegg.jp/kegg-bin/show_pathway?hsa04510
+8833,,7069,KEGG,path:hsa05414,Dilated cardiomyopathy (DCM),,http://www.kegg.jp/kegg-bin/show_pathway?hsa05414
+9372,,7069,KEGG,path:hsa05412,Arrhythmogenic right ventricular cardiomyopathy (ARVC),,http://www.kegg.jp/kegg-bin/show_pathway?hsa05412
+14047,,7069,KEGG,path:hsa05410,Hypertrophic cardiomyopathy (HCM),,http://www.kegg.jp/kegg-bin/show_pathway?hsa05410
+14880,,7069,KEGG,path:hsa04810,Regulation of actin cytoskeleton,,http://www.kegg.jp/kegg-bin/show_pathway?hsa04810
+27478,,7069,KEGG,path:hsa05165,Human papillomavirus infection,,http://www.kegg.jp/kegg-bin/show_pathway?hsa05165
+35672,,7069,PathwayCommons: panther,,Integrin signalling pathway,,http://apps.pathwaycommons.org/pathways?uri=http%3A%2F%2Fidentifiers.org%2Fpanther.pathway%2FP00034
+39701,,7069,PathwayCommons: pid,,Beta1 integrin cell surface interactions,,http://apps.pathwaycommons.org/pathways?uri=http%3A%2F%2Fpathwaycommons.org%2Fpc11%2FPathway_10f0f96341b68cece9ba6646e2222c56
+48414,,7069,PathwayCommons: inoh,,Integrin signaling pathway ( Integrin signaling pathway ),,http://apps.pathwaycommons.org/pathways?uri=http%3A%2F%2Fpathwaycommons.org%2Fpc11%2FPathway_7869cf22fdff2057312c151361d24bb7
+51138,,7069,PathwayCommons: pid,,Plexin-D1 Signaling,,http://apps.pathwaycommons.org/pathways?uri=http%3A%2F%2Fpathwaycommons.org%2Fpc11%2FPathway_a078576dc05e0ef1c68a067bdd6bc9d9
+54950,,7069,PathwayCommons: pid,,Arf6 trafficking events,,http://apps.pathwaycommons.org/pathways?uri=http%3A%2F%2Fpathwaycommons.org%2Fpc11%2FPathway_d6b9ea86697f3d512345602707b998ee
+55567,,7069,PathwayCommons: pid,,Integrin family cell surface interactions,,http://apps.pathwaycommons.org/pathways?uri=http%3A%2F%2Fpathwaycommons.org%2Fpc11%2FPathway_dcaf08be6e5c6365a357164d3cb0987d
+83741,,7069,Reactome,R-HSA-3000178,ECM proteoglycans,,http://www.reactome.org/content/detail/R-HSA-3000178
+85943,,7069,Reactome,R-HSA-1474244,Extracellular matrix organization,,http://www.reactome.org/content/detail/R-HSA-1474244
+105957,,7069,Reactome,R-HSA-216083,Integrin cell surface interactions,,http://www.reactome.org/content/detail/R-HSA-216083
+109395,,7069,Reactome,R-HSA-3000157,Laminin interactions,,http://www.reactome.org/content/detail/R-HSA-3000157
+176329,,7069,WikiPathways,WP306_r105598,Focal Adhesion,,http://www.wikipathways.org/instance/WP306_r105598
+176331,,7069,WikiPathways,WP306_r105598,Focal Adhesion,,http://www.wikipathways.org/instance/WP306_r105598
+176862,,7069,WikiPathways,WP2572_r105791,Primary Focal Segmental Glomerulosclerosis FSGS,,http://www.wikipathways.org/instance/WP2572_r105791
+180694,,7069,WikiPathways,WP366_r105483,TGF-beta Signaling Pathway,,http://www.wikipathways.org/instance/WP366_r105483
+183769,,7069,WikiPathways,WP1455_r101973,Serotonin Transporter Activity,,http://www.wikipathways.org/instance/WP1455_r101973
+185659,,7069,WikiPathways,WP2118_r105534,Arrhythmogenic Right Ventricular Cardiomyopathy,,http://www.wikipathways.org/instance/WP2118_r105534
+185664,,7069,WikiPathways,WP2118_r105534,Arrhythmogenic Right Ventricular Cardiomyopathy,,http://www.wikipathways.org/instance/WP2118_r105534
+185794,,7069,WikiPathways,WP3301_r106199,MFAP5-mediated ovarian cancer cell motility and invasiveness,,http://www.wikipathways.org/instance/WP3301_r106199
+211325,,7069,WikiPathways,WP185_r105461,Integrin-mediated Cell Adhesion,,http://www.wikipathways.org/instance/WP185_r105461
+211329,,7069,WikiPathways,WP185_r105461,Integrin-mediated Cell Adhesion,,http://www.wikipathways.org/instance/WP185_r105461
+212257,,7069,WikiPathways,WP2806_r105407,Human Complement System,,http://www.wikipathways.org/instance/WP2806_r105407
+217916,,7069,WikiPathways,WP322_r105766,Osteoblast Signaling,,http://www.wikipathways.org/instance/WP322_r105766
+219568,,7069,WikiPathways,WP1434_r105768,Osteopontin Signaling,,http://www.wikipathways.org/instance/WP1434_r105768
+256171,,7069,WikiPathways,WP4217_r101851,Ebola Virus Pathway on Host,,http://www.wikipathways.org/instance/WP4217_r101851
+256790,,7069,WikiPathways,WP12_r106216,Osteoclast Signaling,,http://www.wikipathways.org/instance/WP12_r106216
+266854,,7069,WikiPathways,WP3932_r105465,Focal Adhesion-PI3K-Akt-mTOR-signaling pathway,,http://www.wikipathways.org/instance/WP3932_r105465
+266867,,7069,WikiPathways,WP3932_r105465,Focal Adhesion-PI3K-Akt-mTOR-signaling pathway,,http://www.wikipathways.org/instance/WP3932_r105465
+272335,,7069,WikiPathways,WP727_r105652,Monoamine Transport,,http://www.wikipathways.org/instance/WP727_r105652
+275375,,7069,WikiPathways,WP3888_r105478,VEGFA-VEGFR2 Signaling Pathway,,http://www.wikipathways.org/instance/WP3888_r105478
+282632,,7069,WikiPathways,WP4172_r105775,PI3K-Akt Signaling Pathway,,http://www.wikipathways.org/instance/WP4172_r105775
+282649,,7069,WikiPathways,WP4172_r105775,PI3K-Akt Signaling Pathway,,http://www.wikipathways.org/instance/WP4172_r105775
+320841,,7069,WikiPathways,WP4560_r103679,MFAP5 effect on permeability and motility of endothelial cells via cytoskeleton rearrangement,,http://www.wikipathways.org/instance/WP4560_r103679
+323487,,7069,WikiPathways,WP4541_r103434,Hippo-Merlin Signaling Dysregulation,,http://www.wikipathways.org/instance/WP4541_r103434
+323501,,7069,WikiPathways,WP4541_r103434,Hippo-Merlin Signaling Dysregulation,,http://www.wikipathways.org/instance/WP4541_r103434
+326417,,7069,WikiPathways,WP4534_r103303,Mechanoregulation and pathology of YAP/TAZ via Hippo and non-Hippo mechanisms,,http://www.wikipathways.org/instance/WP4534_r103303
+8883,,7626,KEGG,path:hsa05414,Dilated cardiomyopathy (DCM),,http://www.kegg.jp/kegg-bin/show_pathway?hsa05414
+14100,,7626,KEGG,path:hsa05410,Hypertrophic cardiomyopathy (HCM),,http://www.kegg.jp/kegg-bin/show_pathway?hsa05410
+99618,,7626,Reactome,R-HSA-109582,Hemostasis,,http://www.reactome.org/content/detail/R-HSA-109582
+121941,,7626,Reactome,R-HSA-397014,Muscle contraction,,http://www.reactome.org/content/detail/R-HSA-397014
+131608,,7626,Reactome,R-HSA-76002,"Platelet activation, signaling and aggregation",,http://www.reactome.org/content/detail/R-HSA-76002
+131768,,7626,Reactome,R-HSA-114608,Platelet degranulation,,http://www.reactome.org/content/detail/R-HSA-114608
+143673,,7626,Reactome,R-HSA-76005,Response to elevated platelet cytosolic Ca2+,,http://www.reactome.org/content/detail/R-HSA-76005
+156751,,7626,Reactome,R-HSA-390522,Striated Muscle Contraction,,http://www.reactome.org/content/detail/R-HSA-390522
+201753,,7626,WikiPathways,WP383_r105826,Striated Muscle Contraction Pathway,,http://www.wikipathways.org/instance/WP383_r105826
+8864,,8285,KEGG,path:hsa05414,Dilated cardiomyopathy (DCM),,http://www.kegg.jp/kegg-bin/show_pathway?hsa05414
+9131,,8285,KEGG,path:hsa05416,Viral myocarditis,,http://www.kegg.jp/kegg-bin/show_pathway?hsa05416
+9397,,8285,KEGG,path:hsa05412,Arrhythmogenic right ventricular cardiomyopathy (ARVC),,http://www.kegg.jp/kegg-bin/show_pathway?hsa05412
+14081,,8285,KEGG,path:hsa05410,Hypertrophic cardiomyopathy (HCM),,http://www.kegg.jp/kegg-bin/show_pathway?hsa05410
+185673,,8285,WikiPathways,WP2118_r105534,Arrhythmogenic Right Ventricular Cardiomyopathy,,http://www.wikipathways.org/instance/WP2118_r105534
+185675,,8285,WikiPathways,WP2118_r105534,Arrhythmogenic Right Ventricular Cardiomyopathy,,http://www.wikipathways.org/instance/WP2118_r105534
+207136,,8285,WikiPathways,WP2911_r105863,miRNA targets in ECM and membrane receptors,,http://www.wikipathways.org/instance/WP2911_r105863
+211409,,8285,WikiPathways,WP185_r105461,Integrin-mediated Cell Adhesion,,http://www.wikipathways.org/instance/WP185_r105461
+266889,,8285,WikiPathways,WP3932_r105465,Focal Adhesion-PI3K-Akt-mTOR-signaling pathway,,http://www.wikipathways.org/instance/WP3932_r105465
+275391,,8285,WikiPathways,WP3888_r105478,VEGFA-VEGFR2 Signaling Pathway,,http://www.wikipathways.org/instance/WP3888_r105478
+282675,,8285,WikiPathways,WP4172_r105775,PI3K-Akt Signaling Pathway,,http://www.wikipathways.org/instance/WP4172_r105775
+305932,,8285,WikiPathways,WP4298_r106151,Viral Acute Myocarditis,,http://www.wikipathways.org/instance/WP4298_r106151
+323537,,8285,WikiPathways,WP4541_r103434,Hippo-Merlin Signaling Dysregulation,,http://www.wikipathways.org/instance/WP4541_r103434
+326465,,8285,WikiPathways,WP4534_r103303,Mechanoregulation and pathology of YAP/TAZ via Hippo and non-Hippo mechanisms,,http://www.wikipathways.org/instance/WP4534_r103303
+8866,,8290,KEGG,path:hsa05414,Dilated cardiomyopathy (DCM),,http://www.kegg.jp/kegg-bin/show_pathway?hsa05414
+9133,,8290,KEGG,path:hsa05416,Viral myocarditis,,http://www.kegg.jp/kegg-bin/show_pathway?hsa05416
+9399,,8290,KEGG,path:hsa05412,Arrhythmogenic right ventricular cardiomyopathy (ARVC),,http://www.kegg.jp/kegg-bin/show_pathway?hsa05412
+14083,,8290,KEGG,path:hsa05410,Hypertrophic cardiomyopathy (HCM),,http://www.kegg.jp/kegg-bin/show_pathway?hsa05410
+185680,,8290,WikiPathways,WP2118_r105534,Arrhythmogenic Right Ventricular Cardiomyopathy,,http://www.wikipathways.org/instance/WP2118_r105534
+185682,,8290,WikiPathways,WP2118_r105534,Arrhythmogenic Right Ventricular Cardiomyopathy,,http://www.wikipathways.org/instance/WP2118_r105534
+211434,,8290,WikiPathways,WP185_r105461,Integrin-mediated Cell Adhesion,,http://www.wikipathways.org/instance/WP185_r105461
+266913,,8290,WikiPathways,WP3932_r105465,Focal Adhesion-PI3K-Akt-mTOR-signaling pathway,,http://www.wikipathways.org/instance/WP3932_r105465
+282692,,8290,WikiPathways,WP4172_r105775,PI3K-Akt Signaling Pathway,,http://www.wikipathways.org/instance/WP4172_r105775
+306013,,8290,WikiPathways,WP4298_r106151,Viral Acute Myocarditis,,http://www.wikipathways.org/instance/WP4298_r106151
+323553,,8290,WikiPathways,WP4541_r103434,Hippo-Merlin Signaling Dysregulation,,http://www.wikipathways.org/instance/WP4541_r103434
+326521,,8290,WikiPathways,WP4534_r103303,Mechanoregulation and pathology of YAP/TAZ via Hippo and non-Hippo mechanisms,,http://www.wikipathways.org/instance/WP4534_r103303
+173883,,8327,WikiPathways,WP15_r105808,Selenium Micronutrient Network,,http://www.wikipathways.org/instance/WP15_r105808
+173885,,8327,WikiPathways,WP15_r105808,Selenium Micronutrient Network,,http://www.wikipathways.org/instance/WP15_r105808
+173887,,8327,WikiPathways,WP15_r105808,Selenium Micronutrient Network,,http://www.wikipathways.org/instance/WP15_r105808
+173889,,8327,WikiPathways,WP15_r105808,Selenium Micronutrient Network,,http://www.wikipathways.org/instance/WP15_r105808
+202426,,8327,WikiPathways,WP28_r106208,Selenium Metabolism and Selenoproteins,,http://www.wikipathways.org/instance/WP28_r106208
+223626,,8327,WikiPathways,WP176_r106179,Folate Metabolism,,http://www.wikipathways.org/instance/WP176_r106179
+223629,,8327,WikiPathways,WP176_r106179,Folate Metabolism,,http://www.wikipathways.org/instance/WP176_r106179
+234049,,8327,WikiPathways,WP408_r105772,Oxidative Stress,,http://www.wikipathways.org/instance/WP408_r105772
+246812,,8327,WikiPathways,WP1995_r88595,Effects of Nitric Oxide,,http://www.wikipathways.org/instance/WP1995_r88595
+301715,,8327,WikiPathways,WP4224_r105796,Purine metabolism,,http://www.wikipathways.org/instance/WP4224_r105796
+310983,,8327,WikiPathways,WP4507_r106144,Molybdenum cofactor (Moco) biosynthesis,,http://www.wikipathways.org/instance/WP4507_r106144
+68713,,8639,Reactome,R-HSA-1640170,Cell Cycle,,http://www.reactome.org/content/detail/R-HSA-1640170
+111725,,8639,Reactome,R-HSA-1500620,Meiosis,,http://www.reactome.org/content/detail/R-HSA-1500620
+111843,,8639,Reactome,R-HSA-1221632,Meiotic synapsis,,http://www.reactome.org/content/detail/R-HSA-1221632
+143049,,8639,Reactome,R-HSA-1474165,Reproduction,,http://www.reactome.org/content/detail/R-HSA-1474165
+185394,,8639,WikiPathways,WP34_r105769,Ovarian Infertility Genes,,http://www.wikipathways.org/instance/WP34_r105769
+185396,,8639,WikiPathways,WP34_r105769,Ovarian Infertility Genes,,http://www.wikipathways.org/instance/WP34_r105769
+185401,,8639,WikiPathways,WP34_r105769,Ovarian Infertility Genes,,http://www.wikipathways.org/instance/WP34_r105769
+189533,,8639,WikiPathways,WP4016_r101923,DNA IR-damage and cellular response via ATR,,http://www.wikipathways.org/instance/WP4016_r101923
+190526,,8639,WikiPathways,WP710_r105500,DNA Damage Response (only ATM dependent),,http://www.wikipathways.org/instance/WP710_r105500
+194733,,8639,WikiPathways,WP3878_r105871,ATM Signaling Network in Development and Disease ,,http://www.wikipathways.org/instance/WP3878_r105871
+196254,,8639,WikiPathways,WP1530_r105862,miRNA Regulation of DNA Damage Response,,http://www.wikipathways.org/instance/WP1530_r105862
+214770,,8639,WikiPathways,WP3657_r105614,Hematopoietic Stem Cell Gene Regulation by GABP alpha/beta Complex,,http://www.wikipathways.org/instance/WP3657_r105614
+217566,,8639,WikiPathways,WP3959_r101991,DNA IR-Double Strand Breaks (DSBs) and cellular response via ATM,,http://www.wikipathways.org/instance/WP3959_r101991
+221158,,8639,WikiPathways,WP2035_r101857,Follicle Stimulating Hormone (FSH) signaling pathway,,http://www.wikipathways.org/instance/WP2035_r101857
+227820,,8639,WikiPathways,WP45_r105450,G1 to S cell cycle control,,http://www.wikipathways.org/instance/WP45_r105450
+228191,,8639,WikiPathways,WP1971_r105629,Integrated Cancer Pathway,,http://www.wikipathways.org/instance/WP1971_r105629
+228849,,8639,WikiPathways,WP117_r105603,"GPCRs, Other",,http://www.wikipathways.org/instance/WP117_r105603
+230900,,8639,WikiPathways,WP2261_r105815,Signaling Pathways in Glioblastoma,,http://www.wikipathways.org/instance/WP2261_r105815
+234927,,8639,WikiPathways,WP179_r105448,Cell Cycle,,http://www.wikipathways.org/instance/WP179_r105448
+248106,,8639,WikiPathways,WP3651_r105781,Pathways Affected in Adenoid Cystic Carcinoma,,http://www.wikipathways.org/instance/WP3651_r105781
+253313,,8639,WikiPathways,WP2942_r105565,DDX1 as a regulatory component of the Drosha microprocessor,,http://www.wikipathways.org/instance/WP2942_r105565
+257390,,8639,WikiPathways,WP24_r106176,Peptide GPCRs,,http://www.wikipathways.org/instance/WP24_r106176
+261357,,8639,WikiPathways,WP186_r105617,Homologous recombination,,http://www.wikipathways.org/instance/WP186_r105617
+287180,,8639,WikiPathways,WP4262_r105490,Breast cancer pathway,,http://www.wikipathways.org/instance/WP4262_r105490
+297808,,8639,WikiPathways,WP4312_r104287,Rett syndrome causing genes,,http://www.wikipathways.org/instance/WP4312_r104287
+325404,,8639,WikiPathways,WP4535_r104294,Envelope proteins and their potential roles in EDMD physiopathology,,http://www.wikipathways.org/instance/WP4535_r104294
+329796,,8639,WikiPathways,WP4656_r105130,Joubert Syndrome,,http://www.wikipathways.org/instance/WP4656_r105130
+68712,,8767,Reactome,R-HSA-1640170,Cell Cycle,,http://www.reactome.org/content/detail/R-HSA-1640170
+111724,,8767,Reactome,R-HSA-1500620,Meiosis,,http://www.reactome.org/content/detail/R-HSA-1500620
+111842,,8767,Reactome,R-HSA-1221632,Meiotic synapsis,,http://www.reactome.org/content/detail/R-HSA-1221632
+143048,,8767,Reactome,R-HSA-1474165,Reproduction,,http://www.reactome.org/content/detail/R-HSA-1474165
+325403,,8767,WikiPathways,WP4535_r104294,Envelope proteins and their potential roles in EDMD physiopathology,,http://www.wikipathways.org/instance/WP4535_r104294
+325406,,8767,WikiPathways,WP4535_r104294,Envelope proteins and their potential roles in EDMD physiopathology,,http://www.wikipathways.org/instance/WP4535_r104294
+325465,,8767,WikiPathways,WP4535_r104294,Envelope proteins and their potential roles in EDMD physiopathology,,http://www.wikipathways.org/instance/WP4535_r104294
+325483,,8767,WikiPathways,WP4535_r104294,Envelope proteins and their potential roles in EDMD physiopathology,,http://www.wikipathways.org/instance/WP4535_r104294
+112407,,9123,Reactome,R-HSA-199991,Membrane Trafficking,,http://www.reactome.org/content/detail/R-HSA-199991
+135595,,9123,Reactome,R-HSA-8876198,RAB GEFs exchange GTP for GDP on RABs,,http://www.reactome.org/content/detail/R-HSA-8876198
+139754,,9123,Reactome,R-HSA-9007101,Rab regulation of trafficking,,http://www.reactome.org/content/detail/R-HSA-9007101
+166631,,9123,Reactome,R-HSA-5653656,Vesicle-mediated transport,,http://www.reactome.org/content/detail/R-HSA-5653656
+325126,,9123,WikiPathways,WP4536_r103330,Genes related to primary cilium development (based on CRISPR),,http://www.wikipathways.org/instance/WP4536_r103330
+121920,,9140,Reactome,R-HSA-397014,Muscle contraction,,http://www.reactome.org/content/detail/R-HSA-397014
+156734,,9140,Reactome,R-HSA-390522,Striated Muscle Contraction,,http://www.reactome.org/content/detail/R-HSA-390522
+201710,,9140,WikiPathways,WP383_r105826,Striated Muscle Contraction Pathway,,http://www.wikipathways.org/instance/WP383_r105826
+8865,,9488,KEGG,path:hsa05414,Dilated cardiomyopathy (DCM),,http://www.kegg.jp/kegg-bin/show_pathway?hsa05414
+9132,,9488,KEGG,path:hsa05416,Viral myocarditis,,http://www.kegg.jp/kegg-bin/show_pathway?hsa05416
+9398,,9488,KEGG,path:hsa05412,Arrhythmogenic right ventricular cardiomyopathy (ARVC),,http://www.kegg.jp/kegg-bin/show_pathway?hsa05412
+14082,,9488,KEGG,path:hsa05410,Hypertrophic cardiomyopathy (HCM),,http://www.kegg.jp/kegg-bin/show_pathway?hsa05410
+185683,,9488,WikiPathways,WP2118_r105534,Arrhythmogenic Right Ventricular Cardiomyopathy,,http://www.wikipathways.org/instance/WP2118_r105534
+306015,,9488,WikiPathways,WP4298_r106151,Viral Acute Myocarditis,,http://www.wikipathways.org/instance/WP4298_r106151
+8863,,9491,KEGG,path:hsa05414,Dilated cardiomyopathy (DCM),,http://www.kegg.jp/kegg-bin/show_pathway?hsa05414
+9130,,9491,KEGG,path:hsa05416,Viral myocarditis,,http://www.kegg.jp/kegg-bin/show_pathway?hsa05416
+9396,,9491,KEGG,path:hsa05412,Arrhythmogenic right ventricular cardiomyopathy (ARVC),,http://www.kegg.jp/kegg-bin/show_pathway?hsa05412
+14080,,9491,KEGG,path:hsa05410,Hypertrophic cardiomyopathy (HCM),,http://www.kegg.jp/kegg-bin/show_pathway?hsa05410
+185676,,9491,WikiPathways,WP2118_r105534,Arrhythmogenic Right Ventricular Cardiomyopathy,,http://www.wikipathways.org/instance/WP2118_r105534
+185679,,9491,WikiPathways,WP2118_r105534,Arrhythmogenic Right Ventricular Cardiomyopathy,,http://www.wikipathways.org/instance/WP2118_r105534
+207140,,9491,WikiPathways,WP2911_r105863,miRNA targets in ECM and membrane receptors,,http://www.wikipathways.org/instance/WP2911_r105863
+211420,,9491,WikiPathways,WP185_r105461,Integrin-mediated Cell Adhesion,,http://www.wikipathways.org/instance/WP185_r105461
+266895,,9491,WikiPathways,WP3932_r105465,Focal Adhesion-PI3K-Akt-mTOR-signaling pathway,,http://www.wikipathways.org/instance/WP3932_r105465
+282683,,9491,WikiPathways,WP4172_r105775,PI3K-Akt Signaling Pathway,,http://www.wikipathways.org/instance/WP4172_r105775
+306011,,9491,WikiPathways,WP4298_r106151,Viral Acute Myocarditis,,http://www.wikipathways.org/instance/WP4298_r106151
+323546,,9491,WikiPathways,WP4541_r103434,Hippo-Merlin Signaling Dysregulation,,http://www.wikipathways.org/instance/WP4541_r103434
+326513,,9491,WikiPathways,WP4534_r103303,Mechanoregulation and pathology of YAP/TAZ via Hippo and non-Hippo mechanisms,,http://www.wikipathways.org/instance/WP4534_r103303
+573,,9963,UniProt,,Protein modification; protein glycosylation.,,
+15707,,9963,KEGG,path:hsa00514,Other types of O-glycan biosynthesis,,http://www.kegg.jp/kegg-bin/show_pathway?hsa00514
+15733,,9963,KEGG,path:hsa00515,Mannose type O-glycan biosynthesis,,http://www.kegg.jp/kegg-bin/show_pathway?hsa00515
+20083,,9963,KEGG,path:hsa01100,Metabolic pathways,,http://www.kegg.jp/kegg-bin/show_pathway?hsa01100
+78478,,9963,Reactome,R-HSA-5083633,"Defective POMT1 causes MDDGA1, MDDGB1 and MDDGC1",,http://www.reactome.org/content/detail/R-HSA-5083633
+78481,,9963,Reactome,R-HSA-5083629,"Defective POMT2 causes MDDGA2, MDDGB2 and MDDGC2",,http://www.reactome.org/content/detail/R-HSA-5083629
+81476,,9963,Reactome,R-HSA-1643685,Disease,,http://www.reactome.org/content/detail/R-HSA-1643685
+81967,,9963,Reactome,R-HSA-3906995,Diseases associated with O-glycosylation of proteins,,http://www.reactome.org/content/detail/R-HSA-3906995
+82283,,9963,Reactome,R-HSA-3781865,Diseases of glycosylation,,http://www.reactome.org/content/detail/R-HSA-3781865
+118409,,9963,Reactome,R-HSA-392499,Metabolism of proteins,,http://www.reactome.org/content/detail/R-HSA-392499
+126581,,9963,Reactome,R-HSA-5173105,O-linked glycosylation,,http://www.reactome.org/content/detail/R-HSA-5173105
+133094,,9963,Reactome,R-HSA-597592,Post-translational protein modification,,http://www.reactome.org/content/detail/R-HSA-597592
+575,,9992,UniProt,,Protein modification; protein glycosylation.,,
+15734,,9992,KEGG,path:hsa00515,Mannose type O-glycan biosynthesis,,http://www.kegg.jp/kegg-bin/show_pathway?hsa00515
+20547,,9992,KEGG,path:hsa01100,Metabolic pathways,,http://www.kegg.jp/kegg-bin/show_pathway?hsa01100
+78475,,9992,Reactome,R-HSA-5083628,"Defective POMGNT1 causes MDDGA3, MDDGB3 and MDDGC3",,http://www.reactome.org/content/detail/R-HSA-5083628
+81474,,9992,Reactome,R-HSA-1643685,Disease,,http://www.reactome.org/content/detail/R-HSA-1643685
+81965,,9992,Reactome,R-HSA-3906995,Diseases associated with O-glycosylation of proteins,,http://www.reactome.org/content/detail/R-HSA-3906995
+82281,,9992,Reactome,R-HSA-3781865,Diseases of glycosylation,,http://www.reactome.org/content/detail/R-HSA-3781865
+118405,,9992,Reactome,R-HSA-392499,Metabolism of proteins,,http://www.reactome.org/content/detail/R-HSA-392499
+126577,,9992,Reactome,R-HSA-5173105,O-linked glycosylation,,http://www.reactome.org/content/detail/R-HSA-5173105
+133090,,9992,Reactome,R-HSA-597592,Post-translational protein modification,,http://www.reactome.org/content/detail/R-HSA-597592
+633,,10554,UniProt,,Protein modification; protein glycosylation.,,
+15710,,10554,KEGG,path:hsa00514,Other types of O-glycan biosynthesis,,http://www.kegg.jp/kegg-bin/show_pathway?hsa00514
+133922,,10554,Reactome,R-HSA-1912422,Pre-NOTCH Expression and Processing,,http://www.reactome.org/content/detail/R-HSA-1912422
+133964,,10554,Reactome,R-HSA-1912399,Pre-NOTCH Processing in the Endoplasmic Reticulum,,http://www.reactome.org/content/detail/R-HSA-1912399
+148937,,10554,Reactome,R-HSA-162582,Signal Transduction,,http://www.reactome.org/content/detail/R-HSA-162582
+152932,,10554,Reactome,R-HSA-157118,Signaling by NOTCH,,http://www.reactome.org/content/detail/R-HSA-157118
+1420,,11193,KEGG,path:hsa04151,PI3K-Akt signaling pathway,,http://www.kegg.jp/kegg-bin/show_pathway?hsa04151
+3023,,11193,KEGG,path:hsa04512,ECM-receptor interaction,,http://www.kegg.jp/kegg-bin/show_pathway?hsa04512
+3290,,11193,KEGG,path:hsa04510,Focal adhesion,,http://www.kegg.jp/kegg-bin/show_pathway?hsa04510
+8843,,11193,KEGG,path:hsa05414,Dilated cardiomyopathy (DCM),,http://www.kegg.jp/kegg-bin/show_pathway?hsa05414
+9119,,11193,KEGG,path:hsa05416,Viral myocarditis,,http://www.kegg.jp/kegg-bin/show_pathway?hsa05416
+9383,,11193,KEGG,path:hsa05412,Arrhythmogenic right ventricular cardiomyopathy (ARVC),,http://www.kegg.jp/kegg-bin/show_pathway?hsa05412
+10173,,11193,KEGG,path:hsa05222,Small cell lung cancer,,http://www.kegg.jp/kegg-bin/show_pathway?hsa05222
+14057,,11193,KEGG,path:hsa05410,Hypertrophic cardiomyopathy (HCM),,http://www.kegg.jp/kegg-bin/show_pathway?hsa05410
+14335,,11193,KEGG,path:hsa05146,Amoebiasis,,http://www.kegg.jp/kegg-bin/show_pathway?hsa05146
+23825,,11193,KEGG,path:hsa05145,Toxoplasmosis,,http://www.kegg.jp/kegg-bin/show_pathway?hsa05145
+27023,,11193,KEGG,path:hsa05200,Pathways in cancer,,http://www.kegg.jp/kegg-bin/show_pathway?hsa05200
+27492,,11193,KEGG,path:hsa05165,Human papillomavirus infection,,http://www.kegg.jp/kegg-bin/show_pathway?hsa05165
+35611,,11193,PathwayCommons: panther,,Integrin signalling pathway,,http://apps.pathwaycommons.org/pathways?uri=http%3A%2F%2Fidentifiers.org%2Fpanther.pathway%2FP00034
+39684,,11193,PathwayCommons: pid,,Beta1 integrin cell surface interactions,,http://apps.pathwaycommons.org/pathways?uri=http%3A%2F%2Fpathwaycommons.org%2Fpc11%2FPathway_10f0f96341b68cece9ba6646e2222c56
+48069,,11193,PathwayCommons: netpath,,Alpha6Beta4Integrin,,http://apps.pathwaycommons.org/pathways?uri=http%3A%2F%2Fpathwaycommons.org%2Fpc11%2FPathway_73c04fb8096df170fc101067f5102548
+48923,,11193,PathwayCommons: pid,,Alpha6 beta4 integrin-ligand interactions,,http://apps.pathwaycommons.org/pathways?uri=http%3A%2F%2Fpathwaycommons.org%2Fpc11%2FPathway_7f047bf90da5fa9919ce4be79cd6e8bc
+54133,,11193,PathwayCommons: pid,,a6b1 and a6b4 Integrin signaling,,http://apps.pathwaycommons.org/pathways?uri=http%3A%2F%2Fpathwaycommons.org%2Fpc11%2FPathway_cb5d9b03bbadcc9fc930061b191d74ee
+83751,,11193,Reactome,R-HSA-3000178,ECM proteoglycans,,http://www.reactome.org/content/detail/R-HSA-3000178
+85967,,11193,Reactome,R-HSA-1474244,Extracellular matrix organization,,http://www.reactome.org/content/detail/R-HSA-1474244
+109400,,11193,Reactome,R-HSA-3000157,Laminin interactions,,http://www.reactome.org/content/detail/R-HSA-3000157
+111151,,11193,Reactome,R-HSA-8874081,MET activates PTK2 signaling,,http://www.reactome.org/content/detail/R-HSA-8874081
+111209,,11193,Reactome,R-HSA-8875878,MET promotes cell motility,,http://www.reactome.org/content/detail/R-HSA-8875878
+125431,,11193,Reactome,R-HSA-3000171,Non-integrin membrane-ECM interactions,,http://www.reactome.org/content/detail/R-HSA-3000171
+148115,,11193,Reactome,R-HSA-162582,Signal Transduction,,http://www.reactome.org/content/detail/R-HSA-162582
+152738,,11193,Reactome,R-HSA-6806834,Signaling by MET,,http://www.reactome.org/content/detail/R-HSA-6806834
+154571,,11193,Reactome,R-HSA-9006934,Signaling by Receptor Tyrosine Kinases,,http://www.reactome.org/content/detail/R-HSA-9006934
+176446,,11193,WikiPathways,WP306_r105598,Focal Adhesion,,http://www.wikipathways.org/instance/WP306_r105598
+185768,,11193,WikiPathways,WP2118_r105534,Arrhythmogenic Right Ventricular Cardiomyopathy,,http://www.wikipathways.org/instance/WP2118_r105534
+192678,,11193,WikiPathways,WP244_r85199,Alpha 6 Beta 4 signaling pathway,,http://www.wikipathways.org/instance/WP244_r85199
+267508,,11193,WikiPathways,WP3932_r105465,Focal Adhesion-PI3K-Akt-mTOR-signaling pathway,,http://www.wikipathways.org/instance/WP3932_r105465
+283644,,11193,WikiPathways,WP4172_r105775,PI3K-Akt Signaling Pathway,,http://www.wikipathways.org/instance/WP4172_r105775
+306787,,11193,WikiPathways,WP4298_r106151,Viral Acute Myocarditis,,http://www.wikipathways.org/instance/WP4298_r106151
+329695,,11193,WikiPathways,WP4658_r105318,Small cell lung cancer,,http://www.wikipathways.org/instance/WP4658_r105318
+35687,,11901,PathwayCommons: panther,,Integrin signalling pathway,,http://apps.pathwaycommons.org/pathways?uri=http%3A%2F%2Fidentifiers.org%2Fpanther.pathway%2FP00034
+41702,,11901,PathwayCommons: pid,,Integrin-linked kinase signaling,,http://apps.pathwaycommons.org/pathways?uri=http%3A%2F%2Fpathwaycommons.org%2Fpc11%2FPathway_2b429898c1df6a17e6989aae6ba99c34
+69684,,11901,Reactome,R-HSA-446728,Cell junction organization,,http://www.reactome.org/content/detail/R-HSA-446728
+69996,,11901,Reactome,R-HSA-1500931,Cell-Cell communication,,http://www.reactome.org/content/detail/R-HSA-1500931
+70112,,11901,Reactome,R-HSA-446353,Cell-extracellular matrix interactions,,http://www.reactome.org/content/detail/R-HSA-446353
+8844,,12022,KEGG,path:hsa05414,Dilated cardiomyopathy (DCM),,http://www.kegg.jp/kegg-bin/show_pathway?hsa05414
+9384,,12022,KEGG,path:hsa05412,Arrhythmogenic right ventricular cardiomyopathy (ARVC),,http://www.kegg.jp/kegg-bin/show_pathway?hsa05412
+14058,,12022,KEGG,path:hsa05410,Hypertrophic cardiomyopathy (HCM),,http://www.kegg.jp/kegg-bin/show_pathway?hsa05410
+29205,,12022,KEGG,path:hsa04210,Apoptosis,,http://www.kegg.jp/kegg-bin/show_pathway?hsa04210
+34649,,12022,PathwayCommons: panther,,FAS signaling pathway,,http://apps.pathwaycommons.org/pathways?uri=http%3A%2F%2Fidentifiers.org%2Fpanther.pathway%2FP00020
+52292,,12022,PathwayCommons: pid,,Caspase Cascade in Apoptosis,,http://apps.pathwaycommons.org/pathways?uri=http%3A%2F%2Fpathwaycommons.org%2Fpc11%2FPathway_b30a617b4255754878fce152d26a45b2
+63351,,12022,Reactome,R-HSA-109581,Apoptosis,,http://www.reactome.org/content/detail/R-HSA-109581
+63504,,12022,Reactome,R-HSA-111465,Apoptotic cleavage of cellular proteins,,http://www.reactome.org/content/detail/R-HSA-111465
+63555,,12022,Reactome,R-HSA-75153,Apoptotic execution phase,,http://www.reactome.org/content/detail/R-HSA-75153
+66270,,12022,Reactome,R-HSA-352238,Breakdown of the nuclear lamina,,http://www.reactome.org/content/detail/R-HSA-352238
+68433,,12022,Reactome,R-HSA-1640170,Cell Cycle,,http://www.reactome.org/content/detail/R-HSA-1640170
+69277,,12022,Reactome,R-HSA-69278,"Cell Cycle, Mitotic",,http://www.reactome.org/content/detail/R-HSA-69278
+79139,,12022,Reactome,R-HSA-4419969,Depolymerisation of the Nuclear Lamina,,http://www.reactome.org/content/detail/R-HSA-4419969
+79295,,12022,Reactome,R-HSA-8862803,Deregulated CDK5 triggers multiple neurodegenerative pathways in Alzheimer's disease models,,http://www.reactome.org/content/detail/R-HSA-8862803
+81286,,12022,Reactome,R-HSA-1643685,Disease,,http://www.reactome.org/content/detail/R-HSA-1643685
+82586,,12022,Reactome,R-HSA-5663202,Diseases of signal transduction,,http://www.reactome.org/content/detail/R-HSA-5663202
+100467,,12022,Reactome,R-HSA-381070,IRE1alpha activates chaperones,,http://www.reactome.org/content/detail/R-HSA-381070
+104357,,12022,Reactome,R-HSA-2995383,Initiation of Nuclear Envelope Reformation,,http://www.reactome.org/content/detail/R-HSA-2995383
+110088,,12022,Reactome,R-HSA-68886,M Phase,,http://www.reactome.org/content/detail/R-HSA-68886
+111688,,12022,Reactome,R-HSA-1500620,Meiosis,,http://www.reactome.org/content/detail/R-HSA-1500620
+111823,,12022,Reactome,R-HSA-1221632,Meiotic synapsis,,http://www.reactome.org/content/detail/R-HSA-1221632
+118030,,12022,Reactome,R-HSA-392499,Metabolism of proteins,,http://www.reactome.org/content/detail/R-HSA-392499
+120621,,12022,Reactome,R-HSA-68882,Mitotic Anaphase,,http://www.reactome.org/content/detail/R-HSA-68882
+121142,,12022,Reactome,R-HSA-2555396,Mitotic Metaphase and Anaphase,,http://www.reactome.org/content/detail/R-HSA-2555396
+121491,,12022,Reactome,R-HSA-68875,Mitotic Prophase,,http://www.reactome.org/content/detail/R-HSA-68875
+124047,,12022,Reactome,R-HSA-8863678,Neurodegenerative Diseases,,http://www.reactome.org/content/detail/R-HSA-8863678
+125909,,12022,Reactome,R-HSA-2980766,Nuclear Envelope Breakdown,,http://www.reactome.org/content/detail/R-HSA-2980766
+125958,,12022,Reactome,R-HSA-2995410,Nuclear Envelope Reassembly,,http://www.reactome.org/content/detail/R-HSA-2995410
+127197,,12022,Reactome,R-HSA-6802957,Oncogenic MAPK signaling,,http://www.reactome.org/content/detail/R-HSA-6802957
+134641,,12022,Reactome,R-HSA-5357801,Programmed Cell Death,,http://www.reactome.org/content/detail/R-HSA-5357801
+143010,,12022,Reactome,R-HSA-1474165,Reproduction,,http://www.reactome.org/content/detail/R-HSA-1474165
+149849,,12022,Reactome,R-HSA-6802952,Signaling by BRAF and RAF fusions,,http://www.reactome.org/content/detail/R-HSA-6802952
+165630,,12022,Reactome,R-HSA-381119,Unfolded Protein Response (UPR),,http://www.reactome.org/content/detail/R-HSA-381119
+167296,,12022,Reactome,R-HSA-381038,XBP1(S) activates chaperone genes,,http://www.reactome.org/content/detail/R-HSA-381038
+185745,,12022,WikiPathways,WP2118_r105534,Arrhythmogenic Right Ventricular Cardiomyopathy,,http://www.wikipathways.org/instance/WP2118_r105534
+185749,,12022,WikiPathways,WP2118_r105534,Arrhythmogenic Right Ventricular Cardiomyopathy,,http://www.wikipathways.org/instance/WP2118_r105534
+193148,,12022,WikiPathways,WP236_r105873,Adipogenesis,,http://www.wikipathways.org/instance/WP236_r105873
+195131,,12022,WikiPathways,WP51_r105801,Regulation of Actin Cytoskeleton,,http://www.wikipathways.org/instance/WP51_r105801
+207145,,12022,WikiPathways,WP2911_r105863,miRNA targets in ECM and membrane receptors,,http://www.wikipathways.org/instance/WP2911_r105863
+209401,,12022,WikiPathways,WP2643_r105661,Nanoparticle-mediated activation of receptor signaling,,http://www.wikipathways.org/instance/WP2643_r105661
+211134,,12022,WikiPathways,WP185_r105461,Integrin-mediated Cell Adhesion,,http://www.wikipathways.org/instance/WP185_r105461
+245911,,12022,WikiPathways,WP314_r106186,Fas Ligand (FasL) pathway and Stress induction of Heat Shock Proteins (HSP) regulation,,http://www.wikipathways.org/instance/WP314_r106186
+255959,,12022,WikiPathways,WP4217_r101851,Ebola Virus Pathway on Host,,http://www.wikipathways.org/instance/WP4217_r101851
+281398,,12022,WikiPathways,WP4299_r98006,Lamin A-processing pathway,,http://www.wikipathways.org/instance/WP4299_r98006
+282054,,12022,WikiPathways,WP4172_r105775,PI3K-Akt Signaling Pathway,,http://www.wikipathways.org/instance/WP4172_r105775
+323111,,12022,WikiPathways,WP4541_r103434,Hippo-Merlin Signaling Dysregulation,,http://www.wikipathways.org/instance/WP4541_r103434
+35202,,13034,PathwayCommons: panther,,Huntington disease,,http://apps.pathwaycommons.org/pathways?uri=http%3A%2F%2Fidentifiers.org%2Fpanther.pathway%2FP00029
+79044,,13034,Reactome,R-HSA-1474228,Degradation of the extracellular matrix,,http://www.reactome.org/content/detail/R-HSA-1474228
+85822,,13034,Reactome,R-HSA-1474244,Extracellular matrix organization,,http://www.reactome.org/content/detail/R-HSA-1474244
+211185,,13034,WikiPathways,WP185_r105461,Integrin-mediated Cell Adhesion,,http://www.wikipathways.org/instance/WP185_r105461
+211197,,13034,WikiPathways,WP185_r105461,Integrin-mediated Cell Adhesion,,http://www.wikipathways.org/instance/WP185_r105461
+212990,,13034,WikiPathways,WP3865_r105798,Novel intracellular components of RIG-I-like receptor (RLR) pathway,,http://www.wikipathways.org/instance/WP3865_r105798
+215244,,13034,WikiPathways,WP422_r105639,MAPK Cascade,,http://www.wikipathways.org/instance/WP422_r105639
+215897,,13034,WikiPathways,WP382_r106182,MAPK Signaling Pathway,,http://www.wikipathways.org/instance/WP382_r106182
+220094,,13034,WikiPathways,WP3594_r105555,Circadian rhythm related genes,,http://www.wikipathways.org/instance/WP3594_r105555
+221003,,13034,WikiPathways,WP524_r105600,G13 Signaling Pathway,,http://www.wikipathways.org/instance/WP524_r105600
+234108,,13034,WikiPathways,WP408_r105772,Oxidative Stress,,http://www.wikipathways.org/instance/WP408_r105772
+237215,,13034,WikiPathways,WP254_r105492,Apoptosis,,http://www.wikipathways.org/instance/WP254_r105492
+246749,,13034,WikiPathways,WP3869_r106148,Cannabinoid receptor signaling,,http://www.wikipathways.org/instance/WP3869_r106148
+254248,,13034,WikiPathways,WP2380_r106165,Brain-Derived Neurotrophic Factor (BDNF) signaling pathway,,http://www.wikipathways.org/instance/WP2380_r106165
+258265,,13034,WikiPathways,WP4150_r105856,Wnt Signaling in Kidney Disease,,http://www.wikipathways.org/instance/WP4150_r105856
+263700,,13034,WikiPathways,WP673_r105438,ErbB Signaling Pathway,,http://www.wikipathways.org/instance/WP673_r105438
+280138,,13034,WikiPathways,WP4263_r105482,Pancreatic adenocarcinoma pathway,,http://www.wikipathways.org/instance/WP4263_r105482
+297576,,13034,WikiPathways,WP4216_r105505,Chromosomal and microsatellite instability in colorectal cancer ,,http://www.wikipathways.org/instance/WP4216_r105505
+300159,,13034,WikiPathways,WP4223_r105681,Ras Signaling,,http://www.wikipathways.org/instance/WP4223_r105681
+312592,,13034,WikiPathways,WP4666_r105200,Hepatitis B infection,,http://www.wikipathways.org/instance/WP4666_r105200
+318434,,13034,WikiPathways,WP4566_r104315,Translation inhibitors in chronically activated PDGFRA cells,,http://www.wikipathways.org/instance/WP4566_r104315
+324880,,13034,WikiPathways,WP4538_r104390,Regulatory circuits of the STAT3 signaling pathway,,http://www.wikipathways.org/instance/WP4538_r104390
+326610,,13034,WikiPathways,WP4534_r103303,Mechanoregulation and pathology of YAP/TAZ via Hippo and non-Hippo mechanisms,,http://www.wikipathways.org/instance/WP4534_r103303
+3391,,13093,KEGG,path:hsa04510,Focal adhesion,,http://www.kegg.jp/kegg-bin/show_pathway?hsa04510
+9699,,13093,KEGG,path:hsa04144,Endocytosis,,http://www.kegg.jp/kegg-bin/show_pathway?hsa04144
+19204,,13093,KEGG,path:hsa05418,Fluid shear stress and atherosclerosis,,http://www.kegg.jp/kegg-bin/show_pathway?hsa05418
+24380,,13093,KEGG,path:hsa05100,Bacterial invasion of epithelial cells,,http://www.kegg.jp/kegg-bin/show_pathway?hsa05100
+25017,,13093,KEGG,path:hsa05205,Proteoglycans in cancer,,http://www.kegg.jp/kegg-bin/show_pathway?hsa05205
+43347,,13093,PathwayCommons: pid,,PDGFR-alpha signaling pathway,,http://apps.pathwaycommons.org/pathways?uri=http%3A%2F%2Fpathwaycommons.org%2Fpc11%2FPathway_3d061110ec0988b77a40485590338036
+121794,,13093,Reactome,R-HSA-397014,Muscle contraction,,http://www.reactome.org/content/detail/R-HSA-397014
+156336,,13093,Reactome,R-HSA-445355,Smooth Muscle Contraction,,http://www.reactome.org/content/detail/R-HSA-445355
+172814,,13093,WikiPathways,WP706_r105829,Sudden Infant Death Syndrome (SIDS) Susceptibility Pathways,,http://www.wikipathways.org/instance/WP706_r105829
+172817,,13093,WikiPathways,WP706_r105829,Sudden Infant Death Syndrome (SIDS) Susceptibility Pathways,,http://www.wikipathways.org/instance/WP706_r105829
+176413,,13093,WikiPathways,WP306_r105598,Focal Adhesion,,http://www.wikipathways.org/instance/WP306_r105598
+179458,,13093,WikiPathways,WP2882_r103038,Nuclear Receptors Meta-Pathway,,http://www.wikipathways.org/instance/WP2882_r103038
+184607,,13093,WikiPathways,WP2884_r105659,NRF2 pathway,,http://www.wikipathways.org/instance/WP2884_r105659
+185431,,13093,WikiPathways,WP34_r105769,Ovarian Infertility Genes,,http://www.wikipathways.org/instance/WP34_r105769
+186270,,13093,WikiPathways,WP3299_r88676,let-7 inhibition of ES cell reprogramming,,http://www.wikipathways.org/instance/WP3299_r88676
+188904,,13093,WikiPathways,WP481_r105626,Insulin Signaling,,http://www.wikipathways.org/instance/WP481_r105626
+206191,,13093,WikiPathways,WP2374_r105763,Oncostatin M Signaling Pathway,,http://www.wikipathways.org/instance/WP2374_r105763
+211674,,13093,WikiPathways,WP185_r105461,Integrin-mediated Cell Adhesion,,http://www.wikipathways.org/instance/WP185_r105461
+211904,,13093,WikiPathways,WP3527_r105790,Preimplantation Embryo,,http://www.wikipathways.org/instance/WP3527_r105790
+220254,,13093,WikiPathways,WP3594_r105555,Circadian rhythm related genes,,http://www.wikipathways.org/instance/WP3594_r105555
+250291,,13093,WikiPathways,WP2032_r105618,Human Thyroid Stimulating Hormone (TSH) signaling pathway,,http://www.wikipathways.org/instance/WP2032_r105618
+255346,,13093,WikiPathways,WP2380_r106165,Brain-Derived Neurotrophic Factor (BDNF) signaling pathway,,http://www.wikipathways.org/instance/WP2380_r106165
+256594,,13093,WikiPathways,WP4217_r101851,Ebola Virus Pathway on Host,,http://www.wikipathways.org/instance/WP4217_r101851
+275797,,13093,WikiPathways,WP3888_r105478,VEGFA-VEGFR2 Signaling Pathway,,http://www.wikipathways.org/instance/WP3888_r105478
+828,,13773,UniProt,,Protein modification; protein glycosylation.,,
+15728,,13773,KEGG,path:hsa00515,Mannose type O-glycan biosynthesis,,http://www.kegg.jp/kegg-bin/show_pathway?hsa00515
+19723,,13773,KEGG,path:hsa01100,Metabolic pathways,,http://www.kegg.jp/kegg-bin/show_pathway?hsa01100
+117265,,13773,Reactome,R-HSA-392499,Metabolism of proteins,,http://www.reactome.org/content/detail/R-HSA-392499
+126513,,13773,Reactome,R-HSA-5173105,O-linked glycosylation,,http://www.reactome.org/content/detail/R-HSA-5173105
+132323,,13773,Reactome,R-HSA-597592,Post-translational protein modification,,http://www.reactome.org/content/detail/R-HSA-597592
+6242,,15595,KEGG,path:hsa00564,Glycerophospholipid metabolism,,http://www.kegg.jp/kegg-bin/show_pathway?hsa00564
+30118,,15595,KEGG,path:hsa04725,Cholinergic synapse,,http://www.kegg.jp/kegg-bin/show_pathway?hsa04725
+36026,,15595,PathwayCommons: panther,,Muscarinic acetylcholine receptor 1 and 3 signaling pathway,,http://apps.pathwaycommons.org/pathways?uri=http%3A%2F%2Fidentifiers.org%2Fpanther.pathway%2FP00042
+36085,,15595,PathwayCommons: panther,,Muscarinic acetylcholine receptor 2 and 4 signaling pathway,,http://apps.pathwaycommons.org/pathways?uri=http%3A%2F%2Fidentifiers.org%2Fpanther.pathway%2FP00043
+36142,,15595,PathwayCommons: panther,,Nicotinic acetylcholine receptor signaling pathway,,http://apps.pathwaycommons.org/pathways?uri=http%3A%2F%2Fidentifiers.org%2Fpanther.pathway%2FP00044
+49759,,15595,PathwayCommons: pid,,ATF-2 transcription factor network,,http://apps.pathwaycommons.org/pathways?uri=http%3A%2F%2Fpathwaycommons.org%2Fpc11%2FPathway_875e0401d17fc1e8766f60dd9e0d5cff
+96838,,15595,Reactome,R-HSA-1483206,Glycerophospholipid biosynthesis,,http://www.reactome.org/content/detail/R-HSA-1483206
+112565,,15595,Reactome,R-HSA-1430728,Metabolism,,http://www.reactome.org/content/detail/R-HSA-1430728
+116143,,15595,Reactome,R-HSA-556833,Metabolism of lipids,,http://www.reactome.org/content/detail/R-HSA-556833
+117106,,15595,Reactome,R-HSA-392499,Metabolism of proteins,,http://www.reactome.org/content/detail/R-HSA-392499
+124063,,15595,Reactome,R-HSA-112316,Neuronal System,,http://www.reactome.org/content/detail/R-HSA-112316
+124472,,15595,Reactome,R-HSA-112311,Neurotransmitter clearance,,http://www.reactome.org/content/detail/R-HSA-112311
+130045,,15595,Reactome,R-HSA-2980736,Peptide hormone metabolism,,http://www.reactome.org/content/detail/R-HSA-2980736
+130841,,15595,Reactome,R-HSA-1483257,Phospholipid metabolism,,http://www.reactome.org/content/detail/R-HSA-1483257
+157245,,15595,Reactome,R-HSA-1483191,Synthesis of PC,,http://www.reactome.org/content/detail/R-HSA-1483191
+157688,,15595,Reactome,R-HSA-422085,"Synthesis, secretion, and deacylation of Ghrelin",,http://www.reactome.org/content/detail/R-HSA-422085
+163197,,15595,Reactome,R-HSA-112315,Transmission across Chemical Synapses,,http://www.reactome.org/content/detail/R-HSA-112315
+178121,,15595,WikiPathways,WP3298_r106153,Melatonin metabolism and effects,,http://www.wikipathways.org/instance/WP3298_r106153
+178123,,15595,WikiPathways,WP3298_r106153,Melatonin metabolism and effects,,http://www.wikipathways.org/instance/WP3298_r106153
+178125,,15595,WikiPathways,WP3300_r102277,Dual hijack model of Vif in HIV infection,,http://www.wikipathways.org/instance/WP3300_r102277
+178127,,15595,WikiPathways,WP3300_r102277,Dual hijack model of Vif in HIV infection,,http://www.wikipathways.org/instance/WP3300_r102277
+182950,,15595,WikiPathways,WP2355_r105563,Corticotropin-releasing hormone signaling pathway,,http://www.wikipathways.org/instance/WP2355_r105563
+232298,,15595,WikiPathways,WP528_r79855,Acetylcholine Synthesis,,http://www.wikipathways.org/instance/WP528_r79855
+235921,,15595,WikiPathways,WP2197_r106134,Endothelin Pathways,,http://www.wikipathways.org/instance/WP2197_r106134
+260019,,15595,WikiPathways,WP550_r106192,Biogenic Amine Synthesis,,http://www.wikipathways.org/instance/WP550_r106192
+272397,,15595,WikiPathways,WP727_r105652,Monoamine Transport,,http://www.wikipathways.org/instance/WP727_r105652
+108367,,15986,Reactome,R-HSA-983712,Ion channel transport,,http://www.reactome.org/content/detail/R-HSA-983712
+156622,,15986,Reactome,R-HSA-2672351,Stimuli-sensing channels,,http://www.reactome.org/content/detail/R-HSA-2672351
+164049,,15986,Reactome,R-HSA-382551,Transport of small molecules,,http://www.reactome.org/content/detail/R-HSA-382551
+993,,16312,UniProt,,Protein modification; protein ubiquitination.,,
+11600,,16312,KEGG,path:hsa04120,Ubiquitin mediated proteolysis,,http://www.kegg.jp/kegg-bin/show_pathway?hsa04120
+51687,,16312,PathwayCommons: netpath,,TNFalpha,,http://apps.pathwaycommons.org/pathways?uri=http%3A%2F%2Fpathwaycommons.org%2Fpc11%2FPathway_a4d1857eac5429f59959c1bb79278ed9
+61739,,16312,Reactome,R-HSA-1280218,Adaptive Immune System,,http://www.reactome.org/content/detail/R-HSA-1280218
+63042,,16312,Reactome,R-HSA-983168,Antigen processing: Ubiquitination & Proteasome degradation,,http://www.reactome.org/content/detail/R-HSA-983168
+73425,,16312,Reactome,R-HSA-983169,Class I MHC mediated antigen processing & presentation,,http://www.reactome.org/content/detail/R-HSA-983169
+76368,,16312,Reactome,R-HSA-1834949,Cytosolic sensors of pathogen-associated DNA,,http://www.reactome.org/content/detail/R-HSA-1834949
+102799,,16312,Reactome,R-HSA-168256,Immune System,,http://www.reactome.org/content/detail/R-HSA-168256
+105525,,16312,Reactome,R-HSA-168249,Innate Immune System,,http://www.reactome.org/content/detail/R-HSA-168249
+142358,,16312,Reactome,R-HSA-3134975,Regulation of innate immune responses to cytosolic DNA,,http://www.reactome.org/content/detail/R-HSA-3134975
+325880,,16524,WikiPathways,WP4535_r104294,Envelope proteins and their potential roles in EDMD physiopathology,,http://www.wikipathways.org/instance/WP4535_r104294
+325911,,16524,WikiPathways,WP4535_r104294,Envelope proteins and their potential roles in EDMD physiopathology,,http://www.wikipathways.org/instance/WP4535_r104294
+327173,,16524,WikiPathways,WP4540_r103347,Pathways Regulating Hippo Signaling,,http://www.wikipathways.org/instance/WP4540_r103347
+330094,,16524,WikiPathways,WP4656_r105130,Joubert Syndrome,,http://www.wikipathways.org/instance/WP4656_r105130
+36021,,17341,PathwayCommons: panther,,Muscarinic acetylcholine receptor 1 and 3 signaling pathway,,http://apps.pathwaycommons.org/pathways?uri=http%3A%2F%2Fidentifiers.org%2Fpanther.pathway%2FP00042
+36074,,17341,PathwayCommons: panther,,Muscarinic acetylcholine receptor 2 and 4 signaling pathway,,http://apps.pathwaycommons.org/pathways?uri=http%3A%2F%2Fidentifiers.org%2Fpanther.pathway%2FP00043
+36133,,17341,PathwayCommons: panther,,Nicotinic acetylcholine receptor signaling pathway,,http://apps.pathwaycommons.org/pathways?uri=http%3A%2F%2Fidentifiers.org%2Fpanther.pathway%2FP00044
+96848,,17341,Reactome,R-HSA-1483206,Glycerophospholipid biosynthesis,,http://www.reactome.org/content/detail/R-HSA-1483206
+112814,,17341,Reactome,R-HSA-1430728,Metabolism,,http://www.reactome.org/content/detail/R-HSA-1430728
+116233,,17341,Reactome,R-HSA-556833,Metabolism of lipids,,http://www.reactome.org/content/detail/R-HSA-556833
+117288,,17341,Reactome,R-HSA-392499,Metabolism of proteins,,http://www.reactome.org/content/detail/R-HSA-392499
+124088,,17341,Reactome,R-HSA-112316,Neuronal System,,http://www.reactome.org/content/detail/R-HSA-112316
+124474,,17341,Reactome,R-HSA-112311,Neurotransmitter clearance,,http://www.reactome.org/content/detail/R-HSA-112311
+130050,,17341,Reactome,R-HSA-2980736,Peptide hormone metabolism,,http://www.reactome.org/content/detail/R-HSA-2980736
+130853,,17341,Reactome,R-HSA-1483257,Phospholipid metabolism,,http://www.reactome.org/content/detail/R-HSA-1483257
+157246,,17341,Reactome,R-HSA-1483191,Synthesis of PC,,http://www.reactome.org/content/detail/R-HSA-1483191
+157689,,17341,Reactome,R-HSA-422085,"Synthesis, secretion, and deacylation of Ghrelin",,http://www.reactome.org/content/detail/R-HSA-422085
+163220,,17341,Reactome,R-HSA-112315,Transmission across Chemical Synapses,,http://www.reactome.org/content/detail/R-HSA-112315
+194935,,17341,WikiPathways,WP2645_r95179,Heroin metabolism,,http://www.wikipathways.org/instance/WP2645_r95179
+221850,,17341,WikiPathways,WP229_r105631,Irinotecan Pathway,,http://www.wikipathways.org/instance/WP229_r105631
+259752,,17341,WikiPathways,WP2826_r95176,Cocaine metabolism,,http://www.wikipathways.org/instance/WP2826_r95176
+1096,,17836,UniProt,,Nucleotide-sugar biosynthesis; GDP-alpha-D-mannose biosynthesis; GDP-alpha-D-mannose from alpha-D-mannose 1-phosphate (GTP route): step 1/1.,,
+5788,,17836,KEGG,path:hsa00051,Fructose and mannose metabolism,,http://www.kegg.jp/kegg-bin/show_pathway?hsa00051
+20079,,17836,KEGG,path:hsa01100,Metabolic pathways,,http://www.kegg.jp/kegg-bin/show_pathway?hsa01100
+29041,,17836,KEGG,path:hsa00520,Amino sugar and nucleotide sugar metabolism,,http://www.kegg.jp/kegg-bin/show_pathway?hsa00520
+37359,,17836,PathwayCommons: panther,,Mannose metabolism,,http://apps.pathwaycommons.org/pathways?uri=http%3A%2F%2Fidentifiers.org%2Fpanther.pathway%2FP02752
+40319,,17836,PathwayCommons: humancyc,,colanic acid building blocks biosynthesis,,http://apps.pathwaycommons.org/pathways?uri=http%3A%2F%2Fpathwaycommons.org%2Fpc11%2FPathway_1acb96a7e1621e378037769d0717c390
+48557,,17836,PathwayCommons: inoh,,Fructose and Mannose metabolism ( Fructose and Mannose metabolism ),,http://apps.pathwaycommons.org/pathways?uri=http%3A%2F%2Fpathwaycommons.org%2Fpc11%2FPathway_79a95b54eda9c7ea3c4da95a007e45ac
+55195,,17836,PathwayCommons: humancyc,,GDP-mannose biosynthesis,,http://apps.pathwaycommons.org/pathways?uri=http%3A%2F%2Fpathwaycommons.org%2Fpc11%2FPathway_d8aa364f7074bde7fa041d01e629ad04
+63837,,17836,Reactome,R-HSA-446203,Asparagine N-linked glycosylation,,http://www.reactome.org/content/detail/R-HSA-446203
+66170,,17836,Reactome,R-HSA-446193,"Biosynthesis of the N-glycan precursor (dolichol lipid-linked oligosaccharide, LLO) and transfer to a nascent protein",,http://www.reactome.org/content/detail/R-HSA-446193
+117771,,17836,Reactome,R-HSA-392499,Metabolism of proteins,,http://www.reactome.org/content/detail/R-HSA-392499
+132676,,17836,Reactome,R-HSA-597592,Post-translational protein modification,,http://www.reactome.org/content/detail/R-HSA-597592
+157120,,17836,Reactome,R-HSA-446205,Synthesis of GDP-mannose,,http://www.reactome.org/content/detail/R-HSA-446205
+157613,,17836,Reactome,R-HSA-446219,Synthesis of substrates in N-glycan biosythesis,,http://www.reactome.org/content/detail/R-HSA-446219
+321364,,17836,WikiPathways,WP4521_r104484,Glycosylation and related congenital defects,,http://www.wikipathways.org/instance/WP4521_r104484
+14494,,18683,KEGG,path:hsa03015,mRNA surveillance pathway,,http://www.kegg.jp/kegg-bin/show_pathway?hsa03015
+28688,,18683,KEGG,path:hsa05164,Influenza A,,http://www.kegg.jp/kegg-bin/show_pathway?hsa05164
+81430,,18683,Reactome,R-HSA-1643685,Disease,,http://www.reactome.org/content/detail/R-HSA-1643685
+94279,,18683,Reactome,R-HSA-74160,Gene expression (Transcription),,http://www.reactome.org/content/detail/R-HSA-74160
+100209,,18683,Reactome,R-HSA-168253,Host Interactions with Influenza Factors,,http://www.reactome.org/content/detail/R-HSA-168253
+103487,,18683,Reactome,R-HSA-5663205,Infectious disease,,http://www.reactome.org/content/detail/R-HSA-5663205
+103786,,18683,Reactome,R-HSA-168254,Influenza Infection,,http://www.reactome.org/content/detail/R-HSA-168254
+104208,,18683,Reactome,R-HSA-168315,Inhibition of Host mRNA Processing and RNA Silencing,,http://www.reactome.org/content/detail/R-HSA-168315
+114936,,18683,Reactome,R-HSA-8953854,Metabolism of RNA,,http://www.reactome.org/content/detail/R-HSA-8953854
+122991,,18683,Reactome,R-HSA-168276,NS1 Mediated Effects on Host Pathways,,http://www.reactome.org/content/detail/R-HSA-168276
+134273,,18683,Reactome,R-HSA-72203,Processing of Capped Intron-Containing Pre-mRNA,,http://www.reactome.org/content/detail/R-HSA-72203
+134420,,18683,Reactome,R-HSA-75067,Processing of Capped Intronless Pre-mRNA,,http://www.reactome.org/content/detail/R-HSA-75067
+134525,,18683,Reactome,R-HSA-77595,Processing of Intronless Pre-mRNAs,,http://www.reactome.org/content/detail/R-HSA-77595
+137823,,18683,Reactome,R-HSA-73857,RNA Polymerase II Transcription,,http://www.reactome.org/content/detail/R-HSA-73857
+138818,,18683,Reactome,R-HSA-73856,RNA Polymerase II Transcription Termination,,http://www.reactome.org/content/detail/R-HSA-73856
+167515,,18683,Reactome,R-HSA-72187,mRNA 3'-end processing,,http://www.reactome.org/content/detail/R-HSA-72187
+167670,,18683,Reactome,R-HSA-72172,mRNA Splicing,,http://www.reactome.org/content/detail/R-HSA-72172
+167858,,18683,Reactome,R-HSA-72163,mRNA Splicing - Major Pathway,,http://www.reactome.org/content/detail/R-HSA-72163
+177148,,18683,WikiPathways,WP411_r105857,mRNA Processing,,http://www.wikipathways.org/instance/WP411_r105857
+9976,,18866,KEGG,path:hsa04530,Tight junction,,http://www.kegg.jp/kegg-bin/show_pathway?hsa04530
+1166,,19177,UniProt,,Protein modification; protein glycosylation.,,
+15699,,19177,KEGG,path:hsa00514,Other types of O-glycan biosynthesis,,http://www.kegg.jp/kegg-bin/show_pathway?hsa00514
+15722,,19177,KEGG,path:hsa00515,Mannose type O-glycan biosynthesis,,http://www.kegg.jp/kegg-bin/show_pathway?hsa00515
+19579,,19177,KEGG,path:hsa01100,Metabolic pathways,,http://www.kegg.jp/kegg-bin/show_pathway?hsa01100
+78477,,19177,Reactome,R-HSA-5083633,"Defective POMT1 causes MDDGA1, MDDGB1 and MDDGC1",,http://www.reactome.org/content/detail/R-HSA-5083633
+78480,,19177,Reactome,R-HSA-5083629,"Defective POMT2 causes MDDGA2, MDDGB2 and MDDGC2",,http://www.reactome.org/content/detail/R-HSA-5083629
+81475,,19177,Reactome,R-HSA-1643685,Disease,,http://www.reactome.org/content/detail/R-HSA-1643685
+81966,,19177,Reactome,R-HSA-3906995,Diseases associated with O-glycosylation of proteins,,http://www.reactome.org/content/detail/R-HSA-3906995
+82282,,19177,Reactome,R-HSA-3781865,Diseases of glycosylation,,http://www.reactome.org/content/detail/R-HSA-3781865
+118408,,19177,Reactome,R-HSA-392499,Metabolism of proteins,,http://www.reactome.org/content/detail/R-HSA-392499
+126580,,19177,Reactome,R-HSA-5173105,O-linked glycosylation,,http://www.reactome.org/content/detail/R-HSA-5173105
+133093,,19177,Reactome,R-HSA-597592,Post-translational protein modification,,http://www.reactome.org/content/detail/R-HSA-597592
+,,,,,0,,
