@@ -1,0 +1,56 @@
+
+CREATE CONSTRAINT disease_mondoid FOR (d:Disease) REQUIRE d.mondoid is UNIQUE;
+
+LOAD CSV WITH HEADERS FROM "file:///vitamin_kg/mondo.csv" AS row
+MERGE (:Disease {mondoid: row.mondoid, name: row.name});
+
+// MERGE (:Disease {mondoid: row.mondoid, name: row.name, definition:row.def});
+
+CREATE CONSTRAINT protein_id_u IF NOT EXISTS FOR (p:Protein) REQUIRE p.protein_id is UNIQUE;
+
+LOAD CSV WITH HEADERS FROM "file:///vitamin_kg/protein.csv" AS row
+MERGE(p:Protein {protein_id: row.protein_id, name: row.protein_name});
+
+LOAD CSV WITH HEADERS FROM "file:///vitamin_kg/disease_protein.csv" as row
+MATCH (protein:Protein {protein_id:row.protein_id})
+MATCH (disease:Disease {mondoid:row.mondoid})
+MERGE (protein)-[:Protein_Disease{ z_score:coalesce(row.zscore,""),conf:coalesce(row.conf,"")}]->(disease);
+
+CREATE CONSTRAINT vitamin_id_u FOR (v:Vitamin) REQUIRE v.vitamin_id is UNIQUE;
+
+LOAD CSV WITH HEADERS FROM "file:///vitamin_kg/vitamin.csv" AS row
+MERGE (:Vitamin {vitamin_id: row.Vitamin_id, name: row.Vitamin_name});
+
+// Alert: Currently protein id is named as id in this csv file! Change it later!
+
+LOAD CSV WITH HEADERS FROM "file:///vitamin_kg/vitamin_protein_cat.csv" AS row
+MATCH(p:Protein{protein_id:row.id})
+MATCH(v:Vitamin{vitamin_id:row.Vitamin_id})
+FOREACH(name IN (CASE WHEN row.Category = "Ligand" THEN ["Ligand"] ELSE [] END) |
+    MERGE(v)-[:Ligand]->(p)
+)
+FOREACH(name IN (CASE WHEN row.Category = "Biological process" THEN ["Bio_Process"] ELSE [] END) |
+    MERGE(v)-[:Bio_Process{description:row.description,category:row.Category}]->(p)
+);
+
+
+CREATE CONSTRAINT drug_id_u FOR (d:Drug) REQUIRE d.drug_id is UNIQUE;
+
+LOAD CSV WITH HEADERS FROM "file:///vitamin_kg/drug.csv" AS row
+MERGE(:Drug{drug_id:row.drug_id,name:row.drug_name});
+
+LOAD CSV WITH HEADERS FROM "file:///vitamin_kg/drug_protein.csv" AS row
+MATCH(protein:Protein{protein_id:row.protein_id})
+MATCH(drug:Drug{drug_id:row.drug_id})
+MERGE((protein)-[:Protein_Drug{bio_act: coalesce(row.act_type,""),
+                               act_value: coalesce(row.act_value, "")}]->(drug)) ;
+
+CREATE CONSTRAINT metabolite_id_u FOR (m:Metabolite) REQUIRE m.metabolite_id is UNIQUE;
+
+LOAD CSV WITH HEADERS FROM "file:///vitamin_kg/metabolite.csv" AS row
+MERGE(:Metabolite{metabolite_id:row.metabolite_id,name:row.metabolite_name});
+
+LOAD CSV WITH HEADERS FROM "file:///vitamin_kg/metabolite_protein.csv" AS row
+MATCH(protein:Protein{protein_id:row.protein_id})
+MATCH(metabolite:Metabolite{metabolite_id:row.metabolite_id})
+MERGE((metabolite)-[:Metabolite_Protein]->(protein));
