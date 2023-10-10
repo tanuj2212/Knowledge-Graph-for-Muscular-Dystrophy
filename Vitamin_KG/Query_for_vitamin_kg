@@ -1,4 +1,3 @@
-
 CREATE CONSTRAINT disease_mondoid FOR (d:Disease) REQUIRE d.mondoid is UNIQUE;
 
 LOAD CSV WITH HEADERS FROM "file:///vitamin_kg/mondo.csv" AS row
@@ -21,7 +20,6 @@ CREATE CONSTRAINT vitamin_id_u FOR (v:Vitamin) REQUIRE v.vitamin_id is UNIQUE;
 LOAD CSV WITH HEADERS FROM "file:///vitamin_kg/vitamin.csv" AS row
 MERGE (:Vitamin {vitamin_id: row.Vitamin_id, name: row.Vitamin_name});
 
-// Alert: Currently protein id is named as id in this csv file! Change it later!
 
 LOAD CSV WITH HEADERS FROM "file:///vitamin_kg/vitamin_protein_cat.csv" AS row
 MATCH(p:Protein{protein_id:row.id})
