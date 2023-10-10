@@ -1,0 +1,724 @@
+protein_id,name,pwtype,pathway_id
+11193,PI3K-Akt signaling pathway,KEGG,1
+11193,ECM-receptor interaction,KEGG,2
+11193,Focal adhesion,KEGG,3
+11193,Dilated cardiomyopathy (DCM),KEGG,4
+11193,Viral myocarditis,KEGG,5
+11193,Arrhythmogenic right ventricular cardiomyopathy (ARVC),KEGG,6
+11193,Small cell lung cancer,KEGG,7
+11193,Hypertrophic cardiomyopathy (HCM),KEGG,8
+11193,Amoebiasis,KEGG,9
+11193,Toxoplasmosis,KEGG,10
+11193,Pathways in cancer,KEGG,11
+11193,Human papillomavirus infection,KEGG,12
+11193,Integrin signalling pathway,PathwayCommons: panther,13
+11193,Beta1 integrin cell surface interactions,PathwayCommons: pid,14
+11193,Alpha6Beta4Integrin,PathwayCommons: netpath,15
+11193,Alpha6 beta4 integrin-ligand interactions,PathwayCommons: pid,16
+11193,a6b1 and a6b4 Integrin signaling,PathwayCommons: pid,17
+11193,ECM proteoglycans,Reactome,18
+11193,Extracellular matrix organization,Reactome,19
+11193,Laminin interactions,Reactome,20
+11193,MET activates PTK2 signaling,Reactome,21
+11193,MET promotes cell motility,Reactome,22
+11193,Non-integrin membrane-ECM interactions,Reactome,23
+11193,Signal Transduction,Reactome,24
+11193,Signaling by MET,Reactome,25
+11193,Signaling by Receptor Tyrosine Kinases,Reactome,26
+11193,Focal Adhesion,WikiPathways,27
+11193,Arrhythmogenic Right Ventricular Cardiomyopathy,WikiPathways,28
+11193,Alpha 6 Beta 4 signaling pathway,WikiPathways,29
+11193,Focal Adhesion-PI3K-Akt-mTOR-signaling pathway,WikiPathways,30
+11193,PI3K-Akt Signaling Pathway,WikiPathways,31
+11193,Viral Acute Myocarditis,WikiPathways,32
+11193,Small cell lung cancer,WikiPathways,33
+8327,Selenium Micronutrient Network,WikiPathways,34
+8327,Selenium Metabolism and Selenoproteins,WikiPathways,35
+8327,Folate Metabolism,WikiPathways,36
+8327,Oxidative Stress,WikiPathways,37
+8327,Effects of Nitric Oxide,WikiPathways,38
+8327,Purine metabolism,WikiPathways,39
+8327,Molybdenum cofactor (Moco) biosynthesis,WikiPathways,40
+15595,Glycerophospholipid metabolism,KEGG,41
+15595,Cholinergic synapse,KEGG,42
+15595,Muscarinic acetylcholine receptor 1 and 3 signaling pathway,PathwayCommons: panther,43
+15595,Muscarinic acetylcholine receptor 2 and 4 signaling pathway,PathwayCommons: panther,44
+15595,Nicotinic acetylcholine receptor signaling pathway,PathwayCommons: panther,45
+15595,ATF-2 transcription factor network,PathwayCommons: pid,46
+15595,Glycerophospholipid biosynthesis,Reactome,47
+15595,Metabolism,Reactome,48
+15595,Metabolism of lipids,Reactome,49
+15595,Metabolism of proteins,Reactome,50
+15595,Neuronal System,Reactome,51
+15595,Neurotransmitter clearance,Reactome,52
+15595,Peptide hormone metabolism,Reactome,53
+15595,Phospholipid metabolism,Reactome,54
+15595,Synthesis of PC,Reactome,55
+15595,"Synthesis, secretion, and deacylation of Ghrelin",Reactome,56
+15595,Transmission across Chemical Synapses,Reactome,57
+15595,Melatonin metabolism and effects,WikiPathways,58
+15595,Dual hijack model of Vif in HIV infection,WikiPathways,59
+15595,Corticotropin-releasing hormone signaling pathway,WikiPathways,60
+15595,Acetylcholine Synthesis,WikiPathways,61
+15595,Endothelin Pathways,WikiPathways,62
+15595,Biogenic Amine Synthesis,WikiPathways,63
+15595,Monoamine Transport,WikiPathways,64
+17341,Muscarinic acetylcholine receptor 1 and 3 signaling pathway,PathwayCommons: panther,65
+17341,Muscarinic acetylcholine receptor 2 and 4 signaling pathway,PathwayCommons: panther,66
+17341,Nicotinic acetylcholine receptor signaling pathway,PathwayCommons: panther,67
+17341,Glycerophospholipid biosynthesis,Reactome,68
+17341,Metabolism,Reactome,69
+17341,Metabolism of lipids,Reactome,70
+17341,Metabolism of proteins,Reactome,71
+17341,Neuronal System,Reactome,72
+17341,Neurotransmitter clearance,Reactome,73
+17341,Peptide hormone metabolism,Reactome,74
+17341,Phospholipid metabolism,Reactome,75
+17341,Synthesis of PC,Reactome,76
+17341,"Synthesis, secretion, and deacylation of Ghrelin",Reactome,77
+17341,Transmission across Chemical Synapses,Reactome,78
+17341,Heroin metabolism,WikiPathways,79
+17341,Irinotecan Pathway,WikiPathways,80
+17341,Cocaine metabolism,WikiPathways,81
+218,PI3K-Akt signaling pathway,KEGG,82
+218,ECM-receptor interaction,KEGG,83
+218,Focal adhesion,KEGG,84
+218,Protein digestion and absorption,KEGG,85
+218,Human papillomavirus infection,KEGG,86
+218,Inflammation mediated by chemokine and cytokine signaling pathway,PathwayCommons: panther,87
+218,Integrin signalling pathway,PathwayCommons: panther,88
+218,Beta1 integrin cell surface interactions,PathwayCommons: pid,89
+218,Syndecan-1-mediated signaling events,PathwayCommons: pid,90
+218,Integrin signaling pathway ( Integrin signaling pathway ),PathwayCommons: inoh,91
+218,Integrins in angiogenesis,PathwayCommons: pid,92
+218,Assembly of collagen fibrils and other multimeric structures,Reactome,93
+218,Axon guidance,Reactome,94
+218,Collagen biosynthesis and modifying enzymes,Reactome,95
+218,Collagen chain trimerization,Reactome,96
+218,Collagen formation,Reactome,97
+218,Developmental Biology,Reactome,98
+218,Extracellular matrix organization,Reactome,99
+218,NCAM signaling for neurite out-growth,Reactome,100
+218,NCAM1 interactions,Reactome,101
+218,Signal Transduction,Reactome,102
+218,Signaling by PDGF,Reactome,103
+218,Signaling by Receptor Tyrosine Kinases,Reactome,104
+218,miRNA targets in ECM and membrane receptors,WikiPathways,105
+218,Nanoparticle-mediated activation of receptor signaling,WikiPathways,106
+218,Mammary gland development pathway - Puberty (Stage 2 of 4),WikiPathways,107
+218,Simplified Interaction Map Between LOXL4 and Oxidative Stress Pathway,WikiPathways,108
+218,Senescence and Autophagy in Cancer,WikiPathways,109
+218,Inflammatory Response Pathway,WikiPathways,110
+218,Association Between Physico-Chemical Features and Toxicity Associated Pathways,WikiPathways,111
+218,Focal Adhesion-PI3K-Akt-mTOR-signaling pathway,WikiPathways,112
+218,PI3K-Akt Signaling Pathway,WikiPathways,113
+218,Epithelial to mesenchymal transition in colorectal cancer,WikiPathways,114
+218,Small cell lung cancer,WikiPathways,115
+2647,Dilated cardiomyopathy (DCM),KEGG,116
+2647,Viral myocarditis,KEGG,117
+2647,Arrhythmogenic right ventricular cardiomyopathy (ARVC),KEGG,118
+2647,Hypertrophic cardiomyopathy (HCM),KEGG,119
+2647,Extracellular matrix organization,Reactome,120
+2647,Muscle contraction,Reactome,121
+2647,Non-integrin membrane-ECM interactions,Reactome,122
+2647,Striated Muscle Contraction,Reactome,123
+2647,Arrhythmogenic Right Ventricular Cardiomyopathy,WikiPathways,124
+2647,Striated Muscle Contraction Pathway,WikiPathways,125
+2647,Ectoderm Differentiation,WikiPathways,126
+2647,Viral Acute Myocarditis,WikiPathways,127
+5926,Protein modification; protein glycosylation.,UniProt,128
+5926,Mannose type O-glycan biosynthesis,KEGG,129
+5926,Metabolic pathways,KEGG,130
+10554,Protein modification; protein glycosylation.,UniProt,131
+10554,Other types of O-glycan biosynthesis,KEGG,132
+10554,Pre-NOTCH Expression and Processing,Reactome,133
+10554,Pre-NOTCH Processing in the Endoplasmic Reticulum,Reactome,134
+10554,Signal Transduction,Reactome,135
+10554,Signaling by NOTCH,Reactome,136
+3705,EGFR1,PathwayCommons: netpath,137
+3705,Alpha6Beta4Integrin,PathwayCommons: netpath,138
+3705,Apoptosis,Reactome,139
+3705,Apoptotic cleavage of cellular proteins,Reactome,140
+3705,Apoptotic execution phase,Reactome,141
+3705,Assembly of collagen fibrils and other multimeric structures,Reactome,142
+3705,Caspase-mediated cleavage of cytoskeletal proteins,Reactome,143
+3705,Cell junction organization,Reactome,144
+3705,Cell-Cell communication,Reactome,145
+3705,Collagen formation,Reactome,146
+3705,Extracellular matrix organization,Reactome,147
+3705,Programmed Cell Death,Reactome,148
+3705,Type I hemidesmosome assembly,Reactome,149
+3705,Envelope proteins and their potential roles in EDMD physiopathology,WikiPathways,150
+3705,Mechanoregulation and pathology of YAP/TAZ via Hippo and non-Hippo mechanisms,WikiPathways,151
+3705,Pathways Regulating Hippo Signaling,WikiPathways,152
+13093,Focal adhesion,KEGG,153
+13093,Endocytosis,KEGG,154
+13093,Fluid shear stress and atherosclerosis,KEGG,155
+13093,Bacterial invasion of epithelial cells,KEGG,156
+13093,Proteoglycans in cancer,KEGG,157
+13093,PDGFR-alpha signaling pathway,PathwayCommons: pid,158
+13093,Muscle contraction,Reactome,159
+13093,Smooth Muscle Contraction,Reactome,160
+13093,Sudden Infant Death Syndrome (SIDS) Susceptibility Pathways,WikiPathways,161
+13093,Focal Adhesion,WikiPathways,162
+13093,Nuclear Receptors Meta-Pathway,WikiPathways,163
+13093,NRF2 pathway,WikiPathways,164
+13093,Ovarian Infertility Genes,WikiPathways,165
+13093,let-7 inhibition of ES cell reprogramming,WikiPathways,166
+13093,Insulin Signaling,WikiPathways,167
+13093,Oncostatin M Signaling Pathway,WikiPathways,168
+13093,Integrin-mediated Cell Adhesion,WikiPathways,169
+13093,Preimplantation Embryo,WikiPathways,170
+13093,Circadian rhythm related genes,WikiPathways,171
+13093,Human Thyroid Stimulating Hormone (TSH) signaling pathway,WikiPathways,172
+13093,Brain-Derived Neurotrophic Factor (BDNF) signaling pathway,WikiPathways,173
+13093,Ebola Virus Pathway on Host,WikiPathways,174
+13093,VEGFA-VEGFR2 Signaling Pathway,WikiPathways,175
+686,PI3K-Akt signaling pathway,KEGG,176
+686,ECM-receptor interaction,KEGG,177
+686,Focal adhesion,KEGG,178
+686,Protein digestion and absorption,KEGG,179
+686,Human papillomavirus infection,KEGG,180
+686,Inflammation mediated by chemokine and cytokine signaling pathway,PathwayCommons: panther,181
+686,Integrin signalling pathway,PathwayCommons: panther,182
+686,Beta1 integrin cell surface interactions,PathwayCommons: pid,183
+686,Syndecan-1-mediated signaling events,PathwayCommons: pid,184
+686,Integrin signaling pathway ( Integrin signaling pathway ),PathwayCommons: inoh,185
+686,Integrins in angiogenesis,PathwayCommons: pid,186
+686,Assembly of collagen fibrils and other multimeric structures,Reactome,187
+686,Axon guidance,Reactome,188
+686,Collagen biosynthesis and modifying enzymes,Reactome,189
+686,Collagen chain trimerization,Reactome,190
+686,Collagen formation,Reactome,191
+686,Developmental Biology,Reactome,192
+686,Extracellular matrix organization,Reactome,193
+686,NCAM signaling for neurite out-growth,Reactome,194
+686,NCAM1 interactions,Reactome,195
+686,Signal Transduction,Reactome,196
+686,Signaling by PDGF,Reactome,197
+686,Signaling by Receptor Tyrosine Kinases,Reactome,198
+686,Focal Adhesion,WikiPathways,199
+686,miRNA targets in ECM and membrane receptors,WikiPathways,200
+686,Focal Adhesion-PI3K-Akt-mTOR-signaling pathway,WikiPathways,201
+686,PI3K-Akt Signaling Pathway,WikiPathways,202
+6293,JAK-STAT signaling pathway,KEGG,203
+6293,Notch,PathwayCommons: netpath,204
+6293,Notch Signaling Pathway,WikiPathways,205
+6293,Prader-Willi and Angelman Syndrome,WikiPathways,206
+6293,Structural Pathway of Interleukin 1 (IL-1),WikiPathways,207
+6293,Canonical  and Non-canonical Notch signaling,WikiPathways,208
+6293,Mesodermal Commitment Pathway,WikiPathways,209
+6293,PPAR Alpha Pathway,WikiPathways,210
+6293,PTF1A related regulatory pathway,WikiPathways,211
+6293,IL17 signaling pathway,WikiPathways,212
+6293,Oncostatin M Signaling Pathway,WikiPathways,213
+6293,ncRNAs involved in Wnt signaling in hepatocellular carcinoma,WikiPathways,214
+6293,Notch Signaling,WikiPathways,215
+6293,Ectoderm Differentiation,WikiPathways,216
+6293,Preimplantation Embryo,WikiPathways,217
+6293,Mammary gland development pathway - Puberty (Stage 2 of 4),WikiPathways,218
+6293,MAPK Signaling Pathway,WikiPathways,219
+6293,Prolactin Signaling Pathway,WikiPathways,220
+6293,PDGFR-beta pathway,WikiPathways,221
+6293,Endometrial cancer,WikiPathways,222
+6293,G1 to S cell cycle control,WikiPathways,223
+6293,Integrated Cancer Pathway,WikiPathways,224
+6293,Signaling Pathways in Glioblastoma,WikiPathways,225
+6293,Association Between Physico-Chemical Features and Toxicity Associated Pathways,WikiPathways,226
+6293,Cell Cycle,WikiPathways,227
+6293,Apoptosis,WikiPathways,228
+6293,IL-6 signaling pathway,WikiPathways,229
+6293,p38 MAPK Signaling Pathway,WikiPathways,230
+6293,Aryl Hydrocarbon Receptor,WikiPathways,231
+6293,Wnt Signaling,WikiPathways,232
+6293,Retinoblastoma Gene in Cancer,WikiPathways,233
+6293,Pathways Affected in Adenoid Cystic Carcinoma,WikiPathways,234
+6293,miRNA regulation of prostate cancer signaling pathways,WikiPathways,235
+6293,Human Thyroid Stimulating Hormone (TSH) signaling pathway,WikiPathways,236
+6293,EPO Receptor Signaling,WikiPathways,237
+6293,Brain-Derived Neurotrophic Factor (BDNF) signaling pathway,WikiPathways,238
+6293,Androgen receptor signaling pathway,WikiPathways,239
+6293,Hedgehog Signaling Pathway,WikiPathways,240
+6293,ErbB Signaling Pathway,WikiPathways,241
+6293,Interleukin-11 Signaling Pathway,WikiPathways,242
+6293,Vitamin D Receptor Pathway,WikiPathways,243
+6293,Focal Adhesion-PI3K-Akt-mTOR-signaling pathway,WikiPathways,244
+6293,IL-4 Signaling Pathway,WikiPathways,245
+6293,Wnt Signaling Pathway,WikiPathways,246
+6293,IL-3 Signaling Pathway,WikiPathways,247
+6293,T-Cell antigen Receptor (TCR)  Signaling Pathway,WikiPathways,248
+6293,VEGFA-VEGFR2 Signaling Pathway,WikiPathways,249
+6293,LncRNA involvement in canonical Wnt signaling and colorectal cancer,WikiPathways,250
+6293,Pancreatic adenocarcinoma pathway,WikiPathways,251
+6293,PI3K-Akt Signaling Pathway,WikiPathways,252
+6293,Non-small cell lung cancer,WikiPathways,253
+6293,Breast cancer pathway,WikiPathways,254
+6293,The human immune response to tuberculosis,WikiPathways,255
+6293,Transcriptional cascade regulating adipogenesis,WikiPathways,256
+6293,Chromosomal and microsatellite instability in colorectal cancer ,WikiPathways,257
+6293,Epithelial to mesenchymal transition in colorectal cancer,WikiPathways,258
+6293,Viral Acute Myocarditis,WikiPathways,259
+6293,Hepatitis B infection,WikiPathways,260
+6293,Hippo-Merlin Signaling Dysregulation,WikiPathways,261
+6293,Regulatory circuits of the STAT3 signaling pathway,WikiPathways,262
+6293,Small cell lung cancer,WikiPathways,263
+8767,Cell Cycle,Reactome,264
+8767,Meiosis,Reactome,265
+8767,Meiotic synapsis,Reactome,266
+8767,Reproduction,Reactome,267
+8767,Envelope proteins and their potential roles in EDMD physiopathology,WikiPathways,268
+9992,Protein modification; protein glycosylation.,UniProt,269
+9992,Mannose type O-glycan biosynthesis,KEGG,270
+9992,Metabolic pathways,KEGG,271
+9992,"Defective POMGNT1 causes MDDGA3, MDDGB3 and MDDGC3",Reactome,272
+9992,Disease,Reactome,273
+9992,Diseases associated with O-glycosylation of proteins,Reactome,274
+9992,Diseases of glycosylation,Reactome,275
+9992,Metabolism of proteins,Reactome,276
+9992,O-linked glycosylation,Reactome,277
+9992,Post-translational protein modification,Reactome,278
+11901,Integrin signalling pathway,PathwayCommons: panther,279
+11901,Integrin-linked kinase signaling,PathwayCommons: pid,280
+11901,Cell junction organization,Reactome,281
+11901,Cell-Cell communication,Reactome,282
+11901,Cell-extracellular matrix interactions,Reactome,283
+2724,Dilated cardiomyopathy (DCM),KEGG,284
+2724,Arrhythmogenic right ventricular cardiomyopathy (ARVC),KEGG,285
+2724,Hypertrophic cardiomyopathy (HCM),KEGG,286
+2724,Aurora B signaling,PathwayCommons: pid,287
+2724,Muscle contraction,Reactome,288
+2724,Striated Muscle Contraction,Reactome,289
+2724,Arrhythmogenic Right Ventricular Cardiomyopathy,WikiPathways,290
+2724,Myometrial Relaxation and Contraction Pathways,WikiPathways,291
+2724,Alpha 6 Beta 4 signaling pathway,WikiPathways,292
+2724,Regulation of Actin Cytoskeleton,WikiPathways,293
+2724,Regulation of Apoptosis by Parathyroid Hormone-related Protein,WikiPathways,294
+2724,Striated Muscle Contraction Pathway,WikiPathways,295
+2724,Integrin-mediated Cell Adhesion,WikiPathways,296
+2724,MAPK Signaling Pathway,WikiPathways,297
+2724,Pathogenic Escherichia coli infection,WikiPathways,298
+2724,Common Pathways Underlying Drug Addiction,WikiPathways,299
+2724,Fas Ligand (FasL) pathway and Stress induction of Heat Shock Proteins (HSP) regulation,WikiPathways,300
+2724,Ebola Virus Pathway on Host,WikiPathways,301
+2724,Focal Adhesion-PI3K-Akt-mTOR-signaling pathway,WikiPathways,302
+2724,PI3K-Akt Signaling Pathway,WikiPathways,303
+2724,Thermogenesis,WikiPathways,304
+2724,Hippo-Merlin Signaling Dysregulation,WikiPathways,305
+2724,Mechanoregulation and pathology of YAP/TAZ via Hippo and non-Hippo mechanisms,WikiPathways,306
+2724,Small cell lung cancer,WikiPathways,307
+6625,Protein modification; protein glycosylation.,UniProt,308
+6625,Mannose type O-glycan biosynthesis,KEGG,309
+6625,Metabolic pathways,KEGG,310
+4155,Protein modification; protein glycosylation.,UniProt,311
+4155,Mannose type O-glycan biosynthesis,KEGG,312
+4155,Metabolic pathways,KEGG,313
+9488,Dilated cardiomyopathy (DCM),KEGG,314
+9488,Viral myocarditis,KEGG,315
+9488,Arrhythmogenic right ventricular cardiomyopathy (ARVC),KEGG,316
+9488,Hypertrophic cardiomyopathy (HCM),KEGG,317
+9488,Arrhythmogenic Right Ventricular Cardiomyopathy,WikiPathways,318
+9488,Viral Acute Myocarditis,WikiPathways,319
+8285,Dilated cardiomyopathy (DCM),KEGG,320
+8285,Viral myocarditis,KEGG,321
+8285,Arrhythmogenic right ventricular cardiomyopathy (ARVC),KEGG,322
+8285,Hypertrophic cardiomyopathy (HCM),KEGG,323
+8285,Arrhythmogenic Right Ventricular Cardiomyopathy,WikiPathways,324
+8285,miRNA targets in ECM and membrane receptors,WikiPathways,325
+8285,Integrin-mediated Cell Adhesion,WikiPathways,326
+8285,Focal Adhesion-PI3K-Akt-mTOR-signaling pathway,WikiPathways,327
+8285,VEGFA-VEGFR2 Signaling Pathway,WikiPathways,328
+8285,PI3K-Akt Signaling Pathway,WikiPathways,329
+8285,Viral Acute Myocarditis,WikiPathways,330
+8285,Hippo-Merlin Signaling Dysregulation,WikiPathways,331
+8285,Mechanoregulation and pathology of YAP/TAZ via Hippo and non-Hippo mechanisms,WikiPathways,332
+9140,Muscle contraction,Reactome,333
+9140,Striated Muscle Contraction,Reactome,334
+9140,Striated Muscle Contraction Pathway,WikiPathways,335
+17836,Nucleotide-sugar biosynthesis; GDP-alpha-D-mannose biosynthesis; GDP-alpha-D-mannose from alpha-D-mannose 1-phosphate (GTP route): step 1/1.,UniProt,336
+17836,Fructose and mannose metabolism,KEGG,337
+17836,Metabolic pathways,KEGG,338
+17836,Amino sugar and nucleotide sugar metabolism,KEGG,339
+17836,Mannose metabolism,PathwayCommons: panther,340
+17836,colanic acid building blocks biosynthesis,PathwayCommons: humancyc,341
+17836,Fructose and Mannose metabolism ( Fructose and Mannose metabolism ),PathwayCommons: inoh,342
+17836,GDP-mannose biosynthesis,PathwayCommons: humancyc,343
+17836,Asparagine N-linked glycosylation,Reactome,344
+17836,"Biosynthesis of the N-glycan precursor (dolichol lipid-linked oligosaccharide, LLO) and transfer to a nascent protein",Reactome,345
+17836,Metabolism of proteins,Reactome,346
+17836,Post-translational protein modification,Reactome,347
+17836,Synthesis of GDP-mannose,Reactome,348
+17836,Synthesis of substrates in N-glycan biosythesis,Reactome,349
+17836,Glycosylation and related congenital defects,WikiPathways,350
+13034,Huntington disease,PathwayCommons: panther,351
+13034,Degradation of the extracellular matrix,Reactome,352
+13034,Extracellular matrix organization,Reactome,353
+13034,Integrin-mediated Cell Adhesion,WikiPathways,354
+13034,Novel intracellular components of RIG-I-like receptor (RLR) pathway,WikiPathways,355
+13034,MAPK Cascade,WikiPathways,356
+13034,MAPK Signaling Pathway,WikiPathways,357
+13034,Circadian rhythm related genes,WikiPathways,358
+13034,G13 Signaling Pathway,WikiPathways,359
+13034,Oxidative Stress,WikiPathways,360
+13034,Apoptosis,WikiPathways,361
+13034,Cannabinoid receptor signaling,WikiPathways,362
+13034,Brain-Derived Neurotrophic Factor (BDNF) signaling pathway,WikiPathways,363
+13034,Wnt Signaling in Kidney Disease,WikiPathways,364
+13034,ErbB Signaling Pathway,WikiPathways,365
+13034,Pancreatic adenocarcinoma pathway,WikiPathways,366
+13034,Chromosomal and microsatellite instability in colorectal cancer ,WikiPathways,367
+13034,Ras Signaling,WikiPathways,368
+13034,Hepatitis B infection,WikiPathways,369
+13034,Translation inhibitors in chronically activated PDGFRA cells,WikiPathways,370
+13034,Regulatory circuits of the STAT3 signaling pathway,WikiPathways,371
+13034,Mechanoregulation and pathology of YAP/TAZ via Hippo and non-Hippo mechanisms,WikiPathways,372
+1138,Muscle contraction,Reactome,373
+1138,Smooth Muscle Contraction,Reactome,374
+5486,Protein modification; protein glycosylation.,UniProt,375
+5486,Mannose type O-glycan biosynthesis,KEGG,376
+5486,Metabolic pathways,KEGG,377
+5486,Pentose and glucuronate interconversions,KEGG,378
+8639,Cell Cycle,Reactome,379
+8639,Meiosis,Reactome,380
+8639,Meiotic synapsis,Reactome,381
+8639,Reproduction,Reactome,382
+8639,Ovarian Infertility Genes,WikiPathways,383
+8639,DNA IR-damage and cellular response via ATR,WikiPathways,384
+8639,DNA Damage Response (only ATM dependent),WikiPathways,385
+8639,ATM Signaling Network in Development and Disease ,WikiPathways,386
+8639,miRNA Regulation of DNA Damage Response,WikiPathways,387
+8639,Hematopoietic Stem Cell Gene Regulation by GABP alpha/beta Complex,WikiPathways,388
+8639,DNA IR-Double Strand Breaks (DSBs) and cellular response via ATM,WikiPathways,389
+8639,Follicle Stimulating Hormone (FSH) signaling pathway,WikiPathways,390
+8639,G1 to S cell cycle control,WikiPathways,391
+8639,Integrated Cancer Pathway,WikiPathways,392
+8639,"GPCRs, Other",WikiPathways,393
+8639,Signaling Pathways in Glioblastoma,WikiPathways,394
+8639,Cell Cycle,WikiPathways,395
+8639,Pathways Affected in Adenoid Cystic Carcinoma,WikiPathways,396
+8639,DDX1 as a regulatory component of the Drosha microprocessor,WikiPathways,397
+8639,Peptide GPCRs,WikiPathways,398
+8639,Homologous recombination,WikiPathways,399
+8639,Breast cancer pathway,WikiPathways,400
+8639,Rett syndrome causing genes,WikiPathways,401
+8639,Envelope proteins and their potential roles in EDMD physiopathology,WikiPathways,402
+8639,Joubert Syndrome,WikiPathways,403
+138,Dilated cardiomyopathy (DCM),KEGG,404
+138,Arrhythmogenic right ventricular cardiomyopathy (ARVC),KEGG,405
+138,Hypertrophic cardiomyopathy (HCM),KEGG,406
+138,Cell Cycle,Reactome,407
+138,"Cell Cycle, Mitotic",Reactome,408
+138,Depolymerisation of the Nuclear Lamina,Reactome,409
+138,Initiation of Nuclear Envelope Reformation,Reactome,410
+138,Insertion of tail-anchored proteins into the endoplasmic reticulum membrane,Reactome,411
+138,M Phase,Reactome,412
+138,Mitotic Anaphase,Reactome,413
+138,Mitotic Metaphase and Anaphase,Reactome,414
+138,Mitotic Prophase,Reactome,415
+138,Nuclear Envelope Breakdown,Reactome,416
+138,Nuclear Envelope Reassembly,Reactome,417
+138,Protein localization,Reactome,418
+138,Arrhythmogenic Right Ventricular Cardiomyopathy,WikiPathways,419
+138,Envelope proteins and their potential roles in EDMD physiopathology,WikiPathways,420
+15986,Ion channel transport,Reactome,421
+15986,Stimuli-sensing channels,Reactome,422
+15986,Transport of small molecules,Reactome,423
+219,PI3K-Akt signaling pathway,KEGG,424
+219,ECM-receptor interaction,KEGG,425
+219,Focal adhesion,KEGG,426
+219,Protein digestion and absorption,KEGG,427
+219,Human papillomavirus infection,KEGG,428
+219,Inflammation mediated by chemokine and cytokine signaling pathway,PathwayCommons: panther,429
+219,Integrin signalling pathway,PathwayCommons: panther,430
+219,Beta1 integrin cell surface interactions,PathwayCommons: pid,431
+219,Syndecan-1-mediated signaling events,PathwayCommons: pid,432
+219,Integrins in angiogenesis,PathwayCommons: pid,433
+219,Assembly of collagen fibrils and other multimeric structures,Reactome,434
+219,Axon guidance,Reactome,435
+219,Collagen biosynthesis and modifying enzymes,Reactome,436
+219,Collagen chain trimerization,Reactome,437
+219,Collagen formation,Reactome,438
+219,Developmental Biology,Reactome,439
+219,Extracellular matrix organization,Reactome,440
+219,NCAM signaling for neurite out-growth,Reactome,441
+219,NCAM1 interactions,Reactome,442
+219,Signal Transduction,Reactome,443
+219,Signaling by PDGF,Reactome,444
+219,Signaling by Receptor Tyrosine Kinases,Reactome,445
+219,miRNA targets in ECM and membrane receptors,WikiPathways,446
+219,Focal Adhesion-PI3K-Akt-mTOR-signaling pathway,WikiPathways,447
+219,PI3K-Akt Signaling Pathway,WikiPathways,448
+8290,Dilated cardiomyopathy (DCM),KEGG,449
+8290,Viral myocarditis,KEGG,450
+8290,Arrhythmogenic right ventricular cardiomyopathy (ARVC),KEGG,451
+8290,Hypertrophic cardiomyopathy (HCM),KEGG,452
+8290,Arrhythmogenic Right Ventricular Cardiomyopathy,WikiPathways,453
+8290,Integrin-mediated Cell Adhesion,WikiPathways,454
+8290,Focal Adhesion-PI3K-Akt-mTOR-signaling pathway,WikiPathways,455
+8290,PI3K-Akt Signaling Pathway,WikiPathways,456
+8290,Viral Acute Myocarditis,WikiPathways,457
+8290,Hippo-Merlin Signaling Dysregulation,WikiPathways,458
+8290,Mechanoregulation and pathology of YAP/TAZ via Hippo and non-Hippo mechanisms,WikiPathways,459
+3179,ECM-receptor interaction,KEGG,460
+3179,Dilated cardiomyopathy (DCM),KEGG,461
+3179,Viral myocarditis,KEGG,462
+3179,Arrhythmogenic right ventricular cardiomyopathy (ARVC),KEGG,463
+3179,Hypertrophic cardiomyopathy (HCM),KEGG,464
+3179,Signaling events mediated by VEGFR1 and VEGFR2,PathwayCommons: pid,465
+3179,Axon guidance,Reactome,466
+3179,"Defective POMGNT1 causes MDDGA3, MDDGB3 and MDDGC3",Reactome,467
+3179,"Defective POMT1 causes MDDGA1, MDDGB1 and MDDGC1",Reactome,468
+3179,"Defective POMT2 causes MDDGA2, MDDGB2 and MDDGC2",Reactome,469
+3179,Developmental Biology,Reactome,470
+3179,Disease,Reactome,471
+3179,Diseases associated with O-glycosylation of proteins,Reactome,472
+3179,Diseases of glycosylation,Reactome,473
+3179,ECM proteoglycans,Reactome,474
+3179,Extracellular matrix organization,Reactome,475
+3179,Metabolism of proteins,Reactome,476
+3179,Non-integrin membrane-ECM interactions,Reactome,477
+3179,O-linked glycosylation,Reactome,478
+3179,Post-translational protein modification,Reactome,479
+3179,Regulation of expression of SLITs and ROBOs,Reactome,480
+3179,Signaling by ROBO receptors,Reactome,481
+3179,Integrated Breast Cancer Pathway,WikiPathways,482
+3179,Primary Focal Segmental Glomerulosclerosis FSGS,WikiPathways,483
+3179,Arrhythmogenic Right Ventricular Cardiomyopathy,WikiPathways,484
+3179,Viral Acute Myocarditis,WikiPathways,485
+3179,Fragile X Syndrome ,WikiPathways,486
+13773,Protein modification; protein glycosylation.,UniProt,487
+13773,Mannose type O-glycan biosynthesis,KEGG,488
+13773,Metabolic pathways,KEGG,489
+13773,Metabolism of proteins,Reactome,490
+13773,O-linked glycosylation,Reactome,491
+13773,Post-translational protein modification,Reactome,492
+224,Protein modification; protein glycosylation.,UniProt,493
+224,N-Glycan biosynthesis,KEGG,494
+224,Metabolic pathways,KEGG,495
+224,dolichyl-diphosphooligosaccharide biosynthesis,PathwayCommons: humancyc,496
+224,Asparagine N-linked glycosylation,Reactome,497
+224,"Biosynthesis of the N-glycan precursor (dolichol lipid-linked oligosaccharide, LLO) and transfer to a nascent protein",Reactome,498
+224,Defective DPM1 causes DPM1-CDG (CDG-1e),Reactome,499
+224,Defective DPM2 causes DPM2-CDG (CDG-1u),Reactome,500
+224,Defective DPM3 causes DPM3-CDG (CDG-1o),Reactome,501
+224,Disease,Reactome,502
+224,Diseases associated with glycosylation precursor biosynthesis,Reactome,503
+224,Diseases of glycosylation,Reactome,504
+224,Metabolism of proteins,Reactome,505
+224,Post-translational modification: synthesis of GPI-anchored proteins,Reactome,506
+224,Post-translational protein modification,Reactome,507
+224,Synthesis of dolichyl-phosphate mannose,Reactome,508
+224,Synthesis of substrates in N-glycan biosythesis,Reactome,509
+224,Glycosylation and related congenital defects,WikiPathways,510
+1881,Attenuation phase,Reactome,511
+1881,Cellular response to heat stress,Reactome,512
+1881,Cellular responses to external stimuli,Reactome,513
+1881,Cellular responses to stress,Reactome,514
+1881,HSF1 activation,Reactome,515
+1881,HSF1-dependent transactivation,Reactome,516
+1881,Regulation of HSF1-mediated heat shock response,Reactome,517
+19177,Protein modification; protein glycosylation.,UniProt,518
+19177,Other types of O-glycan biosynthesis,KEGG,519
+19177,Mannose type O-glycan biosynthesis,KEGG,520
+19177,Metabolic pathways,KEGG,521
+19177,"Defective POMT1 causes MDDGA1, MDDGB1 and MDDGC1",Reactome,522
+19177,"Defective POMT2 causes MDDGA2, MDDGB2 and MDDGC2",Reactome,523
+19177,Disease,Reactome,524
+19177,Diseases associated with O-glycosylation of proteins,Reactome,525
+19177,Diseases of glycosylation,Reactome,526
+19177,Metabolism of proteins,Reactome,527
+19177,O-linked glycosylation,Reactome,528
+19177,Post-translational protein modification,Reactome,529
+9963,Protein modification; protein glycosylation.,UniProt,530
+9963,Other types of O-glycan biosynthesis,KEGG,531
+9963,Mannose type O-glycan biosynthesis,KEGG,532
+9963,Metabolic pathways,KEGG,533
+9963,"Defective POMT1 causes MDDGA1, MDDGB1 and MDDGC1",Reactome,534
+9963,"Defective POMT2 causes MDDGA2, MDDGB2 and MDDGC2",Reactome,535
+9963,Disease,Reactome,536
+9963,Diseases associated with O-glycosylation of proteins,Reactome,537
+9963,Diseases of glycosylation,Reactome,538
+9963,Metabolism of proteins,Reactome,539
+9963,O-linked glycosylation,Reactome,540
+9963,Post-translational protein modification,Reactome,541
+9123,Membrane Trafficking,Reactome,542
+9123,RAB GEFs exchange GTP for GDP on RABs,Reactome,543
+9123,Rab regulation of trafficking,Reactome,544
+9123,Vesicle-mediated transport,Reactome,545
+9123,Genes related to primary cilium development (based on CRISPR),WikiPathways,546
+12022,Dilated cardiomyopathy (DCM),KEGG,547
+12022,Arrhythmogenic right ventricular cardiomyopathy (ARVC),KEGG,548
+12022,Hypertrophic cardiomyopathy (HCM),KEGG,549
+12022,Apoptosis,KEGG,550
+12022,FAS signaling pathway,PathwayCommons: panther,551
+12022,Caspase Cascade in Apoptosis,PathwayCommons: pid,552
+12022,Apoptosis,Reactome,553
+12022,Apoptotic cleavage of cellular proteins,Reactome,554
+12022,Apoptotic execution phase,Reactome,555
+12022,Breakdown of the nuclear lamina,Reactome,556
+12022,Cell Cycle,Reactome,557
+12022,"Cell Cycle, Mitotic",Reactome,558
+12022,Depolymerisation of the Nuclear Lamina,Reactome,559
+12022,Deregulated CDK5 triggers multiple neurodegenerative pathways in Alzheimer's disease models,Reactome,560
+12022,Disease,Reactome,561
+12022,Diseases of signal transduction,Reactome,562
+12022,IRE1alpha activates chaperones,Reactome,563
+12022,Initiation of Nuclear Envelope Reformation,Reactome,564
+12022,M Phase,Reactome,565
+12022,Meiosis,Reactome,566
+12022,Meiotic synapsis,Reactome,567
+12022,Metabolism of proteins,Reactome,568
+12022,Mitotic Anaphase,Reactome,569
+12022,Mitotic Metaphase and Anaphase,Reactome,570
+12022,Mitotic Prophase,Reactome,571
+12022,Neurodegenerative Diseases,Reactome,572
+12022,Nuclear Envelope Breakdown,Reactome,573
+12022,Nuclear Envelope Reassembly,Reactome,574
+12022,Oncogenic MAPK signaling,Reactome,575
+12022,Programmed Cell Death,Reactome,576
+12022,Reproduction,Reactome,577
+12022,Signaling by BRAF and RAF fusions,Reactome,578
+12022,Unfolded Protein Response (UPR),Reactome,579
+12022,XBP1(S) activates chaperone genes,Reactome,580
+12022,Arrhythmogenic Right Ventricular Cardiomyopathy,WikiPathways,581
+12022,Adipogenesis,WikiPathways,582
+12022,Regulation of Actin Cytoskeleton,WikiPathways,583
+12022,miRNA targets in ECM and membrane receptors,WikiPathways,584
+12022,Nanoparticle-mediated activation of receptor signaling,WikiPathways,585
+12022,Integrin-mediated Cell Adhesion,WikiPathways,586
+12022,Fas Ligand (FasL) pathway and Stress induction of Heat Shock Proteins (HSP) regulation,WikiPathways,587
+12022,Ebola Virus Pathway on Host,WikiPathways,588
+12022,Lamin A-processing pathway,WikiPathways,589
+12022,PI3K-Akt Signaling Pathway,WikiPathways,590
+12022,Hippo-Merlin Signaling Dysregulation,WikiPathways,591
+1273,Cardiac conduction,Reactome,592
+1273,Ion homeostasis,Reactome,593
+1273,Muscle contraction,Reactome,594
+7626,Dilated cardiomyopathy (DCM),KEGG,595
+7626,Hypertrophic cardiomyopathy (HCM),KEGG,596
+7626,Hemostasis,Reactome,597
+7626,Muscle contraction,Reactome,598
+7626,"Platelet activation, signaling and aggregation",Reactome,599
+7626,Platelet degranulation,Reactome,600
+7626,Response to elevated platelet cytosolic Ca2+,Reactome,601
+7626,Striated Muscle Contraction,Reactome,602
+7626,Striated Muscle Contraction Pathway,WikiPathways,603
+18683,mRNA surveillance pathway,KEGG,604
+18683,Influenza A,KEGG,605
+18683,Disease,Reactome,606
+18683,Gene expression (Transcription),Reactome,607
+18683,Host Interactions with Influenza Factors,Reactome,608
+18683,Infectious disease,Reactome,609
+18683,Influenza Infection,Reactome,610
+18683,Inhibition of Host mRNA Processing and RNA Silencing,Reactome,611
+18683,Metabolism of RNA,Reactome,612
+18683,NS1 Mediated Effects on Host Pathways,Reactome,613
+18683,Processing of Capped Intron-Containing Pre-mRNA,Reactome,614
+18683,Processing of Capped Intronless Pre-mRNA,Reactome,615
+18683,Processing of Intronless Pre-mRNAs,Reactome,616
+18683,RNA Polymerase II Transcription,Reactome,617
+18683,RNA Polymerase II Transcription Termination,Reactome,618
+18683,mRNA 3'-end processing,Reactome,619
+18683,mRNA Splicing,Reactome,620
+18683,mRNA Splicing - Major Pathway,Reactome,621
+18683,mRNA Processing,WikiPathways,622
+16312,Protein modification; protein ubiquitination.,UniProt,623
+16312,Ubiquitin mediated proteolysis,KEGG,624
+16312,TNFalpha,PathwayCommons: netpath,625
+16312,Adaptive Immune System,Reactome,626
+16312,Antigen processing: Ubiquitination & Proteasome degradation,Reactome,627
+16312,Class I MHC mediated antigen processing & presentation,Reactome,628
+16312,Cytosolic sensors of pathogen-associated DNA,Reactome,629
+16312,Immune System,Reactome,630
+16312,Innate Immune System,Reactome,631
+16312,Regulation of innate immune responses to cytosolic DNA,Reactome,632
+9491,Dilated cardiomyopathy (DCM),KEGG,633
+9491,Viral myocarditis,KEGG,634
+9491,Arrhythmogenic right ventricular cardiomyopathy (ARVC),KEGG,635
+9491,Hypertrophic cardiomyopathy (HCM),KEGG,636
+9491,Arrhythmogenic Right Ventricular Cardiomyopathy,WikiPathways,637
+9491,miRNA targets in ECM and membrane receptors,WikiPathways,638
+9491,Integrin-mediated Cell Adhesion,WikiPathways,639
+9491,Focal Adhesion-PI3K-Akt-mTOR-signaling pathway,WikiPathways,640
+9491,PI3K-Akt Signaling Pathway,WikiPathways,641
+9491,Viral Acute Myocarditis,WikiPathways,642
+9491,Hippo-Merlin Signaling Dysregulation,WikiPathways,643
+9491,Mechanoregulation and pathology of YAP/TAZ via Hippo and non-Hippo mechanisms,WikiPathways,644
+18866,Tight junction,KEGG,645
+7069,PI3K-Akt signaling pathway,KEGG,646
+7069,ECM-receptor interaction,KEGG,647
+7069,Focal adhesion,KEGG,648
+7069,Dilated cardiomyopathy (DCM),KEGG,649
+7069,Arrhythmogenic right ventricular cardiomyopathy (ARVC),KEGG,650
+7069,Hypertrophic cardiomyopathy (HCM),KEGG,651
+7069,Regulation of actin cytoskeleton,KEGG,652
+7069,Human papillomavirus infection,KEGG,653
+7069,Integrin signalling pathway,PathwayCommons: panther,654
+7069,Beta1 integrin cell surface interactions,PathwayCommons: pid,655
+7069,Integrin signaling pathway ( Integrin signaling pathway ),PathwayCommons: inoh,656
+7069,Plexin-D1 Signaling,PathwayCommons: pid,657
+7069,Arf6 trafficking events,PathwayCommons: pid,658
+7069,Integrin family cell surface interactions,PathwayCommons: pid,659
+7069,ECM proteoglycans,Reactome,660
+7069,Extracellular matrix organization,Reactome,661
+7069,Integrin cell surface interactions,Reactome,662
+7069,Laminin interactions,Reactome,663
+7069,Focal Adhesion,WikiPathways,664
+7069,Primary Focal Segmental Glomerulosclerosis FSGS,WikiPathways,665
+7069,TGF-beta Signaling Pathway,WikiPathways,666
+7069,Serotonin Transporter Activity,WikiPathways,667
+7069,Arrhythmogenic Right Ventricular Cardiomyopathy,WikiPathways,668
+7069,MFAP5-mediated ovarian cancer cell motility and invasiveness,WikiPathways,669
+7069,Integrin-mediated Cell Adhesion,WikiPathways,670
+7069,Human Complement System,WikiPathways,671
+7069,Osteoblast Signaling,WikiPathways,672
+7069,Osteopontin Signaling,WikiPathways,673
+7069,Ebola Virus Pathway on Host,WikiPathways,674
+7069,Osteoclast Signaling,WikiPathways,675
+7069,Focal Adhesion-PI3K-Akt-mTOR-signaling pathway,WikiPathways,676
+7069,Monoamine Transport,WikiPathways,677
+7069,VEGFA-VEGFR2 Signaling Pathway,WikiPathways,678
+7069,PI3K-Akt Signaling Pathway,WikiPathways,679
+7069,MFAP5 effect on permeability and motility of endothelial cells via cytoskeleton rearrangement,WikiPathways,680
+7069,Hippo-Merlin Signaling Dysregulation,WikiPathways,681
+7069,Mechanoregulation and pathology of YAP/TAZ via Hippo and non-Hippo mechanisms,WikiPathways,682
+226,Protein modification; protein glycosylation.,UniProt,683
+226,N-Glycan biosynthesis,KEGG,684
+226,Metabolic pathways,KEGG,685
+226,dolichyl-diphosphooligosaccharide biosynthesis,PathwayCommons: humancyc,686
+226,Asparagine N-linked glycosylation,Reactome,687
+226,"Biosynthesis of the N-glycan precursor (dolichol lipid-linked oligosaccharide, LLO) and transfer to a nascent protein",Reactome,688
+226,Defective DPM1 causes DPM1-CDG (CDG-1e),Reactome,689
+226,Defective DPM2 causes DPM2-CDG (CDG-1u),Reactome,690
+226,Defective DPM3 causes DPM3-CDG (CDG-1o),Reactome,691
+226,Disease,Reactome,692
+226,Diseases associated with glycosylation precursor biosynthesis,Reactome,693
+226,Diseases of glycosylation,Reactome,694
+226,Metabolism of proteins,Reactome,695
+226,Post-translational modification: synthesis of GPI-anchored proteins,Reactome,696
+226,Post-translational protein modification,Reactome,697
+226,Synthesis of dolichyl-phosphate mannose,Reactome,698
+226,Synthesis of substrates in N-glycan biosythesis,Reactome,699
+226,Glycosylation and related congenital defects,WikiPathways,700
+225,Protein modification; protein glycosylation.,UniProt,701
+225,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis,KEGG,702
+225,N-Glycan biosynthesis,KEGG,703
+225,Metabolic pathways,KEGG,704
+225,Asparagine N-linked glycosylation,Reactome,705
+225,"Biosynthesis of the N-glycan precursor (dolichol lipid-linked oligosaccharide, LLO) and transfer to a nascent protein",Reactome,706
+225,Defective DPM1 causes DPM1-CDG (CDG-1e),Reactome,707
+225,Defective DPM2 causes DPM2-CDG (CDG-1u),Reactome,708
+225,Defective DPM3 causes DPM3-CDG (CDG-1o),Reactome,709
+225,Disease,Reactome,710
+225,Diseases associated with glycosylation precursor biosynthesis,Reactome,711
+225,Diseases of glycosylation,Reactome,712
+225,Metabolism of proteins,Reactome,713
+225,Post-translational modification: synthesis of GPI-anchored proteins,Reactome,714
+225,Post-translational protein modification,Reactome,715
+225,Synthesis of dolichyl-phosphate mannose,Reactome,716
+225,Synthesis of glycosylphosphatidylinositol (GPI),Reactome,717
+225,Synthesis of substrates in N-glycan biosythesis,Reactome,718
+225,Glycosylation and related congenital defects,WikiPathways,719
+225,"Classical pathway of steroidogenesis, including diseases",WikiPathways,720
+16524,Envelope proteins and their potential roles in EDMD physiopathology,WikiPathways,721
+16524,Pathways Regulating Hippo Signaling,WikiPathways,722
+16524,Joubert Syndrome,WikiPathways,723

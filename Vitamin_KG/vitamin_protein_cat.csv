@@ -1,0 +1,53 @@
+Vitamin_id,Vitamin_name,id,name,description,Category,geneid
+2,Vitamin A,10026,RET1_HUMAN,Retinol-binding protein 1,Ligand,5947
+2,Vitamin A,19436,KLOT_HUMAN,Klotho,Ligand,9365
+2,Vitamin A,12634,MMAC_HUMAN,Methylmalonic aciduria and homocystinuria type C protein,Ligand,25974
+2,Vitamin A,8441,S100G_HUMAN,Protein S100-G,Ligand,795
+2,Vitamin A,10814,RABP1_HUMAN,Cellular retinoic acid-binding protein 1,Ligand,1381
+2,Vitamin A,10117,RET2_HUMAN,Retinol-binding protein 2,Ligand,5948
+2,Vitamin A,10144,RET5_HUMAN,Retinol-binding protein 5,Ligand,83758
+2,Vitamin A,10169,RET4_HUMAN,Retinol-binding protein 4,Ligand,5950
+2,Vitamin A,10170,RET7_HUMAN,Retinoid-binding protein 7,Ligand,116362
+2,Vitamin A,19890,MUTA_HUMAN,"Methylmalonyl-CoA mutase, mitochondrial",Ligand,4594
+2,Vitamin A,94,CUBN_HUMAN,Cubilin,Ligand,8029
+2,Vitamin A,16560,STRA6_HUMAN,Receptor for retinol uptake STRA6,Ligand,64220
+2,Vitamin A,14493,VTDB_HUMAN,Vitamin D-binding protein,Ligand,2638
+2,Vitamin A,13222,CALB1_HUMAN,Calbindin,Ligand,793
+2,Vitamin A,9885,RET3_HUMAN,Retinol-binding protein 3,Ligand,5949
+2,Vitamin A,4518,RLBP1_HUMAN,Retinaldehyde-binding protein 1,Ligand,6017
+2,Vitamin A,8784,TCO1_HUMAN,Transcobalamin-1,Biological process,6947
+2,Vitamin A,8785,TCO2_HUMAN,Transcobalamin-2,Biological process,6948
+2,Vitamin A,19394,IF_HUMAN,Gastric intrinsic factor,Biological process,2694
+2,Vitamin A,10464,RABP2_HUMAN,Cellular retinoic acid-binding protein 2,Ligand,1382
+2,Vitamin A,17464,IRX5_HUMAN,Iroquois-class homeodomain protein IRX-5,Ligand,10265
+2,Vitamin A,7144,METH_HUMAN,Methionine synthase,Ligand,4548
+2,Vitamin A,12293,LMBD1_HUMAN,Probable lysosomal cobalamin transporter,Ligand,55788
+9,Vitamin B12,19890,MUTA_HUMAN,"Methylmalonyl-CoA mutase, mitochondrial",Ligand,4594
+9,Vitamin B12,12634,MMAC_HUMAN,Methylmalonic aciduria and homocystinuria type C protein,Ligand,25974
+9,Vitamin B12,12293,LMBD1_HUMAN,Probable lysosomal cobalamin transporter,Ligand,55788
+9,Vitamin B12,8785,TCO2_HUMAN,Transcobalamin-2,Biological process,6948
+9,Vitamin B12,8784,TCO1_HUMAN,Transcobalamin-1,Biological process,6947
+9,Vitamin B12,94,CUBN_HUMAN,Cubilin,Ligand,8029
+9,Vitamin B12,7144,METH_HUMAN,Methionine synthase,Ligand,4548
+11,Vitamin D,16560,STRA6_HUMAN,Receptor for retinol uptake STRA6,Ligand,64220
+11,Vitamin D,10169,RET4_HUMAN,Retinol-binding protein 4,Ligand,5950
+11,Vitamin D,12293,LMBD1_HUMAN,Probable lysosomal cobalamin transporter,Ligand,55788
+11,Vitamin D,19436,KLOT_HUMAN,Klotho,Ligand,9365
+11,Vitamin D,12634,MMAC_HUMAN,Methylmalonic aciduria and homocystinuria type C protein,Ligand,25974
+11,Vitamin D,8441,S100G_HUMAN,Protein S100-G,Ligand,795
+11,Vitamin D,10117,RET2_HUMAN,Retinol-binding protein 2,Ligand,5948
+11,Vitamin D,10144,RET5_HUMAN,Retinol-binding protein 5,Ligand,83758
+11,Vitamin D,10026,RET1_HUMAN,Retinol-binding protein 1,Ligand,5947
+11,Vitamin D,10170,RET7_HUMAN,Retinoid-binding protein 7,Ligand,116362
+11,Vitamin D,19890,MUTA_HUMAN,"Methylmalonyl-CoA mutase, mitochondrial",Ligand,4594
+11,Vitamin D,4518,RLBP1_HUMAN,Retinaldehyde-binding protein 1,Ligand,6017
+11,Vitamin D,94,CUBN_HUMAN,Cubilin,Ligand,8029
+11,Vitamin D,14493,VTDB_HUMAN,Vitamin D-binding protein,Ligand,2638
+11,Vitamin D,13222,CALB1_HUMAN,Calbindin,Ligand,793
+11,Vitamin D,9885,RET3_HUMAN,Retinol-binding protein 3,Ligand,5949
+11,Vitamin D,7144,METH_HUMAN,Methionine synthase,Ligand,4548
+11,Vitamin D,8784,TCO1_HUMAN,Transcobalamin-1,Biological process,6947
+11,Vitamin D,8785,TCO2_HUMAN,Transcobalamin-2,Biological process,6948
+11,Vitamin D,19394,IF_HUMAN,Gastric intrinsic factor,Biological process,2694
+11,Vitamin D,10464,RABP2_HUMAN,Cellular retinoic acid-binding protein 2,Ligand,1382
+11,Vitamin D,17464,IRX5_HUMAN,Iroquois-class homeodomain protein IRX-5,Ligand,10265
